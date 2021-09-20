@@ -1,0 +1,3 @@
+Расположение анализируемого файла: C:/programm-of-data-analysis-master/Project/Work/Data/flights2.csv
+Папка для сохранения графиков: C:/programm-of-data-analysis-master/Project/Work/Graphics
+Папка для сохранения таблиц: C:/programm-of-data-analysis-master/Project/Work/Output

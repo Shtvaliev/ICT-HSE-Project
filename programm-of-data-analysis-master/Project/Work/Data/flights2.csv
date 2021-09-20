@@ -1,0 +1,2002 @@
+travelCode,userCode,from,to,flightType,price,time,distance,agency,date
+0,0,Recife (PE),Florianopolis (SC),firstClass,1434.38,1.76,676.53,FlyingDrops,09/26/2019
+0,0,Florianopolis (SC),Recife (PE),firstClass,1292.29,1.76,676.53,FlyingDrops,09/30/2019
+1,0,Brasilia (DF),Florianopolis (SC),firstClass,1487.52,1.66,637.56,CloudFy,10/03/2019
+1,0,Florianopolis (SC),Brasilia (DF),firstClass,1127.36,1.66,637.56,CloudFy,10/04/2019
+2,0,Aracaju (SE),Salvador (BH),firstClass,1684.05,2.16,830.86,CloudFy,10/10/2019
+2,0,Salvador (BH),Aracaju (SE),firstClass,1531.92,2.16,830.86,CloudFy,10/12/2019
+3,0,Aracaju (SE),Campo Grande (MS),economic,743.54,1.69,650.1,Rainbow,10/17/2019
+3,0,Campo Grande (MS),Aracaju (SE),economic,877.56,1.69,650.1,Rainbow,10/20/2019
+4,0,Recife (PE),Florianopolis (SC),economic,803.39,1.76,676.53,Rainbow,10/24/2019
+4,0,Florianopolis (SC),Recife (PE),economic,695.3,1.76,676.53,Rainbow,10/26/2019
+5,0,Brasilia (DF),Aracaju (SE),firstClass,1287.52,1.11,425.98,FlyingDrops,10/31/2019
+5,0,Aracaju (SE),Brasilia (DF),firstClass,898.04,1.11,425.98,FlyingDrops,11/01/2019
+6,0,Recife (PE),Florianopolis (SC),premium,1070.54,1.76,676.53,Rainbow,11/07/2019
+6,0,Florianopolis (SC),Recife (PE),premium,1013.4,1.76,676.53,Rainbow,11/10/2019
+7,0,Aracaju (SE),Salvador (BH),economic,964.83,2.16,830.86,CloudFy,11/14/2019
+7,0,Salvador (BH),Aracaju (SE),economic,811.73,2.16,830.86,CloudFy,11/17/2019
+8,0,Recife (PE),Sao Paulo (SP),economic,513.06,1.26,486.52,CloudFy,11/21/2019
+8,0,Sao Paulo (SP),Recife (PE),economic,829.91,1.26,486.52,CloudFy,11/24/2019
+9,0,Brasilia (DF),Campo Grande (MS),economic,583.6,0.72,277.7,CloudFy,11/28/2019
+9,0,Campo Grande (MS),Brasilia (DF),economic,506.56,0.72,277.7,CloudFy,11/30/2019
+10,0,Brasilia (DF),Sao Paulo (SP),firstClass,992.17,0.67,257.81,Rainbow,12/05/2019
+10,0,Sao Paulo (SP),Brasilia (DF),firstClass,824.31,0.67,257.81,Rainbow,12/06/2019
+11,0,Brasilia (DF),Salvador (BH),premium,1268.97,1.76,676.56,Rainbow,12/12/2019
+11,0,Salvador (BH),Brasilia (DF),premium,882.86,1.76,676.56,Rainbow,12/16/2019
+12,0,Brasilia (DF),Aracaju (SE),premium,965.62,1.11,425.98,Rainbow,12/19/2019
+12,0,Aracaju (SE),Brasilia (DF),premium,706.36,1.11,425.98,Rainbow,12/20/2019
+13,0,Recife (PE),Florianopolis (SC),firstClass,1434.38,1.76,676.53,FlyingDrops,12/26/2019
+13,0,Florianopolis (SC),Recife (PE),firstClass,1292.29,1.76,676.53,FlyingDrops,12/27/2019
+14,0,Brasilia (DF),Sao Paulo (SP),firstClass,893.65,0.67,257.81,CloudFy,01/02/2020
+14,0,Sao Paulo (SP),Brasilia (DF),firstClass,742.94,0.67,257.81,CloudFy,01/04/2020
+15,0,Recife (PE),Natal (RN),premium,474.6,0.58,222.67,CloudFy,01/09/2020
+15,0,Natal (RN),Recife (PE),premium,563.23,0.58,222.67,CloudFy,01/11/2020
+16,0,Aracaju (SE),Campo Grande (MS),premium,1021.53,1.69,650.1,CloudFy,01/16/2020
+16,0,Campo Grande (MS),Aracaju (SE),premium,1215.45,1.69,650.1,CloudFy,01/18/2020
+17,0,Recife (PE),Natal (RN),economic,301.51,0.58,222.67,CloudFy,01/23/2020
+17,0,Natal (RN),Recife (PE),economic,429.77,0.58,222.67,CloudFy,01/24/2020
+18,0,Brasilia (DF),Natal (RN),economic,791.66,1.43,550.69,CloudFy,01/30/2020
+18,0,Natal (RN),Brasilia (DF),economic,697.51,1.43,550.69,CloudFy,01/31/2020
+19,0,Recife (PE),Salvador (BH),firstClass,1596.61,2.05,788.55,FlyingDrops,02/06/2020
+19,0,Salvador (BH),Recife (PE),firstClass,1348.04,2.05,788.55,FlyingDrops,02/09/2020
+20,0,Recife (PE),Campo Grande (MS),firstClass,1069.12,1.39,535.4,Rainbow,02/13/2020
+20,0,Campo Grande (MS),Recife (PE),firstClass,1185.95,1.39,535.4,Rainbow,02/17/2020
+21,0,Recife (PE),Salvador (BH),firstClass,1596.61,2.05,788.55,FlyingDrops,02/20/2020
+21,0,Salvador (BH),Recife (PE),firstClass,1348.04,2.05,788.55,FlyingDrops,02/22/2020
+22,0,Brasilia (DF),Aracaju (SE),firstClass,1214.82,1.11,425.98,Rainbow,02/27/2020
+22,0,Aracaju (SE),Brasilia (DF),firstClass,959.29,1.11,425.98,Rainbow,02/29/2020
+23,0,Brasilia (DF),Recife (PE),premium,568.38,0.63,242.21,CloudFy,03/05/2020
+23,0,Recife (PE),Brasilia (DF),premium,573.61,0.63,242.21,CloudFy,03/08/2020
+24,0,Brasilia (DF),Florianopolis (SC),firstClass,1576.97,1.66,637.56,Rainbow,03/12/2020
+24,0,Florianopolis (SC),Brasilia (DF),firstClass,1087.18,1.66,637.56,Rainbow,03/16/2020
+25,0,Aracaju (SE),Sao Paulo (SP),economic,446.73,1.02,392.76,Rainbow,03/19/2020
+25,0,Sao Paulo (SP),Aracaju (SE),economic,647.9,1.02,392.76,Rainbow,03/20/2020
+26,0,Recife (PE),Salvador (BH),premium,1242.65,2.05,788.55,CloudFy,03/26/2020
+26,0,Salvador (BH),Recife (PE),premium,1016.53,2.05,788.55,CloudFy,03/29/2020
+27,0,Aracaju (SE),Brasilia (DF),firstClass,898.04,1.11,425.98,FlyingDrops,04/02/2020
+27,0,Brasilia (DF),Aracaju (SE),firstClass,1287.52,1.11,425.98,FlyingDrops,04/06/2020
+28,0,Aracaju (SE),Natal (RN),premium,427.25,0.46,176.33,Rainbow,04/09/2020
+28,0,Natal (RN),Aracaju (SE),premium,479.37,0.46,176.33,Rainbow,04/13/2020
+29,0,Aracaju (SE),Recife (PE),economic,604.14,1.44,555.74,CloudFy,04/16/2020
+29,0,Recife (PE),Aracaju (SE),economic,684.88,1.44,555.74,CloudFy,04/20/2020
+30,0,Aracaju (SE),Campo Grande (MS),economic,743.54,1.69,650.1,Rainbow,04/23/2020
+30,0,Campo Grande (MS),Aracaju (SE),economic,877.56,1.69,650.1,Rainbow,04/26/2020
+31,0,Aracaju (SE),Rio de Janeiro (RJ),firstClass,1190.94,1.55,597.61,FlyingDrops,04/30/2020
+31,0,Rio de Janeiro (RJ),Aracaju (SE),firstClass,1381.55,1.55,597.61,FlyingDrops,05/04/2020
+32,0,Brasilia (DF),Sao Paulo (SP),firstClass,893.65,0.67,257.81,CloudFy,05/07/2020
+32,0,Sao Paulo (SP),Brasilia (DF),firstClass,742.94,0.67,257.81,CloudFy,05/09/2020
+33,0,Brasilia (DF),Salvador (BH),premium,1346.6,1.76,676.56,CloudFy,05/14/2020
+33,0,Salvador (BH),Brasilia (DF),premium,836.89,1.76,676.56,CloudFy,05/18/2020
+34,0,Aracaju (SE),Sao Paulo (SP),premium,630.34,1.02,392.76,CloudFy,05/21/2020
+34,0,Sao Paulo (SP),Aracaju (SE),premium,906.59,1.02,392.76,CloudFy,05/24/2020
+35,0,Recife (PE),Florianopolis (SC),firstClass,1434.38,1.76,676.53,FlyingDrops,05/28/2020
+35,0,Florianopolis (SC),Recife (PE),firstClass,1292.29,1.76,676.53,FlyingDrops,06/01/2020
+36,0,Recife (PE),Aracaju (SE),firstClass,1181.19,1.44,555.74,Rainbow,06/04/2020
+36,0,Aracaju (SE),Recife (PE),firstClass,1119.47,1.44,555.74,Rainbow,06/06/2020
+37,0,Aracaju (SE),Florianopolis (SC),firstClass,1499.93,2.1,808.85,FlyingDrops,06/11/2020
+37,0,Florianopolis (SC),Aracaju (SE),firstClass,1574.28,2.1,808.85,FlyingDrops,06/15/2020
+38,0,Brasilia (DF),Natal (RN),firstClass,1433.35,1.43,550.69,FlyingDrops,06/18/2020
+38,0,Natal (RN),Brasilia (DF),firstClass,1192.62,1.43,550.69,FlyingDrops,06/20/2020
+39,0,Brasilia (DF),Salvador (BH),economic,958.15,1.76,676.56,CloudFy,06/25/2020
+39,0,Salvador (BH),Brasilia (DF),economic,587.85,1.76,676.56,CloudFy,06/26/2020
+40,0,Brasilia (DF),Rio de Janeiro (RJ),economic,371.04,0.48,183.37,Rainbow,07/02/2020
+40,0,Rio de Janeiro (RJ),Brasilia (DF),economic,364.34,0.48,183.37,Rainbow,07/03/2020
+41,0,Recife (PE),Rio de Janeiro (RJ),firstClass,1706.89,2.3,885.57,FlyingDrops,07/09/2020
+41,0,Rio de Janeiro (RJ),Recife (PE),firstClass,1702.23,2.3,885.57,FlyingDrops,07/13/2020
+42,0,Recife (PE),Campo Grande (MS),premium,832.77,1.39,535.4,Rainbow,07/16/2020
+42,0,Campo Grande (MS),Recife (PE),premium,991.22,1.39,535.4,Rainbow,07/19/2020
+43,0,Recife (PE),Salvador (BH),firstClass,1484.94,2.05,788.55,CloudFy,07/23/2020
+43,0,Salvador (BH),Recife (PE),firstClass,1440.02,2.05,788.55,CloudFy,07/27/2020
+44,0,Recife (PE),Florianopolis (SC),economic,803.39,1.76,676.53,Rainbow,07/30/2020
+44,0,Florianopolis (SC),Recife (PE),economic,695.3,1.76,676.53,Rainbow,08/03/2020
+45,0,Recife (PE),Natal (RN),premium,474.6,0.58,222.67,CloudFy,08/06/2020
+45,0,Natal (RN),Recife (PE),premium,563.23,0.58,222.67,CloudFy,08/07/2020
+46,0,Aracaju (SE),Rio de Janeiro (RJ),firstClass,1183.57,1.55,597.61,CloudFy,08/13/2020
+46,0,Rio de Janeiro (RJ),Aracaju (SE),firstClass,1446.4,1.55,597.61,CloudFy,08/16/2020
+47,0,Brasilia (DF),Sao Paulo (SP),economic,533.8,0.67,257.81,Rainbow,08/20/2020
+47,0,Sao Paulo (SP),Brasilia (DF),economic,393.84,0.67,257.81,Rainbow,08/21/2020
+48,0,Brasilia (DF),Florianopolis (SC),economic,884.94,1.66,637.56,CloudFy,08/27/2020
+48,0,Florianopolis (SC),Brasilia (DF),economic,636.51,1.66,637.56,CloudFy,08/29/2020
+49,0,Brasilia (DF),Rio de Janeiro (RJ),premium,440.69,0.48,183.37,Rainbow,09/03/2020
+49,0,Rio de Janeiro (RJ),Brasilia (DF),premium,435.67,0.48,183.37,Rainbow,09/07/2020
+50,0,Aracaju (SE),Rio de Janeiro (RJ),premium,930.12,1.55,597.61,Rainbow,09/10/2020
+50,0,Rio de Janeiro (RJ),Aracaju (SE),premium,1098.93,1.55,597.61,Rainbow,09/12/2020
+51,0,Recife (PE),Salvador (BH),premium,1242.65,2.05,788.55,CloudFy,09/17/2020
+51,0,Salvador (BH),Recife (PE),premium,1016.53,2.05,788.55,CloudFy,09/18/2020
+52,0,Brasilia (DF),Florianopolis (SC),economic,889.07,1.66,637.56,Rainbow,09/24/2020
+52,0,Florianopolis (SC),Brasilia (DF),economic,555.01,1.66,637.56,Rainbow,09/25/2020
+53,0,Brasilia (DF),Campo Grande (MS),premium,831.7,0.72,277.7,CloudFy,10/01/2020
+53,0,Campo Grande (MS),Brasilia (DF),premium,661.32,0.72,277.7,CloudFy,10/03/2020
+54,0,Aracaju (SE),Sao Paulo (SP),firstClass,730.43,1.02,392.76,CloudFy,10/08/2020
+54,0,Sao Paulo (SP),Aracaju (SE),firstClass,1186.15,1.02,392.76,CloudFy,10/11/2020
+55,0,Recife (PE),Florianopolis (SC),firstClass,1371.83,1.76,676.53,Rainbow,10/15/2020
+55,0,Florianopolis (SC),Recife (PE),firstClass,1175.62,1.76,676.53,Rainbow,10/17/2020
+56,0,Aracaju (SE),Brasilia (DF),firstClass,959.29,1.11,425.98,Rainbow,10/22/2020
+56,0,Brasilia (DF),Aracaju (SE),firstClass,1214.82,1.11,425.98,Rainbow,10/25/2020
+57,0,Recife (PE),Aracaju (SE),premium,932.84,1.44,555.74,CloudFy,10/29/2020
+57,0,Aracaju (SE),Recife (PE),premium,835.21,1.44,555.74,CloudFy,11/02/2020
+58,0,Brasilia (DF),Sao Paulo (SP),premium,698.1,0.67,257.81,CloudFy,11/05/2020
+58,0,Sao Paulo (SP),Brasilia (DF),premium,602.12,0.67,257.81,CloudFy,11/06/2020
+59,0,Aracaju (SE),Salvador (BH),firstClass,1684.05,2.16,830.86,CloudFy,11/12/2020
+59,0,Salvador (BH),Aracaju (SE),firstClass,1531.92,2.16,830.86,CloudFy,11/16/2020
+60,0,Brasilia (DF),Aracaju (SE),firstClass,1214.82,1.11,425.98,Rainbow,11/19/2020
+60,0,Aracaju (SE),Brasilia (DF),firstClass,959.29,1.11,425.98,Rainbow,11/23/2020
+61,0,Aracaju (SE),Natal (RN),economic,332.1,0.46,176.33,CloudFy,11/26/2020
+61,0,Natal (RN),Aracaju (SE),economic,361.68,0.46,176.33,CloudFy,11/27/2020
+62,0,Aracaju (SE),Salvador (BH),firstClass,1684.05,2.16,830.86,CloudFy,12/03/2020
+62,0,Salvador (BH),Aracaju (SE),firstClass,1531.92,2.16,830.86,CloudFy,12/06/2020
+63,0,Brasilia (DF),Natal (RN),firstClass,1434.91,1.43,550.69,Rainbow,12/10/2020
+63,0,Natal (RN),Brasilia (DF),firstClass,1286.63,1.43,550.69,Rainbow,12/12/2020
+64,0,Recife (PE),Salvador (BH),firstClass,1484.94,2.05,788.55,CloudFy,12/17/2020
+64,0,Salvador (BH),Recife (PE),firstClass,1440.02,2.05,788.55,CloudFy,12/19/2020
+65,0,Aracaju (SE),Rio de Janeiro (RJ),economic,717.04,1.55,597.61,CloudFy,12/24/2020
+65,0,Rio de Janeiro (RJ),Aracaju (SE),economic,796.42,1.55,597.61,CloudFy,12/25/2020
+66,0,Recife (PE),Rio de Janeiro (RJ),firstClass,1706.89,2.3,885.57,FlyingDrops,12/31/2020
+66,0,Rio de Janeiro (RJ),Recife (PE),firstClass,1702.23,2.3,885.57,FlyingDrops,01/03/2021
+67,0,Recife (PE),Aracaju (SE),economic,663.23,1.44,555.74,Rainbow,01/07/2021
+67,0,Aracaju (SE),Recife (PE),economic,602.49,1.44,555.74,Rainbow,01/10/2021
+68,0,Recife (PE),Salvador (BH),firstClass,1470.41,2.05,788.55,Rainbow,01/14/2021
+68,0,Salvador (BH),Recife (PE),firstClass,1440.25,2.05,788.55,Rainbow,01/17/2021
+69,0,Recife (PE),Sao Paulo (SP),premium,670.13,1.26,486.52,Rainbow,01/21/2021
+69,0,Sao Paulo (SP),Recife (PE),premium,1145.72,1.26,486.52,Rainbow,01/25/2021
+70,0,Aracaju (SE),Sao Paulo (SP),firstClass,756.3,1.02,392.76,FlyingDrops,01/28/2021
+70,0,Sao Paulo (SP),Aracaju (SE),firstClass,1269.73,1.02,392.76,FlyingDrops,01/29/2021
+71,0,Brasilia (DF),Salvador (BH),firstClass,1724.49,1.76,676.56,FlyingDrops,02/04/2021
+71,0,Salvador (BH),Brasilia (DF),firstClass,1020.08,1.76,676.56,FlyingDrops,02/07/2021
+72,0,Aracaju (SE),Recife (PE),firstClass,1119.47,1.44,555.74,Rainbow,02/11/2021
+72,0,Recife (PE),Aracaju (SE),firstClass,1181.19,1.44,555.74,Rainbow,02/13/2021
+73,0,Aracaju (SE),Brasilia (DF),firstClass,898.04,1.11,425.98,FlyingDrops,02/18/2021
+73,0,Brasilia (DF),Aracaju (SE),firstClass,1287.52,1.11,425.98,FlyingDrops,02/22/2021
+74,0,Recife (PE),Salvador (BH),premium,1242.65,2.05,788.55,CloudFy,02/25/2021
+74,0,Salvador (BH),Recife (PE),premium,1016.53,2.05,788.55,CloudFy,02/26/2021
+75,0,Brasilia (DF),Campo Grande (MS),premium,831.7,0.72,277.7,CloudFy,03/04/2021
+75,0,Campo Grande (MS),Brasilia (DF),premium,661.32,0.72,277.7,CloudFy,03/06/2021
+76,0,Recife (PE),Sao Paulo (SP),economic,513.06,1.26,486.52,CloudFy,03/11/2021
+76,0,Sao Paulo (SP),Recife (PE),economic,829.91,1.26,486.52,CloudFy,03/13/2021
+77,0,Brasilia (DF),Natal (RN),firstClass,1313.76,1.43,550.69,CloudFy,03/18/2021
+77,0,Natal (RN),Brasilia (DF),firstClass,1300.53,1.43,550.69,CloudFy,03/22/2021
+78,0,Brasilia (DF),Natal (RN),firstClass,1313.76,1.43,550.69,CloudFy,03/25/2021
+78,0,Natal (RN),Brasilia (DF),firstClass,1300.53,1.43,550.69,CloudFy,03/26/2021
+79,0,Recife (PE),Natal (RN),firstClass,669.83,0.58,222.67,CloudFy,04/01/2021
+79,0,Natal (RN),Recife (PE),firstClass,744.11,0.58,222.67,CloudFy,04/02/2021
+80,0,Recife (PE),Natal (RN),premium,474.6,0.58,222.67,CloudFy,04/08/2021
+80,0,Natal (RN),Recife (PE),premium,563.23,0.58,222.67,CloudFy,04/12/2021
+81,0,Brasilia (DF),Natal (RN),economic,726.19,1.43,550.69,Rainbow,04/15/2021
+81,0,Natal (RN),Brasilia (DF),economic,686.79,1.43,550.69,Rainbow,04/19/2021
+82,0,Aracaju (SE),Sao Paulo (SP),firstClass,756.3,1.02,392.76,FlyingDrops,04/22/2021
+82,0,Sao Paulo (SP),Aracaju (SE),firstClass,1269.73,1.02,392.76,FlyingDrops,04/25/2021
+83,0,Brasilia (DF),Salvador (BH),firstClass,1665.24,1.76,676.56,Rainbow,04/29/2021
+83,0,Salvador (BH),Brasilia (DF),firstClass,1040.84,1.76,676.56,Rainbow,05/03/2021
+84,0,Brasilia (DF),Salvador (BH),firstClass,1665.24,1.76,676.56,Rainbow,05/06/2021
+84,0,Salvador (BH),Brasilia (DF),firstClass,1040.84,1.76,676.56,Rainbow,05/09/2021
+85,0,Recife (PE),Brasilia (DF),firstClass,721.93,0.63,242.21,Rainbow,05/13/2021
+85,0,Brasilia (DF),Recife (PE),firstClass,772.21,0.63,242.21,Rainbow,05/17/2021
+86,0,Aracaju (SE),Sao Paulo (SP),premium,588.14,1.02,392.76,Rainbow,05/20/2021
+86,0,Sao Paulo (SP),Aracaju (SE),premium,962.54,1.02,392.76,Rainbow,05/23/2021
+87,0,Brasilia (DF),Recife (PE),firstClass,804.24,0.63,242.21,CloudFy,05/27/2021
+87,0,Recife (PE),Brasilia (DF),firstClass,709.25,0.63,242.21,CloudFy,05/28/2021
+88,0,Aracaju (SE),Sao Paulo (SP),economic,446.73,1.02,392.76,Rainbow,06/03/2021
+88,0,Sao Paulo (SP),Aracaju (SE),economic,647.9,1.02,392.76,Rainbow,06/06/2021
+89,1,Recife (PE),Aracaju (SE),premium,932.84,1.44,555.74,CloudFy,09/26/2019
+89,1,Aracaju (SE),Recife (PE),premium,835.21,1.44,555.74,CloudFy,09/28/2019
+90,1,Aracaju (SE),Sao Paulo (SP),premium,630.34,1.02,392.76,CloudFy,10/03/2019
+90,1,Sao Paulo (SP),Aracaju (SE),premium,906.59,1.02,392.76,CloudFy,10/04/2019
+91,1,Aracaju (SE),Salvador (BH),economic,964.83,2.16,830.86,CloudFy,10/10/2019
+91,1,Salvador (BH),Aracaju (SE),economic,811.73,2.16,830.86,CloudFy,10/11/2019
+92,1,Recife (PE),Brasilia (DF),premium,638.63,0.63,242.21,Rainbow,10/17/2019
+92,1,Brasilia (DF),Recife (PE),premium,559.13,0.63,242.21,Rainbow,10/18/2019
+93,1,Brasilia (DF),Florianopolis (SC),economic,884.94,1.66,637.56,CloudFy,10/24/2019
+93,1,Florianopolis (SC),Brasilia (DF),economic,636.51,1.66,637.56,CloudFy,10/25/2019
+94,1,Aracaju (SE),Sao Paulo (SP),firstClass,756.3,1.02,392.76,FlyingDrops,10/31/2019
+94,1,Sao Paulo (SP),Aracaju (SE),firstClass,1269.73,1.02,392.76,FlyingDrops,11/01/2019
+95,2,Aracaju (SE),Rio de Janeiro (RJ),firstClass,1183.57,1.55,597.61,CloudFy,09/26/2019
+95,2,Rio de Janeiro (RJ),Aracaju (SE),firstClass,1446.4,1.55,597.61,CloudFy,09/30/2019
+96,2,Aracaju (SE),Natal (RN),premium,427.25,0.46,176.33,Rainbow,10/03/2019
+96,2,Natal (RN),Aracaju (SE),premium,479.37,0.46,176.33,Rainbow,10/04/2019
+97,2,Brasilia (DF),Natal (RN),firstClass,1433.35,1.43,550.69,FlyingDrops,10/10/2019
+97,2,Natal (RN),Brasilia (DF),firstClass,1192.62,1.43,550.69,FlyingDrops,10/14/2019
+98,2,Aracaju (SE),Natal (RN),economic,332.1,0.46,176.33,CloudFy,10/17/2019
+98,2,Natal (RN),Aracaju (SE),economic,361.68,0.46,176.33,CloudFy,10/21/2019
+99,2,Recife (PE),Sao Paulo (SP),firstClass,883.63,1.26,486.52,CloudFy,10/24/2019
+99,2,Sao Paulo (SP),Recife (PE),firstClass,1533.42,1.26,486.52,CloudFy,10/28/2019
+100,2,Brasilia (DF),Rio de Janeiro (RJ),economic,344.26,0.48,183.37,CloudFy,10/31/2019
+100,2,Rio de Janeiro (RJ),Brasilia (DF),economic,369.57,0.48,183.37,CloudFy,11/04/2019
+101,2,Aracaju (SE),Campo Grande (MS),economic,743.54,1.69,650.1,Rainbow,11/07/2019
+101,2,Campo Grande (MS),Aracaju (SE),economic,877.56,1.69,650.1,Rainbow,11/10/2019
+102,2,Brasilia (DF),Salvador (BH),economic,921.08,1.76,676.56,Rainbow,11/14/2019
+102,2,Salvador (BH),Brasilia (DF),economic,609.83,1.76,676.56,Rainbow,11/18/2019
+103,2,Aracaju (SE),Sao Paulo (SP),economic,446.73,1.02,392.76,Rainbow,11/21/2019
+103,2,Sao Paulo (SP),Aracaju (SE),economic,647.9,1.02,392.76,Rainbow,11/23/2019
+104,2,Recife (PE),Natal (RN),economic,301.51,0.58,222.67,CloudFy,11/28/2019
+104,2,Natal (RN),Recife (PE),economic,429.77,0.58,222.67,CloudFy,11/30/2019
+105,2,Brasilia (DF),Aracaju (SE),economic,654.88,1.11,425.98,CloudFy,12/05/2019
+105,2,Aracaju (SE),Brasilia (DF),economic,472.72,1.11,425.98,CloudFy,12/09/2019
+106,2,Brasilia (DF),Sao Paulo (SP),firstClass,893.65,0.67,257.81,CloudFy,12/12/2019
+106,2,Sao Paulo (SP),Brasilia (DF),firstClass,742.94,0.67,257.81,CloudFy,12/13/2019
+107,2,Aracaju (SE),Natal (RN),premium,427.25,0.46,176.33,Rainbow,12/19/2019
+107,2,Natal (RN),Aracaju (SE),premium,479.37,0.46,176.33,Rainbow,12/22/2019
+108,2,Brasilia (DF),Recife (PE),firstClass,804.24,0.63,242.21,CloudFy,12/26/2019
+108,2,Recife (PE),Brasilia (DF),firstClass,709.25,0.63,242.21,CloudFy,12/29/2019
+109,2,Aracaju (SE),Campo Grande (MS),firstClass,1389.37,1.69,650.1,CloudFy,01/02/2020
+109,2,Campo Grande (MS),Aracaju (SE),firstClass,1581.8,1.69,650.1,CloudFy,01/04/2020
+110,2,Recife (PE),Salvador (BH),premium,1242.65,2.05,788.55,CloudFy,01/09/2020
+110,2,Salvador (BH),Recife (PE),premium,1016.53,2.05,788.55,CloudFy,01/10/2020
+111,2,Recife (PE),Aracaju (SE),firstClass,1181.19,1.44,555.74,Rainbow,01/16/2020
+111,2,Aracaju (SE),Recife (PE),firstClass,1119.47,1.44,555.74,Rainbow,01/18/2020
+112,2,Brasilia (DF),Sao Paulo (SP),premium,698.1,0.67,257.81,CloudFy,01/23/2020
+112,2,Sao Paulo (SP),Brasilia (DF),premium,602.12,0.67,257.81,CloudFy,01/27/2020
+113,2,Aracaju (SE),Brasilia (DF),economic,548.62,1.11,425.98,Rainbow,01/30/2020
+113,2,Brasilia (DF),Aracaju (SE),economic,721.2,1.11,425.98,Rainbow,02/03/2020
+114,2,Recife (PE),Brasilia (DF),firstClass,709.25,0.63,242.21,CloudFy,02/06/2020
+114,2,Brasilia (DF),Recife (PE),firstClass,804.24,0.63,242.21,CloudFy,02/08/2020
+115,2,Recife (PE),Rio de Janeiro (RJ),firstClass,1611.14,2.3,885.57,Rainbow,02/13/2020
+115,2,Rio de Janeiro (RJ),Recife (PE),firstClass,1617.81,2.3,885.57,Rainbow,02/16/2020
+116,2,Aracaju (SE),Campo Grande (MS),economic,743.54,1.69,650.1,Rainbow,02/20/2020
+116,2,Campo Grande (MS),Aracaju (SE),economic,877.56,1.69,650.1,Rainbow,02/24/2020
+117,2,Aracaju (SE),Recife (PE),economic,602.49,1.44,555.74,Rainbow,02/27/2020
+117,2,Recife (PE),Aracaju (SE),economic,663.23,1.44,555.74,Rainbow,02/29/2020
+118,2,Aracaju (SE),Rio de Janeiro (RJ),firstClass,1183.57,1.55,597.61,CloudFy,03/05/2020
+118,2,Rio de Janeiro (RJ),Aracaju (SE),firstClass,1446.4,1.55,597.61,CloudFy,03/08/2020
+119,2,Aracaju (SE),Salvador (BH),firstClass,1723.71,2.16,830.86,Rainbow,03/12/2020
+119,2,Salvador (BH),Aracaju (SE),firstClass,1520.02,2.16,830.86,Rainbow,03/14/2020
+120,2,Brasilia (DF),Sao Paulo (SP),economic,533.8,0.67,257.81,Rainbow,03/19/2020
+120,2,Sao Paulo (SP),Brasilia (DF),economic,393.84,0.67,257.81,Rainbow,03/20/2020
+121,2,Brasilia (DF),Florianopolis (SC),premium,1222.24,1.66,637.56,Rainbow,03/26/2020
+121,2,Florianopolis (SC),Brasilia (DF),premium,814.55,1.66,637.56,Rainbow,03/28/2020
+122,2,Aracaju (SE),Florianopolis (SC),premium,1174.97,2.1,808.85,CloudFy,04/02/2020
+122,2,Florianopolis (SC),Aracaju (SE),premium,1149.53,2.1,808.85,CloudFy,04/06/2020
+123,2,Recife (PE),Natal (RN),economic,301.51,0.58,222.67,CloudFy,04/09/2020
+123,2,Natal (RN),Recife (PE),economic,429.77,0.58,222.67,CloudFy,04/13/2020
+124,2,Recife (PE),Aracaju (SE),firstClass,1181.19,1.44,555.74,Rainbow,04/16/2020
+124,2,Aracaju (SE),Recife (PE),firstClass,1119.47,1.44,555.74,Rainbow,04/19/2020
+125,2,Recife (PE),Campo Grande (MS),premium,793.15,1.39,535.4,CloudFy,04/23/2020
+125,2,Campo Grande (MS),Recife (PE),premium,959.91,1.39,535.4,CloudFy,04/25/2020
+126,2,Brasilia (DF),Aracaju (SE),firstClass,1214.82,1.11,425.98,Rainbow,04/30/2020
+126,2,Aracaju (SE),Brasilia (DF),firstClass,959.29,1.11,425.98,Rainbow,05/01/2020
+127,2,Recife (PE),Campo Grande (MS),premium,793.15,1.39,535.4,CloudFy,05/07/2020
+127,2,Campo Grande (MS),Recife (PE),premium,959.91,1.39,535.4,CloudFy,05/09/2020
+128,2,Brasilia (DF),Rio de Janeiro (RJ),economic,344.26,0.48,183.37,CloudFy,05/14/2020
+128,2,Rio de Janeiro (RJ),Brasilia (DF),economic,369.57,0.48,183.37,CloudFy,05/18/2020
+129,2,Brasilia (DF),Rio de Janeiro (RJ),firstClass,586.04,0.48,183.37,Rainbow,05/21/2020
+129,2,Rio de Janeiro (RJ),Brasilia (DF),firstClass,687.25,0.48,183.37,Rainbow,05/25/2020
+130,2,Recife (PE),Salvador (BH),premium,1249.83,2.05,788.55,Rainbow,05/28/2020
+130,2,Salvador (BH),Recife (PE),premium,1103.23,2.05,788.55,Rainbow,05/31/2020
+131,2,Aracaju (SE),Salvador (BH),firstClass,1723.71,2.16,830.86,Rainbow,06/04/2020
+131,2,Salvador (BH),Aracaju (SE),firstClass,1520.02,2.16,830.86,Rainbow,06/08/2020
+132,2,Aracaju (SE),Natal (RN),firstClass,598.61,0.46,176.33,CloudFy,06/11/2020
+132,2,Natal (RN),Aracaju (SE),firstClass,576.66,0.46,176.33,CloudFy,06/13/2020
+133,2,Aracaju (SE),Recife (PE),firstClass,1088.87,1.44,555.74,FlyingDrops,06/18/2020
+133,2,Recife (PE),Aracaju (SE),firstClass,1300.81,1.44,555.74,FlyingDrops,06/19/2020
+134,2,Recife (PE),Rio de Janeiro (RJ),economic,910.7,2.3,885.57,CloudFy,06/25/2020
+134,2,Rio de Janeiro (RJ),Recife (PE),economic,952.83,2.3,885.57,CloudFy,06/27/2020
+135,2,Aracaju (SE),Rio de Janeiro (RJ),economic,717.04,1.55,597.61,CloudFy,07/02/2020
+135,2,Rio de Janeiro (RJ),Aracaju (SE),economic,796.42,1.55,597.61,CloudFy,07/03/2020
+136,2,Aracaju (SE),Florianopolis (SC),premium,1132.81,2.1,808.85,Rainbow,07/09/2020
+136,2,Florianopolis (SC),Aracaju (SE),premium,1248.7,2.1,808.85,Rainbow,07/13/2020
+137,2,Recife (PE),Florianopolis (SC),firstClass,1371.83,1.76,676.53,Rainbow,07/16/2020
+137,2,Florianopolis (SC),Recife (PE),firstClass,1175.62,1.76,676.53,Rainbow,07/19/2020
+138,2,Aracaju (SE),Rio de Janeiro (RJ),economic,712.64,1.55,597.61,Rainbow,07/23/2020
+138,2,Rio de Janeiro (RJ),Aracaju (SE),economic,734.09,1.55,597.61,Rainbow,07/27/2020
+139,2,Brasilia (DF),Natal (RN),premium,1067.3,1.43,550.69,CloudFy,07/30/2020
+139,2,Natal (RN),Brasilia (DF),premium,898.46,1.43,550.69,CloudFy,07/31/2020
+140,2,Aracaju (SE),Salvador (BH),economic,964.83,2.16,830.86,CloudFy,08/06/2020
+140,2,Salvador (BH),Aracaju (SE),economic,811.73,2.16,830.86,CloudFy,08/08/2020
+141,2,Brasilia (DF),Salvador (BH),firstClass,1685.23,1.76,676.56,CloudFy,08/13/2020
+141,2,Salvador (BH),Brasilia (DF),firstClass,1032.4,1.76,676.56,CloudFy,08/15/2020
+142,2,Aracaju (SE),Brasilia (DF),premium,706.36,1.11,425.98,Rainbow,08/20/2020
+142,2,Brasilia (DF),Aracaju (SE),premium,965.62,1.11,425.98,Rainbow,08/24/2020
+143,2,Brasilia (DF),Florianopolis (SC),premium,1189.32,1.66,637.56,CloudFy,08/27/2020
+143,2,Florianopolis (SC),Brasilia (DF),premium,885.37,1.66,637.56,CloudFy,08/29/2020
+144,2,Aracaju (SE),Florianopolis (SC),economic,852.18,2.1,808.85,Rainbow,09/03/2020
+144,2,Florianopolis (SC),Aracaju (SE),economic,819.41,2.1,808.85,Rainbow,09/06/2020
+145,2,Brasilia (DF),Florianopolis (SC),premium,1189.32,1.66,637.56,CloudFy,09/10/2020
+145,2,Florianopolis (SC),Brasilia (DF),premium,885.37,1.66,637.56,CloudFy,09/14/2020
+146,2,Brasilia (DF),Salvador (BH),premium,1268.97,1.76,676.56,Rainbow,09/17/2020
+146,2,Salvador (BH),Brasilia (DF),premium,882.86,1.76,676.56,Rainbow,09/19/2020
+147,2,Brasilia (DF),Salvador (BH),economic,958.15,1.76,676.56,CloudFy,09/24/2020
+147,2,Salvador (BH),Brasilia (DF),economic,587.85,1.76,676.56,CloudFy,09/26/2020
+148,2,Recife (PE),Rio de Janeiro (RJ),economic,910.7,2.3,885.57,CloudFy,10/01/2020
+148,2,Rio de Janeiro (RJ),Recife (PE),economic,952.83,2.3,885.57,CloudFy,10/04/2020
+149,2,Recife (PE),Natal (RN),firstClass,628.96,0.58,222.67,Rainbow,10/08/2020
+149,2,Natal (RN),Recife (PE),firstClass,806.91,0.58,222.67,Rainbow,10/09/2020
+150,2,Brasilia (DF),Aracaju (SE),firstClass,1214.82,1.11,425.98,Rainbow,10/15/2020
+150,2,Aracaju (SE),Brasilia (DF),firstClass,959.29,1.11,425.98,Rainbow,10/17/2020
+151,2,Aracaju (SE),Rio de Janeiro (RJ),economic,717.04,1.55,597.61,CloudFy,10/22/2020
+151,2,Rio de Janeiro (RJ),Aracaju (SE),economic,796.42,1.55,597.61,CloudFy,10/25/2020
+152,2,Brasilia (DF),Salvador (BH),firstClass,1665.24,1.76,676.56,Rainbow,10/29/2020
+152,2,Salvador (BH),Brasilia (DF),firstClass,1040.84,1.76,676.56,Rainbow,10/31/2020
+153,2,Aracaju (SE),Campo Grande (MS),premium,1021.53,1.69,650.1,CloudFy,11/05/2020
+153,2,Campo Grande (MS),Aracaju (SE),premium,1215.45,1.69,650.1,CloudFy,11/09/2020
+154,2,Brasilia (DF),Natal (RN),economic,791.66,1.43,550.69,CloudFy,11/12/2020
+154,2,Natal (RN),Brasilia (DF),economic,697.51,1.43,550.69,CloudFy,11/15/2020
+155,2,Recife (PE),Brasilia (DF),premium,573.61,0.63,242.21,CloudFy,11/19/2020
+155,2,Brasilia (DF),Recife (PE),premium,568.38,0.63,242.21,CloudFy,11/20/2020
+156,2,Recife (PE),Brasilia (DF),firstClass,697.22,0.63,242.21,FlyingDrops,11/26/2020
+156,2,Brasilia (DF),Recife (PE),firstClass,691.39,0.63,242.21,FlyingDrops,11/28/2020
+157,2,Brasilia (DF),Recife (PE),firstClass,691.39,0.63,242.21,FlyingDrops,12/03/2020
+157,2,Recife (PE),Brasilia (DF),firstClass,697.22,0.63,242.21,FlyingDrops,12/06/2020
+158,2,Aracaju (SE),Natal (RN),economic,332.1,0.46,176.33,CloudFy,12/10/2020
+158,2,Natal (RN),Aracaju (SE),economic,361.68,0.46,176.33,CloudFy,12/11/2020
+159,2,Aracaju (SE),Campo Grande (MS),firstClass,1387.89,1.69,650.1,Rainbow,12/17/2020
+159,2,Campo Grande (MS),Aracaju (SE),firstClass,1545.78,1.69,650.1,Rainbow,12/20/2020
+160,2,Recife (PE),Campo Grande (MS),economic,563.71,1.39,535.4,CloudFy,12/24/2020
+160,2,Campo Grande (MS),Recife (PE),economic,659.43,1.39,535.4,CloudFy,12/26/2020
+161,2,Recife (PE),Rio de Janeiro (RJ),premium,1351.89,2.3,885.57,Rainbow,12/31/2020
+161,2,Rio de Janeiro (RJ),Recife (PE),premium,1306.26,2.3,885.57,Rainbow,01/03/2021
+162,2,Recife (PE),Florianopolis (SC),premium,1070.54,1.76,676.53,Rainbow,01/07/2021
+162,2,Florianopolis (SC),Recife (PE),premium,1013.4,1.76,676.53,Rainbow,01/10/2021
+163,2,Recife (PE),Florianopolis (SC),firstClass,1354.53,1.76,676.53,CloudFy,01/14/2021
+163,2,Florianopolis (SC),Recife (PE),firstClass,1300.6,1.76,676.53,CloudFy,01/18/2021
+164,2,Aracaju (SE),Salvador (BH),economic,943.36,2.16,830.86,Rainbow,01/21/2021
+164,2,Salvador (BH),Aracaju (SE),economic,826.02,2.16,830.86,Rainbow,01/25/2021
+165,2,Recife (PE),Natal (RN),firstClass,633.71,0.58,222.67,FlyingDrops,01/28/2021
+165,2,Natal (RN),Recife (PE),firstClass,694.42,0.58,222.67,FlyingDrops,01/31/2021
+166,2,Brasilia (DF),Natal (RN),economic,791.66,1.43,550.69,CloudFy,02/04/2021
+166,2,Natal (RN),Brasilia (DF),economic,697.51,1.43,550.69,CloudFy,02/05/2021
+167,2,Brasilia (DF),Sao Paulo (SP),firstClass,904.0,0.67,257.81,FlyingDrops,02/11/2021
+167,2,Sao Paulo (SP),Brasilia (DF),firstClass,727.31,0.67,257.81,FlyingDrops,02/12/2021
+168,2,Recife (PE),Natal (RN),firstClass,633.71,0.58,222.67,FlyingDrops,02/18/2021
+168,2,Natal (RN),Recife (PE),firstClass,694.42,0.58,222.67,FlyingDrops,02/21/2021
+169,2,Brasilia (DF),Sao Paulo (SP),firstClass,904.0,0.67,257.81,FlyingDrops,02/25/2021
+169,2,Sao Paulo (SP),Brasilia (DF),firstClass,727.31,0.67,257.81,FlyingDrops,02/27/2021
+170,2,Aracaju (SE),Sao Paulo (SP),premium,588.14,1.02,392.76,Rainbow,03/04/2021
+170,2,Sao Paulo (SP),Aracaju (SE),premium,962.54,1.02,392.76,Rainbow,03/08/2021
+171,2,Recife (PE),Aracaju (SE),firstClass,1300.81,1.44,555.74,FlyingDrops,03/11/2021
+171,2,Aracaju (SE),Recife (PE),firstClass,1088.87,1.44,555.74,FlyingDrops,03/15/2021
+172,2,Recife (PE),Florianopolis (SC),economic,803.39,1.76,676.53,Rainbow,03/18/2021
+172,2,Florianopolis (SC),Recife (PE),economic,695.3,1.76,676.53,Rainbow,03/20/2021
+173,2,Recife (PE),Campo Grande (MS),premium,832.77,1.39,535.4,Rainbow,03/25/2021
+173,2,Campo Grande (MS),Recife (PE),premium,991.22,1.39,535.4,Rainbow,03/26/2021
+174,2,Aracaju (SE),Rio de Janeiro (RJ),firstClass,1183.57,1.55,597.61,CloudFy,04/01/2021
+174,2,Rio de Janeiro (RJ),Aracaju (SE),firstClass,1446.4,1.55,597.61,CloudFy,04/02/2021
+175,2,Aracaju (SE),Natal (RN),economic,332.1,0.46,176.33,CloudFy,04/08/2021
+175,2,Natal (RN),Aracaju (SE),economic,361.68,0.46,176.33,CloudFy,04/09/2021
+176,2,Recife (PE),Natal (RN),economic,360.22,0.58,222.67,Rainbow,04/15/2021
+176,2,Natal (RN),Recife (PE),economic,406.36,0.58,222.67,Rainbow,04/18/2021
+177,2,Brasilia (DF),Aracaju (SE),premium,965.62,1.11,425.98,Rainbow,04/22/2021
+177,2,Aracaju (SE),Brasilia (DF),premium,706.36,1.11,425.98,Rainbow,04/24/2021
+178,2,Recife (PE),Salvador (BH),firstClass,1484.94,2.05,788.55,CloudFy,04/29/2021
+178,2,Salvador (BH),Recife (PE),firstClass,1440.02,2.05,788.55,CloudFy,05/01/2021
+179,2,Brasilia (DF),Recife (PE),firstClass,772.21,0.63,242.21,Rainbow,05/06/2021
+179,2,Recife (PE),Brasilia (DF),firstClass,721.93,0.63,242.21,Rainbow,05/10/2021
+180,2,Aracaju (SE),Campo Grande (MS),premium,1116.83,1.69,650.1,Rainbow,05/13/2021
+180,2,Campo Grande (MS),Aracaju (SE),premium,1146.95,1.69,650.1,Rainbow,05/16/2021
+181,2,Recife (PE),Rio de Janeiro (RJ),premium,1270.03,2.3,885.57,CloudFy,05/20/2021
+181,2,Rio de Janeiro (RJ),Recife (PE),premium,1333.52,2.3,885.57,CloudFy,05/24/2021
+182,2,Brasilia (DF),Sao Paulo (SP),firstClass,893.65,0.67,257.81,CloudFy,05/27/2021
+182,2,Sao Paulo (SP),Brasilia (DF),firstClass,742.94,0.67,257.81,CloudFy,05/31/2021
+183,2,Recife (PE),Brasilia (DF),firstClass,721.93,0.63,242.21,Rainbow,06/03/2021
+183,2,Brasilia (DF),Recife (PE),firstClass,772.21,0.63,242.21,Rainbow,06/07/2021
+184,2,Aracaju (SE),Brasilia (DF),economic,472.72,1.11,425.98,CloudFy,06/10/2021
+184,2,Brasilia (DF),Aracaju (SE),economic,654.88,1.11,425.98,CloudFy,06/14/2021
+185,2,Recife (PE),Campo Grande (MS),economic,563.71,1.39,535.4,CloudFy,06/17/2021
+185,2,Campo Grande (MS),Recife (PE),economic,659.43,1.39,535.4,CloudFy,06/19/2021
+186,2,Aracaju (SE),Brasilia (DF),economic,548.62,1.11,425.98,Rainbow,06/24/2021
+186,2,Brasilia (DF),Aracaju (SE),economic,721.2,1.11,425.98,Rainbow,06/28/2021
+187,2,Recife (PE),Aracaju (SE),premium,932.84,1.44,555.74,CloudFy,07/01/2021
+187,2,Aracaju (SE),Recife (PE),premium,835.21,1.44,555.74,CloudFy,07/04/2021
+188,2,Brasilia (DF),Sao Paulo (SP),premium,750.0,0.67,257.81,Rainbow,07/08/2021
+188,2,Sao Paulo (SP),Brasilia (DF),premium,586.06,0.67,257.81,Rainbow,07/10/2021
+189,2,Aracaju (SE),Salvador (BH),firstClass,1723.71,2.16,830.86,Rainbow,07/15/2021
+189,2,Salvador (BH),Aracaju (SE),firstClass,1520.02,2.16,830.86,Rainbow,07/19/2021
+190,2,Brasilia (DF),Natal (RN),firstClass,1434.91,1.43,550.69,Rainbow,07/22/2021
+190,2,Natal (RN),Brasilia (DF),firstClass,1286.63,1.43,550.69,Rainbow,07/26/2021
+191,2,Recife (PE),Natal (RN),premium,474.6,0.58,222.67,CloudFy,07/29/2021
+191,2,Natal (RN),Recife (PE),premium,563.23,0.58,222.67,CloudFy,08/02/2021
+192,2,Brasilia (DF),Florianopolis (SC),economic,884.94,1.66,637.56,CloudFy,08/05/2021
+192,2,Florianopolis (SC),Brasilia (DF),economic,636.51,1.66,637.56,CloudFy,08/09/2021
+193,2,Brasilia (DF),Sao Paulo (SP),firstClass,992.17,0.67,257.81,Rainbow,08/12/2021
+193,2,Sao Paulo (SP),Brasilia (DF),firstClass,824.31,0.67,257.81,Rainbow,08/14/2021
+194,2,Recife (PE),Campo Grande (MS),firstClass,1110.76,1.39,535.4,CloudFy,08/19/2021
+194,2,Campo Grande (MS),Recife (PE),firstClass,1244.73,1.39,535.4,CloudFy,08/21/2021
+195,2,Recife (PE),Salvador (BH),firstClass,1596.61,2.05,788.55,FlyingDrops,08/26/2021
+195,2,Salvador (BH),Recife (PE),firstClass,1348.04,2.05,788.55,FlyingDrops,08/29/2021
+196,2,Brasilia (DF),Aracaju (SE),premium,965.62,1.11,425.98,Rainbow,09/02/2021
+196,2,Aracaju (SE),Brasilia (DF),premium,706.36,1.11,425.98,Rainbow,09/04/2021
+197,2,Brasilia (DF),Florianopolis (SC),premium,1222.24,1.66,637.56,Rainbow,09/09/2021
+197,2,Florianopolis (SC),Brasilia (DF),premium,814.55,1.66,637.56,Rainbow,09/12/2021
+198,2,Aracaju (SE),Sao Paulo (SP),economic,446.73,1.02,392.76,Rainbow,09/16/2021
+198,2,Sao Paulo (SP),Aracaju (SE),economic,647.9,1.02,392.76,Rainbow,09/20/2021
+199,2,Aracaju (SE),Brasilia (DF),economic,548.62,1.11,425.98,Rainbow,09/23/2021
+199,2,Brasilia (DF),Aracaju (SE),economic,721.2,1.11,425.98,Rainbow,09/26/2021
+200,2,Recife (PE),Rio de Janeiro (RJ),economic,908.93,2.3,885.57,Rainbow,09/30/2021
+200,2,Rio de Janeiro (RJ),Recife (PE),economic,932.59,2.3,885.57,Rainbow,10/04/2021
+201,2,Aracaju (SE),Florianopolis (SC),firstClass,1582.41,2.1,808.85,Rainbow,10/07/2021
+201,2,Florianopolis (SC),Aracaju (SE),firstClass,1582.1,2.1,808.85,Rainbow,10/09/2021
+202,2,Brasilia (DF),Rio de Janeiro (RJ),economic,371.04,0.48,183.37,Rainbow,10/14/2021
+202,2,Rio de Janeiro (RJ),Brasilia (DF),economic,364.34,0.48,183.37,Rainbow,10/15/2021
+203,2,Aracaju (SE),Brasilia (DF),premium,755.62,1.11,425.98,CloudFy,10/21/2021
+203,2,Brasilia (DF),Aracaju (SE),premium,987.07,1.11,425.98,CloudFy,10/22/2021
+204,2,Aracaju (SE),Salvador (BH),premium,1288.79,2.16,830.86,CloudFy,10/28/2021
+204,2,Salvador (BH),Aracaju (SE),premium,1209.04,2.16,830.86,CloudFy,10/31/2021
+205,2,Brasilia (DF),Rio de Janeiro (RJ),firstClass,539.39,0.48,183.37,FlyingDrops,11/04/2021
+205,2,Rio de Janeiro (RJ),Brasilia (DF),firstClass,591.19,0.48,183.37,FlyingDrops,11/06/2021
+206,2,Aracaju (SE),Salvador (BH),firstClass,1684.05,2.16,830.86,CloudFy,11/11/2021
+206,2,Salvador (BH),Aracaju (SE),firstClass,1531.92,2.16,830.86,CloudFy,11/12/2021
+207,2,Recife (PE),Rio de Janeiro (RJ),premium,1351.89,2.3,885.57,Rainbow,11/18/2021
+207,2,Rio de Janeiro (RJ),Recife (PE),premium,1306.26,2.3,885.57,Rainbow,11/19/2021
+208,2,Recife (PE),Brasilia (DF),premium,638.63,0.63,242.21,Rainbow,11/25/2021
+208,2,Brasilia (DF),Recife (PE),premium,559.13,0.63,242.21,Rainbow,11/29/2021
+209,2,Aracaju (SE),Brasilia (DF),firstClass,957.68,1.11,425.98,CloudFy,12/02/2021
+209,2,Brasilia (DF),Aracaju (SE),firstClass,1260.1,1.11,425.98,CloudFy,12/03/2021
+210,2,Recife (PE),Sao Paulo (SP),premium,670.13,1.26,486.52,Rainbow,12/09/2021
+210,2,Sao Paulo (SP),Recife (PE),premium,1145.72,1.26,486.52,Rainbow,12/12/2021
+211,2,Recife (PE),Aracaju (SE),economic,663.23,1.44,555.74,Rainbow,12/16/2021
+211,2,Aracaju (SE),Recife (PE),economic,602.49,1.44,555.74,Rainbow,12/19/2021
+212,2,Brasilia (DF),Rio de Janeiro (RJ),premium,440.69,0.48,183.37,Rainbow,12/23/2021
+212,2,Rio de Janeiro (RJ),Brasilia (DF),premium,435.67,0.48,183.37,Rainbow,12/27/2021
+213,2,Brasilia (DF),Salvador (BH),economic,921.08,1.76,676.56,Rainbow,12/30/2021
+213,2,Salvador (BH),Brasilia (DF),economic,609.83,1.76,676.56,Rainbow,01/02/2022
+214,2,Aracaju (SE),Recife (PE),economic,604.14,1.44,555.74,CloudFy,01/06/2022
+214,2,Recife (PE),Aracaju (SE),economic,684.88,1.44,555.74,CloudFy,01/07/2022
+215,2,Aracaju (SE),Brasilia (DF),premium,706.36,1.11,425.98,Rainbow,01/13/2022
+215,2,Brasilia (DF),Aracaju (SE),premium,965.62,1.11,425.98,Rainbow,01/14/2022
+216,2,Recife (PE),Salvador (BH),firstClass,1470.41,2.05,788.55,Rainbow,01/20/2022
+216,2,Salvador (BH),Recife (PE),firstClass,1440.25,2.05,788.55,Rainbow,01/24/2022
+217,2,Brasilia (DF),Recife (PE),economic,421.2,0.63,242.21,Rainbow,01/27/2022
+217,2,Recife (PE),Brasilia (DF),economic,439.38,0.63,242.21,Rainbow,01/29/2022
+218,2,Recife (PE),Sao Paulo (SP),firstClass,883.63,1.26,486.52,CloudFy,02/03/2022
+218,2,Sao Paulo (SP),Recife (PE),firstClass,1533.42,1.26,486.52,CloudFy,02/07/2022
+219,2,Brasilia (DF),Florianopolis (SC),economic,889.07,1.66,637.56,Rainbow,02/10/2022
+219,2,Florianopolis (SC),Brasilia (DF),economic,555.01,1.66,637.56,Rainbow,02/12/2022
+220,2,Aracaju (SE),Rio de Janeiro (RJ),firstClass,1189.86,1.55,597.61,Rainbow,02/17/2022
+220,2,Rio de Janeiro (RJ),Aracaju (SE),firstClass,1386.46,1.55,597.61,Rainbow,02/20/2022
+221,2,Aracaju (SE),Salvador (BH),economic,943.36,2.16,830.86,Rainbow,02/24/2022
+221,2,Salvador (BH),Aracaju (SE),economic,826.02,2.16,830.86,Rainbow,02/25/2022
+222,2,Brasilia (DF),Rio de Janeiro (RJ),economic,344.26,0.48,183.37,CloudFy,03/03/2022
+222,2,Rio de Janeiro (RJ),Brasilia (DF),economic,369.57,0.48,183.37,CloudFy,03/04/2022
+223,2,Recife (PE),Rio de Janeiro (RJ),firstClass,1706.89,2.3,885.57,FlyingDrops,03/10/2022
+223,2,Rio de Janeiro (RJ),Recife (PE),firstClass,1702.23,2.3,885.57,FlyingDrops,03/12/2022
+224,2,Aracaju (SE),Brasilia (DF),premium,755.62,1.11,425.98,CloudFy,03/17/2022
+224,2,Brasilia (DF),Aracaju (SE),premium,987.07,1.11,425.98,CloudFy,03/20/2022
+225,2,Brasilia (DF),Natal (RN),premium,1067.3,1.43,550.69,CloudFy,03/24/2022
+225,2,Natal (RN),Brasilia (DF),premium,898.46,1.43,550.69,CloudFy,03/28/2022
+226,3,Recife (PE),Aracaju (SE),firstClass,1166.1,1.44,555.74,CloudFy,09/26/2019
+226,3,Aracaju (SE),Recife (PE),firstClass,1124.11,1.44,555.74,CloudFy,09/29/2019
+227,3,Brasilia (DF),Florianopolis (SC),firstClass,1487.52,1.66,637.56,CloudFy,10/03/2019
+227,3,Florianopolis (SC),Brasilia (DF),firstClass,1127.36,1.66,637.56,CloudFy,10/05/2019
+228,3,Brasilia (DF),Rio de Janeiro (RJ),premium,457.95,0.48,183.37,CloudFy,10/10/2019
+228,3,Rio de Janeiro (RJ),Brasilia (DF),premium,503.26,0.48,183.37,CloudFy,10/11/2019
+229,3,Brasilia (DF),Campo Grande (MS),economic,629.54,0.72,277.7,Rainbow,10/17/2019
+229,3,Campo Grande (MS),Brasilia (DF),economic,517.82,0.72,277.7,Rainbow,10/20/2019
+230,3,Aracaju (SE),Florianopolis (SC),economic,852.18,2.1,808.85,Rainbow,10/24/2019
+230,3,Florianopolis (SC),Aracaju (SE),economic,819.41,2.1,808.85,Rainbow,10/26/2019
+231,3,Aracaju (SE),Florianopolis (SC),firstClass,1499.93,2.1,808.85,FlyingDrops,10/31/2019
+231,3,Florianopolis (SC),Aracaju (SE),firstClass,1574.28,2.1,808.85,FlyingDrops,11/03/2019
+232,3,Aracaju (SE),Sao Paulo (SP),economic,446.73,1.02,392.76,Rainbow,11/07/2019
+232,3,Sao Paulo (SP),Aracaju (SE),economic,647.9,1.02,392.76,Rainbow,11/10/2019
+233,3,Brasilia (DF),Florianopolis (SC),firstClass,1569.65,1.66,637.56,FlyingDrops,11/14/2019
+233,3,Florianopolis (SC),Brasilia (DF),firstClass,1097.17,1.66,637.56,FlyingDrops,11/16/2019
+234,3,Aracaju (SE),Rio de Janeiro (RJ),firstClass,1190.94,1.55,597.61,FlyingDrops,11/21/2019
+234,3,Rio de Janeiro (RJ),Aracaju (SE),firstClass,1381.55,1.55,597.61,FlyingDrops,11/23/2019
+235,3,Brasilia (DF),Florianopolis (SC),economic,889.07,1.66,637.56,Rainbow,11/28/2019
+235,3,Florianopolis (SC),Brasilia (DF),economic,555.01,1.66,637.56,Rainbow,12/01/2019
+236,3,Brasilia (DF),Natal (RN),economic,726.19,1.43,550.69,Rainbow,12/05/2019
+236,3,Natal (RN),Brasilia (DF),economic,686.79,1.43,550.69,Rainbow,12/08/2019
+237,3,Recife (PE),Salvador (BH),firstClass,1484.94,2.05,788.55,CloudFy,12/12/2019
+237,3,Salvador (BH),Recife (PE),firstClass,1440.02,2.05,788.55,CloudFy,12/14/2019
+238,3,Recife (PE),Florianopolis (SC),premium,1070.54,1.76,676.53,Rainbow,12/19/2019
+238,3,Florianopolis (SC),Recife (PE),premium,1013.4,1.76,676.53,Rainbow,12/21/2019
+239,3,Recife (PE),Florianopolis (SC),firstClass,1434.38,1.76,676.53,FlyingDrops,12/26/2019
+239,3,Florianopolis (SC),Recife (PE),firstClass,1292.29,1.76,676.53,FlyingDrops,12/28/2019
+240,3,Recife (PE),Brasilia (DF),economic,439.38,0.63,242.21,Rainbow,01/02/2020
+240,3,Brasilia (DF),Recife (PE),economic,421.2,0.63,242.21,Rainbow,01/06/2020
+241,3,Recife (PE),Florianopolis (SC),premium,1074.75,1.76,676.53,CloudFy,01/09/2020
+241,3,Florianopolis (SC),Recife (PE),premium,918.66,1.76,676.53,CloudFy,01/10/2020
+242,3,Brasilia (DF),Salvador (BH),firstClass,1665.24,1.76,676.56,Rainbow,01/16/2020
+242,3,Salvador (BH),Brasilia (DF),firstClass,1040.84,1.76,676.56,Rainbow,01/18/2020
+243,3,Aracaju (SE),Rio de Janeiro (RJ),firstClass,1183.57,1.55,597.61,CloudFy,01/23/2020
+243,3,Rio de Janeiro (RJ),Aracaju (SE),firstClass,1446.4,1.55,597.61,CloudFy,01/24/2020
+244,3,Aracaju (SE),Recife (PE),economic,602.49,1.44,555.74,Rainbow,01/30/2020
+244,3,Recife (PE),Aracaju (SE),economic,663.23,1.44,555.74,Rainbow,02/03/2020
+245,3,Brasilia (DF),Florianopolis (SC),economic,884.94,1.66,637.56,CloudFy,02/06/2020
+245,3,Florianopolis (SC),Brasilia (DF),economic,636.51,1.66,637.56,CloudFy,02/09/2020
+246,3,Brasilia (DF),Recife (PE),economic,432.1,0.63,242.21,CloudFy,02/13/2020
+246,3,Recife (PE),Brasilia (DF),economic,393.68,0.63,242.21,CloudFy,02/15/2020
+247,3,Recife (PE),Natal (RN),firstClass,628.96,0.58,222.67,Rainbow,02/20/2020
+247,3,Natal (RN),Recife (PE),firstClass,806.91,0.58,222.67,Rainbow,02/22/2020
+248,3,Recife (PE),Campo Grande (MS),premium,793.15,1.39,535.4,CloudFy,02/27/2020
+248,3,Campo Grande (MS),Recife (PE),premium,959.91,1.39,535.4,CloudFy,02/29/2020
+249,3,Brasilia (DF),Rio de Janeiro (RJ),premium,457.95,0.48,183.37,CloudFy,03/05/2020
+249,3,Rio de Janeiro (RJ),Brasilia (DF),premium,503.26,0.48,183.37,CloudFy,03/07/2020
+250,3,Aracaju (SE),Campo Grande (MS),premium,1116.83,1.69,650.1,Rainbow,03/12/2020
+250,3,Campo Grande (MS),Aracaju (SE),premium,1146.95,1.69,650.1,Rainbow,03/14/2020
+251,3,Recife (PE),Florianopolis (SC),firstClass,1354.53,1.76,676.53,CloudFy,03/19/2020
+251,3,Florianopolis (SC),Recife (PE),firstClass,1300.6,1.76,676.53,CloudFy,03/21/2020
+252,3,Recife (PE),Florianopolis (SC),economic,761.2,1.76,676.53,CloudFy,03/26/2020
+252,3,Florianopolis (SC),Recife (PE),economic,674.52,1.76,676.53,CloudFy,03/27/2020
+253,3,Brasilia (DF),Campo Grande (MS),economic,583.6,0.72,277.7,CloudFy,04/02/2020
+253,3,Campo Grande (MS),Brasilia (DF),economic,506.56,0.72,277.7,CloudFy,04/05/2020
+254,3,Brasilia (DF),Campo Grande (MS),economic,583.6,0.72,277.7,CloudFy,04/09/2020
+254,3,Campo Grande (MS),Brasilia (DF),economic,506.56,0.72,277.7,CloudFy,04/10/2020
+255,3,Aracaju (SE),Florianopolis (SC),firstClass,1499.93,2.1,808.85,FlyingDrops,04/16/2020
+255,3,Florianopolis (SC),Aracaju (SE),firstClass,1574.28,2.1,808.85,FlyingDrops,04/17/2020
+256,3,Aracaju (SE),Sao Paulo (SP),premium,630.34,1.02,392.76,CloudFy,04/23/2020
+256,3,Sao Paulo (SP),Aracaju (SE),premium,906.59,1.02,392.76,CloudFy,04/24/2020
+257,3,Aracaju (SE),Recife (PE),firstClass,1088.87,1.44,555.74,FlyingDrops,04/30/2020
+257,3,Recife (PE),Aracaju (SE),firstClass,1300.81,1.44,555.74,FlyingDrops,05/02/2020
+258,3,Recife (PE),Rio de Janeiro (RJ),firstClass,1611.14,2.3,885.57,Rainbow,05/07/2020
+258,3,Rio de Janeiro (RJ),Recife (PE),firstClass,1617.81,2.3,885.57,Rainbow,05/08/2020
+259,3,Brasilia (DF),Natal (RN),firstClass,1433.35,1.43,550.69,FlyingDrops,05/14/2020
+259,3,Natal (RN),Brasilia (DF),firstClass,1192.62,1.43,550.69,FlyingDrops,05/16/2020
+260,3,Brasilia (DF),Rio de Janeiro (RJ),economic,371.04,0.48,183.37,Rainbow,05/21/2020
+260,3,Rio de Janeiro (RJ),Brasilia (DF),economic,364.34,0.48,183.37,Rainbow,05/24/2020
+261,3,Aracaju (SE),Rio de Janeiro (RJ),economic,717.04,1.55,597.61,CloudFy,05/28/2020
+261,3,Rio de Janeiro (RJ),Aracaju (SE),economic,796.42,1.55,597.61,CloudFy,06/01/2020
+262,3,Brasilia (DF),Florianopolis (SC),firstClass,1576.97,1.66,637.56,Rainbow,06/04/2020
+262,3,Florianopolis (SC),Brasilia (DF),firstClass,1087.18,1.66,637.56,Rainbow,06/08/2020
+263,3,Brasilia (DF),Campo Grande (MS),premium,851.15,0.72,277.7,Rainbow,06/11/2020
+263,3,Campo Grande (MS),Brasilia (DF),premium,691.99,0.72,277.7,Rainbow,06/14/2020
+264,3,Recife (PE),Campo Grande (MS),firstClass,1069.12,1.39,535.4,Rainbow,06/18/2020
+264,3,Campo Grande (MS),Recife (PE),firstClass,1185.95,1.39,535.4,Rainbow,06/21/2020
+265,3,Recife (PE),Campo Grande (MS),firstClass,1069.12,1.39,535.4,Rainbow,06/25/2020
+265,3,Campo Grande (MS),Recife (PE),firstClass,1185.95,1.39,535.4,Rainbow,06/29/2020
+266,3,Recife (PE),Campo Grande (MS),firstClass,1110.76,1.39,535.4,CloudFy,07/02/2020
+266,3,Campo Grande (MS),Recife (PE),firstClass,1244.73,1.39,535.4,CloudFy,07/05/2020
+267,3,Aracaju (SE),Brasilia (DF),firstClass,957.68,1.11,425.98,CloudFy,07/09/2020
+267,3,Brasilia (DF),Aracaju (SE),firstClass,1260.1,1.11,425.98,CloudFy,07/12/2020
+268,3,Brasilia (DF),Aracaju (SE),premium,987.07,1.11,425.98,CloudFy,07/16/2020
+268,3,Aracaju (SE),Brasilia (DF),premium,755.62,1.11,425.98,CloudFy,07/17/2020
+269,3,Brasilia (DF),Rio de Janeiro (RJ),firstClass,586.04,0.48,183.37,Rainbow,07/23/2020
+269,3,Rio de Janeiro (RJ),Brasilia (DF),firstClass,687.25,0.48,183.37,Rainbow,07/25/2020
+270,3,Recife (PE),Brasilia (DF),firstClass,709.25,0.63,242.21,CloudFy,07/30/2020
+270,3,Brasilia (DF),Recife (PE),firstClass,804.24,0.63,242.21,CloudFy,08/03/2020
+271,3,Recife (PE),Brasilia (DF),premium,638.63,0.63,242.21,Rainbow,08/06/2020
+271,3,Brasilia (DF),Recife (PE),premium,559.13,0.63,242.21,Rainbow,08/07/2020
+272,3,Aracaju (SE),Salvador (BH),premium,1289.05,2.16,830.86,Rainbow,08/13/2020
+272,3,Salvador (BH),Aracaju (SE),premium,1247.02,2.16,830.86,Rainbow,08/15/2020
+273,3,Aracaju (SE),Brasilia (DF),premium,706.36,1.11,425.98,Rainbow,08/20/2020
+273,3,Brasilia (DF),Aracaju (SE),premium,965.62,1.11,425.98,Rainbow,08/22/2020
+274,3,Aracaju (SE),Sao Paulo (SP),firstClass,730.43,1.02,392.76,CloudFy,08/27/2020
+274,3,Sao Paulo (SP),Aracaju (SE),firstClass,1186.15,1.02,392.76,CloudFy,08/28/2020
+275,3,Brasilia (DF),Natal (RN),economic,726.19,1.43,550.69,Rainbow,09/03/2020
+275,3,Natal (RN),Brasilia (DF),economic,686.79,1.43,550.69,Rainbow,09/05/2020
+276,3,Brasilia (DF),Campo Grande (MS),economic,629.54,0.72,277.7,Rainbow,09/10/2020
+276,3,Campo Grande (MS),Brasilia (DF),economic,517.82,0.72,277.7,Rainbow,09/12/2020
+277,3,Aracaju (SE),Sao Paulo (SP),premium,588.14,1.02,392.76,Rainbow,09/17/2020
+277,3,Sao Paulo (SP),Aracaju (SE),premium,962.54,1.02,392.76,Rainbow,09/18/2020
+278,3,Brasilia (DF),Rio de Janeiro (RJ),firstClass,539.39,0.48,183.37,FlyingDrops,09/24/2020
+278,3,Rio de Janeiro (RJ),Brasilia (DF),firstClass,591.19,0.48,183.37,FlyingDrops,09/25/2020
+279,3,Recife (PE),Natal (RN),premium,474.6,0.58,222.67,CloudFy,10/01/2020
+279,3,Natal (RN),Recife (PE),premium,563.23,0.58,222.67,CloudFy,10/02/2020
+280,3,Recife (PE),Natal (RN),firstClass,669.83,0.58,222.67,CloudFy,10/08/2020
+280,3,Natal (RN),Recife (PE),firstClass,744.11,0.58,222.67,CloudFy,10/09/2020
+281,3,Aracaju (SE),Recife (PE),economic,602.49,1.44,555.74,Rainbow,10/15/2020
+281,3,Recife (PE),Aracaju (SE),economic,663.23,1.44,555.74,Rainbow,10/18/2020
+282,3,Brasilia (DF),Campo Grande (MS),premium,851.15,0.72,277.7,Rainbow,10/22/2020
+282,3,Campo Grande (MS),Brasilia (DF),premium,691.99,0.72,277.7,Rainbow,10/23/2020
+283,3,Recife (PE),Sao Paulo (SP),premium,670.13,1.26,486.52,Rainbow,10/29/2020
+283,3,Sao Paulo (SP),Recife (PE),premium,1145.72,1.26,486.52,Rainbow,10/30/2020
+284,3,Recife (PE),Sao Paulo (SP),firstClass,980.83,1.26,486.52,Rainbow,11/05/2020
+284,3,Sao Paulo (SP),Recife (PE),firstClass,1573.5,1.26,486.52,Rainbow,11/08/2020
+285,3,Aracaju (SE),Florianopolis (SC),economic,869.13,2.1,808.85,CloudFy,11/12/2020
+285,3,Florianopolis (SC),Aracaju (SE),economic,879.1,2.1,808.85,CloudFy,11/14/2020
+286,3,Aracaju (SE),Campo Grande (MS),firstClass,1389.37,1.69,650.1,CloudFy,11/19/2020
+286,3,Campo Grande (MS),Aracaju (SE),firstClass,1581.8,1.69,650.1,CloudFy,11/21/2020
+287,3,Brasilia (DF),Recife (PE),firstClass,691.39,0.63,242.21,FlyingDrops,11/26/2020
+287,3,Recife (PE),Brasilia (DF),firstClass,697.22,0.63,242.21,FlyingDrops,11/27/2020
+288,3,Brasilia (DF),Florianopolis (SC),premium,1222.24,1.66,637.56,Rainbow,12/03/2020
+288,3,Florianopolis (SC),Brasilia (DF),premium,814.55,1.66,637.56,Rainbow,12/06/2020
+289,3,Aracaju (SE),Florianopolis (SC),economic,869.13,2.1,808.85,CloudFy,12/10/2020
+289,3,Florianopolis (SC),Aracaju (SE),economic,879.1,2.1,808.85,CloudFy,12/11/2020
+290,3,Recife (PE),Campo Grande (MS),firstClass,1069.12,1.39,535.4,Rainbow,12/17/2020
+290,3,Campo Grande (MS),Recife (PE),firstClass,1185.95,1.39,535.4,Rainbow,12/18/2020
+291,3,Brasilia (DF),Salvador (BH),economic,921.08,1.76,676.56,Rainbow,12/24/2020
+291,3,Salvador (BH),Brasilia (DF),economic,609.83,1.76,676.56,Rainbow,12/25/2020
+292,3,Aracaju (SE),Florianopolis (SC),firstClass,1499.93,2.1,808.85,FlyingDrops,12/31/2020
+292,3,Florianopolis (SC),Aracaju (SE),firstClass,1574.28,2.1,808.85,FlyingDrops,01/02/2021
+293,3,Brasilia (DF),Natal (RN),firstClass,1434.91,1.43,550.69,Rainbow,01/07/2021
+293,3,Natal (RN),Brasilia (DF),firstClass,1286.63,1.43,550.69,Rainbow,01/08/2021
+294,3,Brasilia (DF),Aracaju (SE),firstClass,1260.1,1.11,425.98,CloudFy,01/14/2021
+294,3,Aracaju (SE),Brasilia (DF),firstClass,957.68,1.11,425.98,CloudFy,01/17/2021
+295,3,Recife (PE),Natal (RN),firstClass,669.83,0.58,222.67,CloudFy,01/21/2021
+295,3,Natal (RN),Recife (PE),firstClass,744.11,0.58,222.67,CloudFy,01/25/2021
+296,3,Aracaju (SE),Recife (PE),premium,835.21,1.44,555.74,CloudFy,01/28/2021
+296,3,Recife (PE),Aracaju (SE),premium,932.84,1.44,555.74,CloudFy,01/31/2021
+297,3,Brasilia (DF),Florianopolis (SC),firstClass,1576.97,1.66,637.56,Rainbow,02/04/2021
+297,3,Florianopolis (SC),Brasilia (DF),firstClass,1087.18,1.66,637.56,Rainbow,02/06/2021
+298,3,Aracaju (SE),Brasilia (DF),premium,755.62,1.11,425.98,CloudFy,02/11/2021
+298,3,Brasilia (DF),Aracaju (SE),premium,987.07,1.11,425.98,CloudFy,02/12/2021
+299,3,Recife (PE),Sao Paulo (SP),economic,513.06,1.26,486.52,CloudFy,02/18/2021
+299,3,Sao Paulo (SP),Recife (PE),economic,829.91,1.26,486.52,CloudFy,02/21/2021
+300,3,Brasilia (DF),Salvador (BH),premium,1268.97,1.76,676.56,Rainbow,02/25/2021
+300,3,Salvador (BH),Brasilia (DF),premium,882.86,1.76,676.56,Rainbow,02/28/2021
+301,3,Aracaju (SE),Campo Grande (MS),premium,1021.53,1.69,650.1,CloudFy,03/04/2021
+301,3,Campo Grande (MS),Aracaju (SE),premium,1215.45,1.69,650.1,CloudFy,03/05/2021
+302,3,Recife (PE),Natal (RN),firstClass,669.83,0.58,222.67,CloudFy,03/11/2021
+302,3,Natal (RN),Recife (PE),firstClass,744.11,0.58,222.67,CloudFy,03/12/2021
+303,3,Aracaju (SE),Campo Grande (MS),firstClass,1387.89,1.69,650.1,Rainbow,03/18/2021
+303,3,Campo Grande (MS),Aracaju (SE),firstClass,1545.78,1.69,650.1,Rainbow,03/19/2021
+304,3,Brasilia (DF),Sao Paulo (SP),premium,750.0,0.67,257.81,Rainbow,03/25/2021
+304,3,Sao Paulo (SP),Brasilia (DF),premium,586.06,0.67,257.81,Rainbow,03/26/2021
+305,3,Recife (PE),Natal (RN),economic,301.51,0.58,222.67,CloudFy,04/01/2021
+305,3,Natal (RN),Recife (PE),economic,429.77,0.58,222.67,CloudFy,04/05/2021
+306,3,Aracaju (SE),Florianopolis (SC),premium,1174.97,2.1,808.85,CloudFy,04/08/2021
+306,3,Florianopolis (SC),Aracaju (SE),premium,1149.53,2.1,808.85,CloudFy,04/11/2021
+307,3,Aracaju (SE),Natal (RN),premium,535.95,0.46,176.33,CloudFy,04/15/2021
+307,3,Natal (RN),Aracaju (SE),premium,451.41,0.46,176.33,CloudFy,04/17/2021
+308,3,Recife (PE),Florianopolis (SC),firstClass,1354.53,1.76,676.53,CloudFy,04/22/2021
+308,3,Florianopolis (SC),Recife (PE),firstClass,1300.6,1.76,676.53,CloudFy,04/23/2021
+309,3,Brasilia (DF),Natal (RN),premium,1067.3,1.43,550.69,CloudFy,04/29/2021
+309,3,Natal (RN),Brasilia (DF),premium,898.46,1.43,550.69,CloudFy,05/02/2021
+310,3,Recife (PE),Rio de Janeiro (RJ),firstClass,1612.39,2.3,885.57,CloudFy,05/06/2021
+310,3,Rio de Janeiro (RJ),Recife (PE),firstClass,1664.01,2.3,885.57,CloudFy,05/10/2021
+311,3,Aracaju (SE),Sao Paulo (SP),economic,410.79,1.02,392.76,CloudFy,05/13/2021
+311,3,Sao Paulo (SP),Aracaju (SE),economic,722.74,1.02,392.76,CloudFy,05/15/2021
+312,3,Brasilia (DF),Campo Grande (MS),premium,831.7,0.72,277.7,CloudFy,05/20/2021
+312,3,Campo Grande (MS),Brasilia (DF),premium,661.32,0.72,277.7,CloudFy,05/23/2021
+313,3,Aracaju (SE),Brasilia (DF),firstClass,898.04,1.11,425.98,FlyingDrops,05/27/2021
+313,3,Brasilia (DF),Aracaju (SE),firstClass,1287.52,1.11,425.98,FlyingDrops,05/30/2021
+314,3,Recife (PE),Aracaju (SE),premium,932.84,1.44,555.74,CloudFy,06/03/2021
+314,3,Aracaju (SE),Recife (PE),premium,835.21,1.44,555.74,CloudFy,06/04/2021
+315,3,Recife (PE),Rio de Janeiro (RJ),premium,1270.03,2.3,885.57,CloudFy,06/10/2021
+315,3,Rio de Janeiro (RJ),Recife (PE),premium,1333.52,2.3,885.57,CloudFy,06/13/2021
+316,3,Recife (PE),Campo Grande (MS),economic,615.59,1.39,535.4,Rainbow,06/17/2021
+316,3,Campo Grande (MS),Recife (PE),economic,674.16,1.39,535.4,Rainbow,06/18/2021
+317,3,Aracaju (SE),Salvador (BH),firstClass,1684.05,2.16,830.86,CloudFy,06/24/2021
+317,3,Salvador (BH),Aracaju (SE),firstClass,1531.92,2.16,830.86,CloudFy,06/27/2021
+318,3,Recife (PE),Salvador (BH),economic,861.68,2.05,788.55,Rainbow,07/01/2021
+318,3,Salvador (BH),Recife (PE),economic,751.37,2.05,788.55,Rainbow,07/03/2021
+319,3,Recife (PE),Brasilia (DF),economic,439.38,0.63,242.21,Rainbow,07/08/2021
+319,3,Brasilia (DF),Recife (PE),economic,421.2,0.63,242.21,Rainbow,07/09/2021
+320,3,Brasilia (DF),Salvador (BH),economic,958.15,1.76,676.56,CloudFy,07/15/2021
+320,3,Salvador (BH),Brasilia (DF),economic,587.85,1.76,676.56,CloudFy,07/18/2021
+321,3,Recife (PE),Natal (RN),firstClass,669.83,0.58,222.67,CloudFy,07/22/2021
+321,3,Natal (RN),Recife (PE),firstClass,744.11,0.58,222.67,CloudFy,07/23/2021
+322,3,Aracaju (SE),Natal (RN),firstClass,598.61,0.46,176.33,CloudFy,07/29/2021
+322,3,Natal (RN),Aracaju (SE),firstClass,576.66,0.46,176.33,CloudFy,07/30/2021
+323,3,Recife (PE),Florianopolis (SC),firstClass,1434.38,1.76,676.53,FlyingDrops,08/05/2021
+323,3,Florianopolis (SC),Recife (PE),firstClass,1292.29,1.76,676.53,FlyingDrops,08/07/2021
+324,3,Recife (PE),Brasilia (DF),economic,393.68,0.63,242.21,CloudFy,08/12/2021
+324,3,Brasilia (DF),Recife (PE),economic,432.1,0.63,242.21,CloudFy,08/15/2021
+325,3,Brasilia (DF),Rio de Janeiro (RJ),firstClass,649.64,0.48,183.37,CloudFy,08/19/2021
+325,3,Rio de Janeiro (RJ),Brasilia (DF),firstClass,688.06,0.48,183.37,CloudFy,08/22/2021
+326,3,Recife (PE),Aracaju (SE),economic,684.88,1.44,555.74,CloudFy,08/26/2021
+326,3,Aracaju (SE),Recife (PE),economic,604.14,1.44,555.74,CloudFy,08/29/2021
+327,3,Aracaju (SE),Brasilia (DF),firstClass,898.04,1.11,425.98,FlyingDrops,09/02/2021
+327,3,Brasilia (DF),Aracaju (SE),firstClass,1287.52,1.11,425.98,FlyingDrops,09/06/2021
+328,3,Recife (PE),Florianopolis (SC),firstClass,1371.83,1.76,676.53,Rainbow,09/09/2021
+328,3,Florianopolis (SC),Recife (PE),firstClass,1175.62,1.76,676.53,Rainbow,09/13/2021
+329,3,Recife (PE),Brasilia (DF),premium,638.63,0.63,242.21,Rainbow,09/16/2021
+329,3,Brasilia (DF),Recife (PE),premium,559.13,0.63,242.21,Rainbow,09/19/2021
+330,3,Recife (PE),Florianopolis (SC),firstClass,1371.83,1.76,676.53,Rainbow,09/23/2021
+330,3,Florianopolis (SC),Recife (PE),firstClass,1175.62,1.76,676.53,Rainbow,09/26/2021
+331,3,Recife (PE),Florianopolis (SC),premium,1070.54,1.76,676.53,Rainbow,09/30/2021
+331,3,Florianopolis (SC),Recife (PE),premium,1013.4,1.76,676.53,Rainbow,10/04/2021
+332,3,Brasilia (DF),Natal (RN),firstClass,1434.91,1.43,550.69,Rainbow,10/07/2021
+332,3,Natal (RN),Brasilia (DF),firstClass,1286.63,1.43,550.69,Rainbow,10/09/2021
+333,3,Brasilia (DF),Rio de Janeiro (RJ),economic,371.04,0.48,183.37,Rainbow,10/14/2021
+333,3,Rio de Janeiro (RJ),Brasilia (DF),economic,364.34,0.48,183.37,Rainbow,10/16/2021
+334,3,Brasilia (DF),Sao Paulo (SP),economic,538.95,0.67,257.81,CloudFy,10/21/2021
+334,3,Sao Paulo (SP),Brasilia (DF),economic,389.47,0.67,257.81,CloudFy,10/23/2021
+335,3,Brasilia (DF),Salvador (BH),firstClass,1724.49,1.76,676.56,FlyingDrops,10/28/2021
+335,3,Salvador (BH),Brasilia (DF),firstClass,1020.08,1.76,676.56,FlyingDrops,10/29/2021
+336,3,Recife (PE),Florianopolis (SC),premium,1070.54,1.76,676.53,Rainbow,11/04/2021
+336,3,Florianopolis (SC),Recife (PE),premium,1013.4,1.76,676.53,Rainbow,11/05/2021
+337,3,Aracaju (SE),Rio de Janeiro (RJ),economic,717.04,1.55,597.61,CloudFy,11/11/2021
+337,3,Rio de Janeiro (RJ),Aracaju (SE),economic,796.42,1.55,597.61,CloudFy,11/14/2021
+338,3,Brasilia (DF),Aracaju (SE),economic,721.2,1.11,425.98,Rainbow,11/18/2021
+338,3,Aracaju (SE),Brasilia (DF),economic,548.62,1.11,425.98,Rainbow,11/21/2021
+339,3,Recife (PE),Sao Paulo (SP),firstClass,980.83,1.26,486.52,Rainbow,11/25/2021
+339,3,Sao Paulo (SP),Recife (PE),firstClass,1573.5,1.26,486.52,Rainbow,11/28/2021
+340,3,Aracaju (SE),Brasilia (DF),premium,706.36,1.11,425.98,Rainbow,12/02/2021
+340,3,Brasilia (DF),Aracaju (SE),premium,965.62,1.11,425.98,Rainbow,12/04/2021
+341,3,Aracaju (SE),Brasilia (DF),economic,472.72,1.11,425.98,CloudFy,12/09/2021
+341,3,Brasilia (DF),Aracaju (SE),economic,654.88,1.11,425.98,CloudFy,12/12/2021
+342,3,Recife (PE),Aracaju (SE),firstClass,1300.81,1.44,555.74,FlyingDrops,12/16/2021
+342,3,Aracaju (SE),Recife (PE),firstClass,1088.87,1.44,555.74,FlyingDrops,12/17/2021
+343,3,Recife (PE),Campo Grande (MS),premium,832.77,1.39,535.4,Rainbow,12/23/2021
+343,3,Campo Grande (MS),Recife (PE),premium,991.22,1.39,535.4,Rainbow,12/25/2021
+344,3,Aracaju (SE),Sao Paulo (SP),economic,446.73,1.02,392.76,Rainbow,12/30/2021
+344,3,Sao Paulo (SP),Aracaju (SE),economic,647.9,1.02,392.76,Rainbow,01/02/2022
+345,3,Aracaju (SE),Recife (PE),economic,602.49,1.44,555.74,Rainbow,01/06/2022
+345,3,Recife (PE),Aracaju (SE),economic,663.23,1.44,555.74,Rainbow,01/07/2022
+346,3,Brasilia (DF),Florianopolis (SC),economic,884.94,1.66,637.56,CloudFy,01/13/2022
+346,3,Florianopolis (SC),Brasilia (DF),economic,636.51,1.66,637.56,CloudFy,01/15/2022
+347,3,Recife (PE),Brasilia (DF),economic,393.68,0.63,242.21,CloudFy,01/20/2022
+347,3,Brasilia (DF),Recife (PE),economic,432.1,0.63,242.21,CloudFy,01/21/2022
+348,3,Recife (PE),Sao Paulo (SP),firstClass,954.78,1.26,486.52,FlyingDrops,01/27/2022
+348,3,Sao Paulo (SP),Recife (PE),firstClass,1464.89,1.26,486.52,FlyingDrops,01/30/2022
+349,3,Brasilia (DF),Rio de Janeiro (RJ),premium,440.69,0.48,183.37,Rainbow,02/03/2022
+349,3,Rio de Janeiro (RJ),Brasilia (DF),premium,435.67,0.48,183.37,Rainbow,02/04/2022
+350,3,Recife (PE),Natal (RN),premium,474.6,0.58,222.67,CloudFy,02/10/2022
+350,3,Natal (RN),Recife (PE),premium,563.23,0.58,222.67,CloudFy,02/11/2022
+351,3,Recife (PE),Brasilia (DF),firstClass,709.25,0.63,242.21,CloudFy,02/17/2022
+351,3,Brasilia (DF),Recife (PE),firstClass,804.24,0.63,242.21,CloudFy,02/21/2022
+352,3,Aracaju (SE),Recife (PE),economic,604.14,1.44,555.74,CloudFy,02/24/2022
+352,3,Recife (PE),Aracaju (SE),economic,684.88,1.44,555.74,CloudFy,02/28/2022
+353,3,Aracaju (SE),Recife (PE),firstClass,1088.87,1.44,555.74,FlyingDrops,03/03/2022
+353,3,Recife (PE),Aracaju (SE),firstClass,1300.81,1.44,555.74,FlyingDrops,03/06/2022
+354,3,Aracaju (SE),Campo Grande (MS),firstClass,1387.89,1.69,650.1,Rainbow,03/10/2022
+354,3,Campo Grande (MS),Aracaju (SE),firstClass,1545.78,1.69,650.1,Rainbow,03/13/2022
+355,3,Brasilia (DF),Florianopolis (SC),premium,1189.32,1.66,637.56,CloudFy,03/17/2022
+355,3,Florianopolis (SC),Brasilia (DF),premium,885.37,1.66,637.56,CloudFy,03/19/2022
+356,3,Recife (PE),Aracaju (SE),economic,663.23,1.44,555.74,Rainbow,03/24/2022
+356,3,Aracaju (SE),Recife (PE),economic,602.49,1.44,555.74,Rainbow,03/26/2022
+357,3,Brasilia (DF),Florianopolis (SC),firstClass,1487.52,1.66,637.56,CloudFy,03/31/2022
+357,3,Florianopolis (SC),Brasilia (DF),firstClass,1127.36,1.66,637.56,CloudFy,04/01/2022
+358,3,Aracaju (SE),Campo Grande (MS),firstClass,1376.09,1.69,650.1,FlyingDrops,04/07/2022
+358,3,Campo Grande (MS),Aracaju (SE),firstClass,1473.41,1.69,650.1,FlyingDrops,04/10/2022
+359,3,Aracaju (SE),Salvador (BH),firstClass,1723.71,2.16,830.86,Rainbow,04/14/2022
+359,3,Salvador (BH),Aracaju (SE),firstClass,1520.02,2.16,830.86,Rainbow,04/17/2022
+360,3,Brasilia (DF),Sao Paulo (SP),firstClass,904.0,0.67,257.81,FlyingDrops,04/21/2022
+360,3,Sao Paulo (SP),Brasilia (DF),firstClass,727.31,0.67,257.81,FlyingDrops,04/25/2022
+361,3,Recife (PE),Natal (RN),firstClass,628.96,0.58,222.67,Rainbow,04/28/2022
+361,3,Natal (RN),Recife (PE),firstClass,806.91,0.58,222.67,Rainbow,04/29/2022
+362,3,Aracaju (SE),Rio de Janeiro (RJ),premium,930.12,1.55,597.61,Rainbow,05/05/2022
+362,3,Rio de Janeiro (RJ),Aracaju (SE),premium,1098.93,1.55,597.61,Rainbow,05/07/2022
+363,3,Brasilia (DF),Sao Paulo (SP),firstClass,992.17,0.67,257.81,Rainbow,05/12/2022
+363,3,Sao Paulo (SP),Brasilia (DF),firstClass,824.31,0.67,257.81,Rainbow,05/13/2022
+364,3,Brasilia (DF),Salvador (BH),economic,958.15,1.76,676.56,CloudFy,05/19/2022
+364,3,Salvador (BH),Brasilia (DF),economic,587.85,1.76,676.56,CloudFy,05/20/2022
+365,3,Brasilia (DF),Salvador (BH),premium,1346.6,1.76,676.56,CloudFy,05/26/2022
+365,3,Salvador (BH),Brasilia (DF),premium,836.89,1.76,676.56,CloudFy,05/29/2022
+366,3,Recife (PE),Campo Grande (MS),firstClass,1038.95,1.39,535.4,FlyingDrops,06/02/2022
+366,3,Campo Grande (MS),Recife (PE),firstClass,1262.23,1.39,535.4,FlyingDrops,06/03/2022
+367,3,Aracaju (SE),Recife (PE),economic,604.14,1.44,555.74,CloudFy,06/09/2022
+367,3,Recife (PE),Aracaju (SE),economic,684.88,1.44,555.74,CloudFy,06/11/2022
+368,3,Aracaju (SE),Florianopolis (SC),economic,852.18,2.1,808.85,Rainbow,06/16/2022
+368,3,Florianopolis (SC),Aracaju (SE),economic,819.41,2.1,808.85,Rainbow,06/19/2022
+369,3,Brasilia (DF),Recife (PE),firstClass,772.21,0.63,242.21,Rainbow,06/23/2022
+369,3,Recife (PE),Brasilia (DF),firstClass,721.93,0.63,242.21,Rainbow,06/26/2022
+370,3,Brasilia (DF),Campo Grande (MS),premium,851.15,0.72,277.7,Rainbow,06/30/2022
+370,3,Campo Grande (MS),Brasilia (DF),premium,691.99,0.72,277.7,Rainbow,07/03/2022
+371,3,Brasilia (DF),Sao Paulo (SP),firstClass,992.17,0.67,257.81,Rainbow,07/07/2022
+371,3,Sao Paulo (SP),Brasilia (DF),firstClass,824.31,0.67,257.81,Rainbow,07/10/2022
+372,3,Brasilia (DF),Campo Grande (MS),firstClass,1009.71,0.72,277.7,FlyingDrops,07/14/2022
+372,3,Campo Grande (MS),Brasilia (DF),firstClass,847.83,0.72,277.7,FlyingDrops,07/15/2022
+373,3,Recife (PE),Campo Grande (MS),firstClass,1038.95,1.39,535.4,FlyingDrops,07/21/2022
+373,3,Campo Grande (MS),Recife (PE),firstClass,1262.23,1.39,535.4,FlyingDrops,07/25/2022
+374,3,Aracaju (SE),Florianopolis (SC),firstClass,1499.93,2.1,808.85,FlyingDrops,07/28/2022
+374,3,Florianopolis (SC),Aracaju (SE),firstClass,1574.28,2.1,808.85,FlyingDrops,07/31/2022
+375,3,Aracaju (SE),Florianopolis (SC),premium,1132.81,2.1,808.85,Rainbow,08/04/2022
+375,3,Florianopolis (SC),Aracaju (SE),premium,1248.7,2.1,808.85,Rainbow,08/05/2022
+376,3,Brasilia (DF),Aracaju (SE),firstClass,1214.82,1.11,425.98,Rainbow,08/11/2022
+376,3,Aracaju (SE),Brasilia (DF),firstClass,959.29,1.11,425.98,Rainbow,08/13/2022
+377,3,Aracaju (SE),Florianopolis (SC),economic,869.13,2.1,808.85,CloudFy,08/18/2022
+377,3,Florianopolis (SC),Aracaju (SE),economic,879.1,2.1,808.85,CloudFy,08/22/2022
+378,3,Brasilia (DF),Campo Grande (MS),firstClass,1096.58,0.72,277.7,CloudFy,08/25/2022
+378,3,Campo Grande (MS),Brasilia (DF),firstClass,949.99,0.72,277.7,CloudFy,08/26/2022
+379,3,Brasilia (DF),Natal (RN),firstClass,1434.91,1.43,550.69,Rainbow,09/01/2022
+379,3,Natal (RN),Brasilia (DF),firstClass,1286.63,1.43,550.69,Rainbow,09/04/2022
+380,3,Brasilia (DF),Salvador (BH),premium,1268.97,1.76,676.56,Rainbow,09/08/2022
+380,3,Salvador (BH),Brasilia (DF),premium,882.86,1.76,676.56,Rainbow,09/12/2022
+381,3,Brasilia (DF),Rio de Janeiro (RJ),premium,457.95,0.48,183.37,CloudFy,09/15/2022
+381,3,Rio de Janeiro (RJ),Brasilia (DF),premium,503.26,0.48,183.37,CloudFy,09/17/2022
+382,3,Recife (PE),Salvador (BH),premium,1242.65,2.05,788.55,CloudFy,09/22/2022
+382,3,Salvador (BH),Recife (PE),premium,1016.53,2.05,788.55,CloudFy,09/24/2022
+383,3,Aracaju (SE),Florianopolis (SC),economic,852.18,2.1,808.85,Rainbow,09/29/2022
+383,3,Florianopolis (SC),Aracaju (SE),economic,819.41,2.1,808.85,Rainbow,10/01/2022
+384,3,Brasilia (DF),Florianopolis (SC),firstClass,1487.52,1.66,637.56,CloudFy,10/06/2022
+384,3,Florianopolis (SC),Brasilia (DF),firstClass,1127.36,1.66,637.56,CloudFy,10/08/2022
+385,3,Recife (PE),Campo Grande (MS),economic,615.59,1.39,535.4,Rainbow,10/13/2022
+385,3,Campo Grande (MS),Recife (PE),economic,674.16,1.39,535.4,Rainbow,10/15/2022
+386,3,Brasilia (DF),Rio de Janeiro (RJ),economic,371.04,0.48,183.37,Rainbow,10/20/2022
+386,3,Rio de Janeiro (RJ),Brasilia (DF),economic,364.34,0.48,183.37,Rainbow,10/22/2022
+387,3,Brasilia (DF),Sao Paulo (SP),premium,698.1,0.67,257.81,CloudFy,10/27/2022
+387,3,Sao Paulo (SP),Brasilia (DF),premium,602.12,0.67,257.81,CloudFy,10/30/2022
+388,3,Aracaju (SE),Natal (RN),premium,535.95,0.46,176.33,CloudFy,11/03/2022
+388,3,Natal (RN),Aracaju (SE),premium,451.41,0.46,176.33,CloudFy,11/07/2022
+389,3,Brasilia (DF),Florianopolis (SC),firstClass,1487.52,1.66,637.56,CloudFy,11/10/2022
+389,3,Florianopolis (SC),Brasilia (DF),firstClass,1127.36,1.66,637.56,CloudFy,11/14/2022
+390,3,Brasilia (DF),Sao Paulo (SP),economic,538.95,0.67,257.81,CloudFy,11/17/2022
+390,3,Sao Paulo (SP),Brasilia (DF),economic,389.47,0.67,257.81,CloudFy,11/20/2022
+391,3,Recife (PE),Florianopolis (SC),firstClass,1371.83,1.76,676.53,Rainbow,11/24/2022
+391,3,Florianopolis (SC),Recife (PE),firstClass,1175.62,1.76,676.53,Rainbow,11/28/2022
+392,3,Aracaju (SE),Campo Grande (MS),firstClass,1387.89,1.69,650.1,Rainbow,12/01/2022
+392,3,Campo Grande (MS),Aracaju (SE),firstClass,1545.78,1.69,650.1,Rainbow,12/05/2022
+393,3,Brasilia (DF),Campo Grande (MS),economic,583.6,0.72,277.7,CloudFy,12/08/2022
+393,3,Campo Grande (MS),Brasilia (DF),economic,506.56,0.72,277.7,CloudFy,12/12/2022
+394,3,Aracaju (SE),Salvador (BH),firstClass,1723.71,2.16,830.86,Rainbow,12/15/2022
+394,3,Salvador (BH),Aracaju (SE),firstClass,1520.02,2.16,830.86,Rainbow,12/19/2022
+395,3,Recife (PE),Brasilia (DF),firstClass,697.22,0.63,242.21,FlyingDrops,12/22/2022
+395,3,Brasilia (DF),Recife (PE),firstClass,691.39,0.63,242.21,FlyingDrops,12/23/2022
+396,3,Recife (PE),Rio de Janeiro (RJ),firstClass,1612.39,2.3,885.57,CloudFy,12/29/2022
+396,3,Rio de Janeiro (RJ),Recife (PE),firstClass,1664.01,2.3,885.57,CloudFy,01/02/2023
+397,3,Brasilia (DF),Recife (PE),economic,432.1,0.63,242.21,CloudFy,01/05/2023
+397,3,Recife (PE),Brasilia (DF),economic,393.68,0.63,242.21,CloudFy,01/09/2023
+398,3,Recife (PE),Campo Grande (MS),firstClass,1038.95,1.39,535.4,FlyingDrops,01/12/2023
+398,3,Campo Grande (MS),Recife (PE),firstClass,1262.23,1.39,535.4,FlyingDrops,01/16/2023
+399,3,Aracaju (SE),Campo Grande (MS),premium,1116.83,1.69,650.1,Rainbow,01/19/2023
+399,3,Campo Grande (MS),Aracaju (SE),premium,1146.95,1.69,650.1,Rainbow,01/23/2023
+400,3,Recife (PE),Aracaju (SE),premium,932.22,1.44,555.74,Rainbow,01/26/2023
+400,3,Aracaju (SE),Recife (PE),premium,875.41,1.44,555.74,Rainbow,01/30/2023
+401,3,Recife (PE),Natal (RN),economic,301.51,0.58,222.67,CloudFy,02/02/2023
+401,3,Natal (RN),Recife (PE),economic,429.77,0.58,222.67,CloudFy,02/03/2023
+402,3,Aracaju (SE),Rio de Janeiro (RJ),firstClass,1183.57,1.55,597.61,CloudFy,02/09/2023
+402,3,Rio de Janeiro (RJ),Aracaju (SE),firstClass,1446.4,1.55,597.61,CloudFy,02/13/2023
+403,3,Recife (PE),Sao Paulo (SP),economic,545.95,1.26,486.52,Rainbow,02/16/2023
+403,3,Sao Paulo (SP),Recife (PE),economic,827.12,1.26,486.52,Rainbow,02/19/2023
+404,3,Brasilia (DF),Aracaju (SE),firstClass,1260.1,1.11,425.98,CloudFy,02/23/2023
+404,3,Aracaju (SE),Brasilia (DF),firstClass,957.68,1.11,425.98,CloudFy,02/24/2023
+405,3,Aracaju (SE),Brasilia (DF),economic,472.72,1.11,425.98,CloudFy,03/02/2023
+405,3,Brasilia (DF),Aracaju (SE),economic,654.88,1.11,425.98,CloudFy,03/06/2023
+406,3,Recife (PE),Natal (RN),premium,474.6,0.58,222.67,CloudFy,03/09/2023
+406,3,Natal (RN),Recife (PE),premium,563.23,0.58,222.67,CloudFy,03/11/2023
+407,3,Aracaju (SE),Florianopolis (SC),economic,869.13,2.1,808.85,CloudFy,03/16/2023
+407,3,Florianopolis (SC),Aracaju (SE),economic,879.1,2.1,808.85,CloudFy,03/18/2023
+408,3,Recife (PE),Salvador (BH),premium,1249.83,2.05,788.55,Rainbow,03/23/2023
+408,3,Salvador (BH),Recife (PE),premium,1103.23,2.05,788.55,Rainbow,03/24/2023
+409,3,Aracaju (SE),Salvador (BH),firstClass,1684.05,2.16,830.86,CloudFy,03/30/2023
+409,3,Salvador (BH),Aracaju (SE),firstClass,1531.92,2.16,830.86,CloudFy,04/02/2023
+410,3,Recife (PE),Campo Grande (MS),premium,832.77,1.39,535.4,Rainbow,04/06/2023
+410,3,Campo Grande (MS),Recife (PE),premium,991.22,1.39,535.4,Rainbow,04/09/2023
+411,3,Brasilia (DF),Florianopolis (SC),economic,884.94,1.66,637.56,CloudFy,04/13/2023
+411,3,Florianopolis (SC),Brasilia (DF),economic,636.51,1.66,637.56,CloudFy,04/17/2023
+412,3,Aracaju (SE),Florianopolis (SC),firstClass,1499.93,2.1,808.85,FlyingDrops,04/20/2023
+412,3,Florianopolis (SC),Aracaju (SE),firstClass,1574.28,2.1,808.85,FlyingDrops,04/22/2023
+413,3,Brasilia (DF),Florianopolis (SC),premium,1222.24,1.66,637.56,Rainbow,04/27/2023
+413,3,Florianopolis (SC),Brasilia (DF),premium,814.55,1.66,637.56,Rainbow,05/01/2023
+414,3,Recife (PE),Campo Grande (MS),premium,793.15,1.39,535.4,CloudFy,05/04/2023
+414,3,Campo Grande (MS),Recife (PE),premium,959.91,1.39,535.4,CloudFy,05/07/2023
+415,3,Aracaju (SE),Rio de Janeiro (RJ),premium,930.12,1.55,597.61,Rainbow,05/11/2023
+415,3,Rio de Janeiro (RJ),Aracaju (SE),premium,1098.93,1.55,597.61,Rainbow,05/13/2023
+416,3,Aracaju (SE),Florianopolis (SC),firstClass,1582.41,2.1,808.85,Rainbow,05/18/2023
+416,3,Florianopolis (SC),Aracaju (SE),firstClass,1582.1,2.1,808.85,Rainbow,05/21/2023
+417,3,Recife (PE),Natal (RN),premium,488.73,0.58,222.67,Rainbow,05/25/2023
+417,3,Natal (RN),Recife (PE),premium,579.62,0.58,222.67,Rainbow,05/27/2023
+418,3,Aracaju (SE),Recife (PE),premium,875.41,1.44,555.74,Rainbow,06/01/2023
+418,3,Recife (PE),Aracaju (SE),premium,932.22,1.44,555.74,Rainbow,06/02/2023
+419,3,Aracaju (SE),Campo Grande (MS),firstClass,1389.37,1.69,650.1,CloudFy,06/08/2023
+419,3,Campo Grande (MS),Aracaju (SE),firstClass,1581.8,1.69,650.1,CloudFy,06/10/2023
+420,3,Brasilia (DF),Natal (RN),premium,1107.52,1.43,550.69,Rainbow,06/15/2023
+420,3,Natal (RN),Brasilia (DF),premium,919.89,1.43,550.69,Rainbow,06/17/2023
+421,3,Brasilia (DF),Sao Paulo (SP),economic,538.95,0.67,257.81,CloudFy,06/22/2023
+421,3,Sao Paulo (SP),Brasilia (DF),economic,389.47,0.67,257.81,CloudFy,06/23/2023
+422,3,Brasilia (DF),Rio de Janeiro (RJ),firstClass,539.39,0.48,183.37,FlyingDrops,06/29/2023
+422,3,Rio de Janeiro (RJ),Brasilia (DF),firstClass,591.19,0.48,183.37,FlyingDrops,07/02/2023
+423,3,Brasilia (DF),Florianopolis (SC),firstClass,1569.65,1.66,637.56,FlyingDrops,07/06/2023
+423,3,Florianopolis (SC),Brasilia (DF),firstClass,1097.17,1.66,637.56,FlyingDrops,07/08/2023
+424,3,Aracaju (SE),Rio de Janeiro (RJ),economic,712.64,1.55,597.61,Rainbow,07/13/2023
+424,3,Rio de Janeiro (RJ),Aracaju (SE),economic,734.09,1.55,597.61,Rainbow,07/14/2023
+425,4,Aracaju (SE),Campo Grande (MS),firstClass,1389.37,1.69,650.1,CloudFy,09/26/2019
+425,4,Campo Grande (MS),Aracaju (SE),firstClass,1581.8,1.69,650.1,CloudFy,09/29/2019
+426,4,Aracaju (SE),Recife (PE),economic,602.49,1.44,555.74,Rainbow,10/03/2019
+426,4,Recife (PE),Aracaju (SE),economic,663.23,1.44,555.74,Rainbow,10/05/2019
+427,4,Recife (PE),Rio de Janeiro (RJ),premium,1351.89,2.3,885.57,Rainbow,10/10/2019
+427,4,Rio de Janeiro (RJ),Recife (PE),premium,1306.26,2.3,885.57,Rainbow,10/13/2019
+428,4,Aracaju (SE),Sao Paulo (SP),economic,410.79,1.02,392.76,CloudFy,10/17/2019
+428,4,Sao Paulo (SP),Aracaju (SE),economic,722.74,1.02,392.76,CloudFy,10/18/2019
+429,4,Recife (PE),Florianopolis (SC),firstClass,1434.38,1.76,676.53,FlyingDrops,10/24/2019
+429,4,Florianopolis (SC),Recife (PE),firstClass,1292.29,1.76,676.53,FlyingDrops,10/28/2019
+430,4,Aracaju (SE),Recife (PE),premium,875.41,1.44,555.74,Rainbow,10/31/2019
+430,4,Recife (PE),Aracaju (SE),premium,932.22,1.44,555.74,Rainbow,11/01/2019
+431,4,Brasilia (DF),Recife (PE),economic,421.2,0.63,242.21,Rainbow,11/07/2019
+431,4,Recife (PE),Brasilia (DF),economic,439.38,0.63,242.21,Rainbow,11/11/2019
+432,4,Brasilia (DF),Recife (PE),economic,421.2,0.63,242.21,Rainbow,11/14/2019
+432,4,Recife (PE),Brasilia (DF),economic,439.38,0.63,242.21,Rainbow,11/17/2019
+433,4,Brasilia (DF),Florianopolis (SC),firstClass,1569.65,1.66,637.56,FlyingDrops,11/21/2019
+433,4,Florianopolis (SC),Brasilia (DF),firstClass,1097.17,1.66,637.56,FlyingDrops,11/23/2019
+434,4,Recife (PE),Salvador (BH),economic,842.11,2.05,788.55,CloudFy,11/28/2019
+434,4,Salvador (BH),Recife (PE),economic,767.27,2.05,788.55,CloudFy,12/02/2019
+435,4,Recife (PE),Rio de Janeiro (RJ),firstClass,1611.14,2.3,885.57,Rainbow,12/05/2019
+435,4,Rio de Janeiro (RJ),Recife (PE),firstClass,1617.81,2.3,885.57,Rainbow,12/06/2019
+436,4,Recife (PE),Natal (RN),firstClass,628.96,0.58,222.67,Rainbow,12/12/2019
+436,4,Natal (RN),Recife (PE),firstClass,806.91,0.58,222.67,Rainbow,12/14/2019
+437,4,Recife (PE),Brasilia (DF),premium,638.63,0.63,242.21,Rainbow,12/19/2019
+437,4,Brasilia (DF),Recife (PE),premium,559.13,0.63,242.21,Rainbow,12/22/2019
+438,4,Recife (PE),Aracaju (SE),firstClass,1181.19,1.44,555.74,Rainbow,12/26/2019
+438,4,Aracaju (SE),Recife (PE),firstClass,1119.47,1.44,555.74,Rainbow,12/30/2019
+439,4,Brasilia (DF),Florianopolis (SC),firstClass,1576.97,1.66,637.56,Rainbow,01/02/2020
+439,4,Florianopolis (SC),Brasilia (DF),firstClass,1087.18,1.66,637.56,Rainbow,01/06/2020
+440,4,Brasilia (DF),Salvador (BH),firstClass,1685.23,1.76,676.56,CloudFy,01/09/2020
+440,4,Salvador (BH),Brasilia (DF),firstClass,1032.4,1.76,676.56,CloudFy,01/12/2020
+441,4,Recife (PE),Salvador (BH),firstClass,1484.94,2.05,788.55,CloudFy,01/16/2020
+441,4,Salvador (BH),Recife (PE),firstClass,1440.02,2.05,788.55,CloudFy,01/18/2020
+442,4,Brasilia (DF),Aracaju (SE),premium,965.62,1.11,425.98,Rainbow,01/23/2020
+442,4,Aracaju (SE),Brasilia (DF),premium,706.36,1.11,425.98,Rainbow,01/25/2020
+443,4,Brasilia (DF),Natal (RN),economic,791.66,1.43,550.69,CloudFy,01/30/2020
+443,4,Natal (RN),Brasilia (DF),economic,697.51,1.43,550.69,CloudFy,02/01/2020
+444,4,Brasilia (DF),Recife (PE),premium,568.38,0.63,242.21,CloudFy,02/06/2020
+444,4,Recife (PE),Brasilia (DF),premium,573.61,0.63,242.21,CloudFy,02/10/2020
+445,4,Recife (PE),Rio de Janeiro (RJ),firstClass,1612.39,2.3,885.57,CloudFy,02/13/2020
+445,4,Rio de Janeiro (RJ),Recife (PE),firstClass,1664.01,2.3,885.57,CloudFy,02/14/2020
+446,4,Brasilia (DF),Aracaju (SE),firstClass,1214.82,1.11,425.98,Rainbow,02/20/2020
+446,4,Aracaju (SE),Brasilia (DF),firstClass,959.29,1.11,425.98,Rainbow,02/22/2020
+447,4,Brasilia (DF),Sao Paulo (SP),firstClass,992.17,0.67,257.81,Rainbow,02/27/2020
+447,4,Sao Paulo (SP),Brasilia (DF),firstClass,824.31,0.67,257.81,Rainbow,02/29/2020
+448,4,Recife (PE),Florianopolis (SC),economic,803.39,1.76,676.53,Rainbow,03/05/2020
+448,4,Florianopolis (SC),Recife (PE),economic,695.3,1.76,676.53,Rainbow,03/09/2020
+449,4,Brasilia (DF),Salvador (BH),premium,1346.6,1.76,676.56,CloudFy,03/12/2020
+449,4,Salvador (BH),Brasilia (DF),premium,836.89,1.76,676.56,CloudFy,03/16/2020
+450,4,Aracaju (SE),Campo Grande (MS),firstClass,1389.37,1.69,650.1,CloudFy,03/19/2020
+450,4,Campo Grande (MS),Aracaju (SE),firstClass,1581.8,1.69,650.1,CloudFy,03/21/2020
+451,4,Recife (PE),Florianopolis (SC),economic,803.39,1.76,676.53,Rainbow,03/26/2020
+451,4,Florianopolis (SC),Recife (PE),economic,695.3,1.76,676.53,Rainbow,03/30/2020
+452,4,Aracaju (SE),Florianopolis (SC),economic,852.18,2.1,808.85,Rainbow,04/02/2020
+452,4,Florianopolis (SC),Aracaju (SE),economic,819.41,2.1,808.85,Rainbow,04/03/2020
+453,4,Aracaju (SE),Sao Paulo (SP),premium,630.34,1.02,392.76,CloudFy,04/09/2020
+453,4,Sao Paulo (SP),Aracaju (SE),premium,906.59,1.02,392.76,CloudFy,04/10/2020
+454,4,Aracaju (SE),Rio de Janeiro (RJ),firstClass,1190.94,1.55,597.61,FlyingDrops,04/16/2020
+454,4,Rio de Janeiro (RJ),Aracaju (SE),firstClass,1381.55,1.55,597.61,FlyingDrops,04/18/2020
+455,4,Aracaju (SE),Salvador (BH),firstClass,1723.71,2.16,830.86,Rainbow,04/23/2020
+455,4,Salvador (BH),Aracaju (SE),firstClass,1520.02,2.16,830.86,Rainbow,04/24/2020
+456,4,Brasilia (DF),Rio de Janeiro (RJ),premium,440.69,0.48,183.37,Rainbow,04/30/2020
+456,4,Rio de Janeiro (RJ),Brasilia (DF),premium,435.67,0.48,183.37,Rainbow,05/03/2020
+457,4,Recife (PE),Campo Grande (MS),premium,832.77,1.39,535.4,Rainbow,05/07/2020
+457,4,Campo Grande (MS),Recife (PE),premium,991.22,1.39,535.4,Rainbow,05/09/2020
+458,4,Brasilia (DF),Rio de Janeiro (RJ),firstClass,586.04,0.48,183.37,Rainbow,05/14/2020
+458,4,Rio de Janeiro (RJ),Brasilia (DF),firstClass,687.25,0.48,183.37,Rainbow,05/16/2020
+459,4,Brasilia (DF),Natal (RN),economic,726.19,1.43,550.69,Rainbow,05/21/2020
+459,4,Natal (RN),Brasilia (DF),economic,686.79,1.43,550.69,Rainbow,05/24/2020
+460,4,Recife (PE),Brasilia (DF),premium,638.63,0.63,242.21,Rainbow,05/28/2020
+460,4,Brasilia (DF),Recife (PE),premium,559.13,0.63,242.21,Rainbow,05/29/2020
+461,4,Brasilia (DF),Sao Paulo (SP),economic,533.8,0.67,257.81,Rainbow,06/04/2020
+461,4,Sao Paulo (SP),Brasilia (DF),economic,393.84,0.67,257.81,Rainbow,06/08/2020
+462,4,Brasilia (DF),Aracaju (SE),firstClass,1287.52,1.11,425.98,FlyingDrops,06/11/2020
+462,4,Aracaju (SE),Brasilia (DF),firstClass,898.04,1.11,425.98,FlyingDrops,06/13/2020
+463,4,Aracaju (SE),Natal (RN),premium,535.95,0.46,176.33,CloudFy,06/18/2020
+463,4,Natal (RN),Aracaju (SE),premium,451.41,0.46,176.33,CloudFy,06/20/2020
+464,4,Brasilia (DF),Rio de Janeiro (RJ),economic,371.04,0.48,183.37,Rainbow,06/25/2020
+464,4,Rio de Janeiro (RJ),Brasilia (DF),economic,364.34,0.48,183.37,Rainbow,06/29/2020
+465,4,Brasilia (DF),Aracaju (SE),economic,721.2,1.11,425.98,Rainbow,07/02/2020
+465,4,Aracaju (SE),Brasilia (DF),economic,548.62,1.11,425.98,Rainbow,07/06/2020
+466,4,Aracaju (SE),Salvador (BH),firstClass,1684.05,2.16,830.86,CloudFy,07/09/2020
+466,4,Salvador (BH),Aracaju (SE),firstClass,1531.92,2.16,830.86,CloudFy,07/11/2020
+467,4,Recife (PE),Rio de Janeiro (RJ),firstClass,1706.89,2.3,885.57,FlyingDrops,07/16/2020
+467,4,Rio de Janeiro (RJ),Recife (PE),firstClass,1702.23,2.3,885.57,FlyingDrops,07/19/2020
+468,4,Recife (PE),Aracaju (SE),economic,663.23,1.44,555.74,Rainbow,07/23/2020
+468,4,Aracaju (SE),Recife (PE),economic,602.49,1.44,555.74,Rainbow,07/24/2020
+469,4,Brasilia (DF),Campo Grande (MS),premium,851.15,0.72,277.7,Rainbow,07/30/2020
+469,4,Campo Grande (MS),Brasilia (DF),premium,691.99,0.72,277.7,Rainbow,08/01/2020
+470,4,Recife (PE),Florianopolis (SC),economic,803.39,1.76,676.53,Rainbow,08/06/2020
+470,4,Florianopolis (SC),Recife (PE),economic,695.3,1.76,676.53,Rainbow,08/07/2020
+471,4,Recife (PE),Sao Paulo (SP),economic,513.06,1.26,486.52,CloudFy,08/13/2020
+471,4,Sao Paulo (SP),Recife (PE),economic,829.91,1.26,486.52,CloudFy,08/15/2020
+472,4,Brasilia (DF),Florianopolis (SC),firstClass,1487.52,1.66,637.56,CloudFy,08/20/2020
+472,4,Florianopolis (SC),Brasilia (DF),firstClass,1127.36,1.66,637.56,CloudFy,08/21/2020
+473,4,Recife (PE),Sao Paulo (SP),firstClass,954.78,1.26,486.52,FlyingDrops,08/27/2020
+473,4,Sao Paulo (SP),Recife (PE),firstClass,1464.89,1.26,486.52,FlyingDrops,08/31/2020
+474,4,Brasilia (DF),Aracaju (SE),premium,987.07,1.11,425.98,CloudFy,09/03/2020
+474,4,Aracaju (SE),Brasilia (DF),premium,755.62,1.11,425.98,CloudFy,09/05/2020
+475,4,Recife (PE),Salvador (BH),economic,842.11,2.05,788.55,CloudFy,09/10/2020
+475,4,Salvador (BH),Recife (PE),economic,767.27,2.05,788.55,CloudFy,09/13/2020
+476,4,Recife (PE),Florianopolis (SC),firstClass,1354.53,1.76,676.53,CloudFy,09/17/2020
+476,4,Florianopolis (SC),Recife (PE),firstClass,1300.6,1.76,676.53,CloudFy,09/20/2020
+477,4,Recife (PE),Salvador (BH),firstClass,1596.61,2.05,788.55,FlyingDrops,09/24/2020
+477,4,Salvador (BH),Recife (PE),firstClass,1348.04,2.05,788.55,FlyingDrops,09/25/2020
+478,4,Aracaju (SE),Salvador (BH),economic,964.83,2.16,830.86,CloudFy,10/01/2020
+478,4,Salvador (BH),Aracaju (SE),economic,811.73,2.16,830.86,CloudFy,10/05/2020
+479,4,Aracaju (SE),Natal (RN),firstClass,598.61,0.46,176.33,CloudFy,10/08/2020
+479,4,Natal (RN),Aracaju (SE),firstClass,576.66,0.46,176.33,CloudFy,10/10/2020
+480,4,Recife (PE),Aracaju (SE),premium,932.22,1.44,555.74,Rainbow,10/15/2020
+480,4,Aracaju (SE),Recife (PE),premium,875.41,1.44,555.74,Rainbow,10/19/2020
+481,4,Recife (PE),Florianopolis (SC),firstClass,1371.83,1.76,676.53,Rainbow,10/22/2020
+481,4,Florianopolis (SC),Recife (PE),firstClass,1175.62,1.76,676.53,Rainbow,10/26/2020
+482,4,Recife (PE),Sao Paulo (SP),firstClass,883.63,1.26,486.52,CloudFy,10/29/2020
+482,4,Sao Paulo (SP),Recife (PE),firstClass,1533.42,1.26,486.52,CloudFy,10/30/2020
+483,4,Brasilia (DF),Recife (PE),premium,568.38,0.63,242.21,CloudFy,11/05/2020
+483,4,Recife (PE),Brasilia (DF),premium,573.61,0.63,242.21,CloudFy,11/09/2020
+484,4,Brasilia (DF),Natal (RN),economic,791.66,1.43,550.69,CloudFy,11/12/2020
+484,4,Natal (RN),Brasilia (DF),economic,697.51,1.43,550.69,CloudFy,11/16/2020
+485,4,Recife (PE),Campo Grande (MS),firstClass,1110.76,1.39,535.4,CloudFy,11/19/2020
+485,4,Campo Grande (MS),Recife (PE),firstClass,1244.73,1.39,535.4,CloudFy,11/22/2020
+486,4,Brasilia (DF),Aracaju (SE),premium,987.07,1.11,425.98,CloudFy,11/26/2020
+486,4,Aracaju (SE),Brasilia (DF),premium,755.62,1.11,425.98,CloudFy,11/30/2020
+487,4,Aracaju (SE),Salvador (BH),premium,1288.79,2.16,830.86,CloudFy,12/03/2020
+487,4,Salvador (BH),Aracaju (SE),premium,1209.04,2.16,830.86,CloudFy,12/04/2020
+488,4,Brasilia (DF),Salvador (BH),firstClass,1685.23,1.76,676.56,CloudFy,12/10/2020
+488,4,Salvador (BH),Brasilia (DF),firstClass,1032.4,1.76,676.56,CloudFy,12/14/2020
+489,4,Recife (PE),Rio de Janeiro (RJ),premium,1270.03,2.3,885.57,CloudFy,12/17/2020
+489,4,Rio de Janeiro (RJ),Recife (PE),premium,1333.52,2.3,885.57,CloudFy,12/21/2020
+490,4,Recife (PE),Rio de Janeiro (RJ),premium,1351.89,2.3,885.57,Rainbow,12/24/2020
+490,4,Rio de Janeiro (RJ),Recife (PE),premium,1306.26,2.3,885.57,Rainbow,12/25/2020
+491,4,Brasilia (DF),Florianopolis (SC),premium,1189.32,1.66,637.56,CloudFy,12/31/2020
+491,4,Florianopolis (SC),Brasilia (DF),premium,885.37,1.66,637.56,CloudFy,01/04/2021
+492,4,Recife (PE),Aracaju (SE),premium,932.84,1.44,555.74,CloudFy,01/07/2021
+492,4,Aracaju (SE),Recife (PE),premium,835.21,1.44,555.74,CloudFy,01/09/2021
+493,4,Recife (PE),Sao Paulo (SP),firstClass,954.78,1.26,486.52,FlyingDrops,01/14/2021
+493,4,Sao Paulo (SP),Recife (PE),firstClass,1464.89,1.26,486.52,FlyingDrops,01/17/2021
+494,4,Recife (PE),Sao Paulo (SP),economic,513.06,1.26,486.52,CloudFy,01/21/2021
+494,4,Sao Paulo (SP),Recife (PE),economic,829.91,1.26,486.52,CloudFy,01/23/2021
+495,4,Aracaju (SE),Natal (RN),economic,380.32,0.46,176.33,Rainbow,01/28/2021
+495,4,Natal (RN),Aracaju (SE),economic,301.61,0.46,176.33,Rainbow,01/29/2021
+496,4,Aracaju (SE),Salvador (BH),economic,943.36,2.16,830.86,Rainbow,02/04/2021
+496,4,Salvador (BH),Aracaju (SE),economic,826.02,2.16,830.86,Rainbow,02/05/2021
+497,4,Aracaju (SE),Sao Paulo (SP),firstClass,756.3,1.02,392.76,FlyingDrops,02/11/2021
+497,4,Sao Paulo (SP),Aracaju (SE),firstClass,1269.73,1.02,392.76,FlyingDrops,02/12/2021
+498,4,Brasilia (DF),Rio de Janeiro (RJ),firstClass,586.04,0.48,183.37,Rainbow,02/18/2021
+498,4,Rio de Janeiro (RJ),Brasilia (DF),firstClass,687.25,0.48,183.37,Rainbow,02/22/2021
+499,4,Brasilia (DF),Salvador (BH),firstClass,1724.49,1.76,676.56,FlyingDrops,02/25/2021
+499,4,Salvador (BH),Brasilia (DF),firstClass,1020.08,1.76,676.56,FlyingDrops,03/01/2021
+500,4,Recife (PE),Salvador (BH),premium,1242.65,2.05,788.55,CloudFy,03/04/2021
+500,4,Salvador (BH),Recife (PE),premium,1016.53,2.05,788.55,CloudFy,03/06/2021
+501,4,Recife (PE),Rio de Janeiro (RJ),firstClass,1706.89,2.3,885.57,FlyingDrops,03/11/2021
+501,4,Rio de Janeiro (RJ),Recife (PE),firstClass,1702.23,2.3,885.57,FlyingDrops,03/12/2021
+502,4,Brasilia (DF),Florianopolis (SC),premium,1189.32,1.66,637.56,CloudFy,03/18/2021
+502,4,Florianopolis (SC),Brasilia (DF),premium,885.37,1.66,637.56,CloudFy,03/20/2021
+503,4,Aracaju (SE),Florianopolis (SC),firstClass,1515.79,2.1,808.85,CloudFy,03/25/2021
+503,4,Florianopolis (SC),Aracaju (SE),firstClass,1468.03,2.1,808.85,CloudFy,03/27/2021
+504,4,Brasilia (DF),Recife (PE),firstClass,691.39,0.63,242.21,FlyingDrops,04/01/2021
+504,4,Recife (PE),Brasilia (DF),firstClass,697.22,0.63,242.21,FlyingDrops,04/05/2021
+505,4,Aracaju (SE),Florianopolis (SC),firstClass,1582.41,2.1,808.85,Rainbow,04/08/2021
+505,4,Florianopolis (SC),Aracaju (SE),firstClass,1582.1,2.1,808.85,Rainbow,04/10/2021
+506,4,Recife (PE),Natal (RN),premium,488.73,0.58,222.67,Rainbow,04/15/2021
+506,4,Natal (RN),Recife (PE),premium,579.62,0.58,222.67,Rainbow,04/19/2021
+507,4,Aracaju (SE),Campo Grande (MS),premium,1021.53,1.69,650.1,CloudFy,04/22/2021
+507,4,Campo Grande (MS),Aracaju (SE),premium,1215.45,1.69,650.1,CloudFy,04/24/2021
+508,4,Brasilia (DF),Natal (RN),premium,1067.3,1.43,550.69,CloudFy,04/29/2021
+508,4,Natal (RN),Brasilia (DF),premium,898.46,1.43,550.69,CloudFy,04/30/2021
+509,4,Recife (PE),Aracaju (SE),firstClass,1181.19,1.44,555.74,Rainbow,05/06/2021
+509,4,Aracaju (SE),Recife (PE),firstClass,1119.47,1.44,555.74,Rainbow,05/10/2021
+510,4,Aracaju (SE),Salvador (BH),firstClass,1714.75,2.16,830.86,FlyingDrops,05/13/2021
+510,4,Salvador (BH),Aracaju (SE),firstClass,1581.59,2.16,830.86,FlyingDrops,05/15/2021
+511,4,Aracaju (SE),Natal (RN),firstClass,549.96,0.46,176.33,Rainbow,05/20/2021
+511,4,Natal (RN),Aracaju (SE),firstClass,611.4,0.46,176.33,Rainbow,05/23/2021
+512,4,Recife (PE),Brasilia (DF),firstClass,709.25,0.63,242.21,CloudFy,05/27/2021
+512,4,Brasilia (DF),Recife (PE),firstClass,804.24,0.63,242.21,CloudFy,05/31/2021
+513,4,Recife (PE),Campo Grande (MS),firstClass,1110.76,1.39,535.4,CloudFy,06/03/2021
+513,4,Campo Grande (MS),Recife (PE),firstClass,1244.73,1.39,535.4,CloudFy,06/07/2021
+514,4,Aracaju (SE),Recife (PE),firstClass,1119.47,1.44,555.74,Rainbow,06/10/2021
+514,4,Recife (PE),Aracaju (SE),firstClass,1181.19,1.44,555.74,Rainbow,06/13/2021
+515,4,Recife (PE),Florianopolis (SC),economic,803.39,1.76,676.53,Rainbow,06/17/2021
+515,4,Florianopolis (SC),Recife (PE),economic,695.3,1.76,676.53,Rainbow,06/20/2021
+516,4,Aracaju (SE),Brasilia (DF),firstClass,898.04,1.11,425.98,FlyingDrops,06/24/2021
+516,4,Brasilia (DF),Aracaju (SE),firstClass,1287.52,1.11,425.98,FlyingDrops,06/26/2021
+517,4,Recife (PE),Natal (RN),economic,360.22,0.58,222.67,Rainbow,07/01/2021
+517,4,Natal (RN),Recife (PE),economic,406.36,0.58,222.67,Rainbow,07/05/2021
+518,4,Brasilia (DF),Sao Paulo (SP),economic,533.8,0.67,257.81,Rainbow,07/08/2021
+518,4,Sao Paulo (SP),Brasilia (DF),economic,393.84,0.67,257.81,Rainbow,07/09/2021
+519,4,Brasilia (DF),Florianopolis (SC),firstClass,1569.65,1.66,637.56,FlyingDrops,07/15/2021
+519,4,Florianopolis (SC),Brasilia (DF),firstClass,1097.17,1.66,637.56,FlyingDrops,07/17/2021
+520,4,Recife (PE),Aracaju (SE),premium,932.84,1.44,555.74,CloudFy,07/22/2021
+520,4,Aracaju (SE),Recife (PE),premium,835.21,1.44,555.74,CloudFy,07/25/2021
+521,4,Brasilia (DF),Aracaju (SE),firstClass,1260.1,1.11,425.98,CloudFy,07/29/2021
+521,4,Aracaju (SE),Brasilia (DF),firstClass,957.68,1.11,425.98,CloudFy,07/30/2021
+522,4,Aracaju (SE),Recife (PE),premium,835.21,1.44,555.74,CloudFy,08/05/2021
+522,4,Recife (PE),Aracaju (SE),premium,932.84,1.44,555.74,CloudFy,08/06/2021
+523,4,Aracaju (SE),Florianopolis (SC),firstClass,1515.79,2.1,808.85,CloudFy,08/12/2021
+523,4,Florianopolis (SC),Aracaju (SE),firstClass,1468.03,2.1,808.85,CloudFy,08/13/2021
+524,4,Aracaju (SE),Brasilia (DF),premium,706.36,1.11,425.98,Rainbow,08/19/2021
+524,4,Brasilia (DF),Aracaju (SE),premium,965.62,1.11,425.98,Rainbow,08/23/2021
+525,4,Aracaju (SE),Florianopolis (SC),economic,852.18,2.1,808.85,Rainbow,08/26/2021
+525,4,Florianopolis (SC),Aracaju (SE),economic,819.41,2.1,808.85,Rainbow,08/29/2021
+526,4,Brasilia (DF),Salvador (BH),economic,921.08,1.76,676.56,Rainbow,09/02/2021
+526,4,Salvador (BH),Brasilia (DF),economic,609.83,1.76,676.56,Rainbow,09/03/2021
+527,4,Brasilia (DF),Florianopolis (SC),firstClass,1576.97,1.66,637.56,Rainbow,09/09/2021
+527,4,Florianopolis (SC),Brasilia (DF),firstClass,1087.18,1.66,637.56,Rainbow,09/13/2021
+528,4,Recife (PE),Natal (RN),firstClass,628.96,0.58,222.67,Rainbow,09/16/2021
+528,4,Natal (RN),Recife (PE),firstClass,806.91,0.58,222.67,Rainbow,09/17/2021
+529,4,Recife (PE),Sao Paulo (SP),firstClass,980.83,1.26,486.52,Rainbow,09/23/2021
+529,4,Sao Paulo (SP),Recife (PE),firstClass,1573.5,1.26,486.52,Rainbow,09/26/2021
+530,4,Brasilia (DF),Sao Paulo (SP),firstClass,893.65,0.67,257.81,CloudFy,09/30/2021
+530,4,Sao Paulo (SP),Brasilia (DF),firstClass,742.94,0.67,257.81,CloudFy,10/04/2021
+531,4,Aracaju (SE),Rio de Janeiro (RJ),firstClass,1183.57,1.55,597.61,CloudFy,10/07/2021
+531,4,Rio de Janeiro (RJ),Aracaju (SE),firstClass,1446.4,1.55,597.61,CloudFy,10/11/2021
+532,4,Aracaju (SE),Rio de Janeiro (RJ),economic,717.04,1.55,597.61,CloudFy,10/14/2021
+532,4,Rio de Janeiro (RJ),Aracaju (SE),economic,796.42,1.55,597.61,CloudFy,10/18/2021
+533,4,Brasilia (DF),Recife (PE),premium,568.38,0.63,242.21,CloudFy,10/21/2021
+533,4,Recife (PE),Brasilia (DF),premium,573.61,0.63,242.21,CloudFy,10/24/2021
+534,4,Recife (PE),Florianopolis (SC),firstClass,1354.53,1.76,676.53,CloudFy,10/28/2021
+534,4,Florianopolis (SC),Recife (PE),firstClass,1300.6,1.76,676.53,CloudFy,11/01/2021
+535,4,Recife (PE),Aracaju (SE),premium,932.22,1.44,555.74,Rainbow,11/04/2021
+535,4,Aracaju (SE),Recife (PE),premium,875.41,1.44,555.74,Rainbow,11/07/2021
+536,4,Recife (PE),Rio de Janeiro (RJ),premium,1270.03,2.3,885.57,CloudFy,11/11/2021
+536,4,Rio de Janeiro (RJ),Recife (PE),premium,1333.52,2.3,885.57,CloudFy,11/13/2021
+537,4,Brasilia (DF),Recife (PE),premium,559.13,0.63,242.21,Rainbow,11/18/2021
+537,4,Recife (PE),Brasilia (DF),premium,638.63,0.63,242.21,Rainbow,11/21/2021
+538,4,Aracaju (SE),Rio de Janeiro (RJ),firstClass,1183.57,1.55,597.61,CloudFy,11/25/2021
+538,4,Rio de Janeiro (RJ),Aracaju (SE),firstClass,1446.4,1.55,597.61,CloudFy,11/28/2021
+539,4,Recife (PE),Campo Grande (MS),firstClass,1038.95,1.39,535.4,FlyingDrops,12/02/2021
+539,4,Campo Grande (MS),Recife (PE),firstClass,1262.23,1.39,535.4,FlyingDrops,12/03/2021
+540,4,Recife (PE),Rio de Janeiro (RJ),firstClass,1706.89,2.3,885.57,FlyingDrops,12/09/2021
+540,4,Rio de Janeiro (RJ),Recife (PE),firstClass,1702.23,2.3,885.57,FlyingDrops,12/13/2021
+541,4,Recife (PE),Rio de Janeiro (RJ),firstClass,1611.14,2.3,885.57,Rainbow,12/16/2021
+541,4,Rio de Janeiro (RJ),Recife (PE),firstClass,1617.81,2.3,885.57,Rainbow,12/19/2021
+542,4,Recife (PE),Sao Paulo (SP),economic,513.06,1.26,486.52,CloudFy,12/23/2021
+542,4,Sao Paulo (SP),Recife (PE),economic,829.91,1.26,486.52,CloudFy,12/25/2021
+543,4,Brasilia (DF),Campo Grande (MS),firstClass,1009.71,0.72,277.7,FlyingDrops,12/30/2021
+543,4,Campo Grande (MS),Brasilia (DF),firstClass,847.83,0.72,277.7,FlyingDrops,01/02/2022
+544,4,Recife (PE),Salvador (BH),firstClass,1484.94,2.05,788.55,CloudFy,01/06/2022
+544,4,Salvador (BH),Recife (PE),firstClass,1440.02,2.05,788.55,CloudFy,01/10/2022
+545,4,Recife (PE),Campo Grande (MS),firstClass,1038.95,1.39,535.4,FlyingDrops,01/13/2022
+545,4,Campo Grande (MS),Recife (PE),firstClass,1262.23,1.39,535.4,FlyingDrops,01/14/2022
+546,4,Recife (PE),Brasilia (DF),firstClass,697.22,0.63,242.21,FlyingDrops,01/20/2022
+546,4,Brasilia (DF),Recife (PE),firstClass,691.39,0.63,242.21,FlyingDrops,01/22/2022
+547,4,Brasilia (DF),Sao Paulo (SP),premium,750.0,0.67,257.81,Rainbow,01/27/2022
+547,4,Sao Paulo (SP),Brasilia (DF),premium,586.06,0.67,257.81,Rainbow,01/31/2022
+548,4,Brasilia (DF),Campo Grande (MS),premium,831.7,0.72,277.7,CloudFy,02/03/2022
+548,4,Campo Grande (MS),Brasilia (DF),premium,661.32,0.72,277.7,CloudFy,02/05/2022
+549,4,Recife (PE),Brasilia (DF),firstClass,697.22,0.63,242.21,FlyingDrops,02/10/2022
+549,4,Brasilia (DF),Recife (PE),firstClass,691.39,0.63,242.21,FlyingDrops,02/11/2022
+550,4,Aracaju (SE),Recife (PE),firstClass,1124.11,1.44,555.74,CloudFy,02/17/2022
+550,4,Recife (PE),Aracaju (SE),firstClass,1166.1,1.44,555.74,CloudFy,02/19/2022
+551,4,Brasilia (DF),Campo Grande (MS),firstClass,1096.58,0.72,277.7,CloudFy,02/24/2022
+551,4,Campo Grande (MS),Brasilia (DF),firstClass,949.99,0.72,277.7,CloudFy,02/26/2022
+552,4,Aracaju (SE),Sao Paulo (SP),firstClass,752.27,1.02,392.76,Rainbow,03/03/2022
+552,4,Sao Paulo (SP),Aracaju (SE),firstClass,1159.84,1.02,392.76,Rainbow,03/05/2022
+553,4,Aracaju (SE),Natal (RN),premium,427.25,0.46,176.33,Rainbow,03/10/2022
+553,4,Natal (RN),Aracaju (SE),premium,479.37,0.46,176.33,Rainbow,03/11/2022
+554,4,Brasilia (DF),Aracaju (SE),premium,965.62,1.11,425.98,Rainbow,03/17/2022
+554,4,Aracaju (SE),Brasilia (DF),premium,706.36,1.11,425.98,Rainbow,03/21/2022
+555,4,Brasilia (DF),Florianopolis (SC),premium,1189.32,1.66,637.56,CloudFy,03/24/2022
+555,4,Florianopolis (SC),Brasilia (DF),premium,885.37,1.66,637.56,CloudFy,03/25/2022
+556,4,Recife (PE),Salvador (BH),economic,842.11,2.05,788.55,CloudFy,03/31/2022
+556,4,Salvador (BH),Recife (PE),economic,767.27,2.05,788.55,CloudFy,04/03/2022
+557,4,Recife (PE),Salvador (BH),premium,1249.83,2.05,788.55,Rainbow,04/07/2022
+557,4,Salvador (BH),Recife (PE),premium,1103.23,2.05,788.55,Rainbow,04/08/2022
+558,4,Recife (PE),Rio de Janeiro (RJ),premium,1270.03,2.3,885.57,CloudFy,04/14/2022
+558,4,Rio de Janeiro (RJ),Recife (PE),premium,1333.52,2.3,885.57,CloudFy,04/16/2022
+559,4,Recife (PE),Salvador (BH),economic,842.11,2.05,788.55,CloudFy,04/21/2022
+559,4,Salvador (BH),Recife (PE),economic,767.27,2.05,788.55,CloudFy,04/23/2022
+560,4,Brasilia (DF),Recife (PE),premium,568.38,0.63,242.21,CloudFy,04/28/2022
+560,4,Recife (PE),Brasilia (DF),premium,573.61,0.63,242.21,CloudFy,04/30/2022
+561,4,Brasilia (DF),Salvador (BH),premium,1268.97,1.76,676.56,Rainbow,05/05/2022
+561,4,Salvador (BH),Brasilia (DF),premium,882.86,1.76,676.56,Rainbow,05/09/2022
+562,4,Recife (PE),Natal (RN),economic,360.22,0.58,222.67,Rainbow,05/12/2022
+562,4,Natal (RN),Recife (PE),economic,406.36,0.58,222.67,Rainbow,05/14/2022
+563,4,Recife (PE),Florianopolis (SC),economic,761.2,1.76,676.53,CloudFy,05/19/2022
+563,4,Florianopolis (SC),Recife (PE),economic,674.52,1.76,676.53,CloudFy,05/22/2022
+564,4,Recife (PE),Rio de Janeiro (RJ),firstClass,1611.14,2.3,885.57,Rainbow,05/26/2022
+564,4,Rio de Janeiro (RJ),Recife (PE),firstClass,1617.81,2.3,885.57,Rainbow,05/27/2022
+565,4,Recife (PE),Rio de Janeiro (RJ),firstClass,1611.14,2.3,885.57,Rainbow,06/02/2022
+565,4,Rio de Janeiro (RJ),Recife (PE),firstClass,1617.81,2.3,885.57,Rainbow,06/04/2022
+566,4,Aracaju (SE),Florianopolis (SC),firstClass,1582.41,2.1,808.85,Rainbow,06/09/2022
+566,4,Florianopolis (SC),Aracaju (SE),firstClass,1582.1,2.1,808.85,Rainbow,06/11/2022
+567,4,Recife (PE),Florianopolis (SC),firstClass,1434.38,1.76,676.53,FlyingDrops,06/16/2022
+567,4,Florianopolis (SC),Recife (PE),firstClass,1292.29,1.76,676.53,FlyingDrops,06/18/2022
+568,4,Brasilia (DF),Campo Grande (MS),premium,831.7,0.72,277.7,CloudFy,06/23/2022
+568,4,Campo Grande (MS),Brasilia (DF),premium,661.32,0.72,277.7,CloudFy,06/27/2022
+569,4,Recife (PE),Campo Grande (MS),firstClass,1069.12,1.39,535.4,Rainbow,06/30/2022
+569,4,Campo Grande (MS),Recife (PE),firstClass,1185.95,1.39,535.4,Rainbow,07/01/2022
+570,4,Recife (PE),Brasilia (DF),firstClass,721.93,0.63,242.21,Rainbow,07/07/2022
+570,4,Brasilia (DF),Recife (PE),firstClass,772.21,0.63,242.21,Rainbow,07/11/2022
+571,4,Aracaju (SE),Rio de Janeiro (RJ),firstClass,1189.86,1.55,597.61,Rainbow,07/14/2022
+571,4,Rio de Janeiro (RJ),Aracaju (SE),firstClass,1386.46,1.55,597.61,Rainbow,07/15/2022
+572,4,Recife (PE),Brasilia (DF),firstClass,697.22,0.63,242.21,FlyingDrops,07/21/2022
+572,4,Brasilia (DF),Recife (PE),firstClass,691.39,0.63,242.21,FlyingDrops,07/22/2022
+573,4,Recife (PE),Aracaju (SE),economic,684.88,1.44,555.74,CloudFy,07/28/2022
+573,4,Aracaju (SE),Recife (PE),economic,604.14,1.44,555.74,CloudFy,07/30/2022
+574,4,Recife (PE),Brasilia (DF),premium,573.61,0.63,242.21,CloudFy,08/04/2022
+574,4,Brasilia (DF),Recife (PE),premium,568.38,0.63,242.21,CloudFy,08/08/2022
+575,4,Recife (PE),Campo Grande (MS),firstClass,1038.95,1.39,535.4,FlyingDrops,08/11/2022
+575,4,Campo Grande (MS),Recife (PE),firstClass,1262.23,1.39,535.4,FlyingDrops,08/14/2022
+576,4,Aracaju (SE),Brasilia (DF),premium,706.36,1.11,425.98,Rainbow,08/18/2022
+576,4,Brasilia (DF),Aracaju (SE),premium,965.62,1.11,425.98,Rainbow,08/20/2022
+577,4,Brasilia (DF),Salvador (BH),firstClass,1724.49,1.76,676.56,FlyingDrops,08/25/2022
+577,4,Salvador (BH),Brasilia (DF),firstClass,1020.08,1.76,676.56,FlyingDrops,08/29/2022
+578,4,Recife (PE),Aracaju (SE),firstClass,1181.19,1.44,555.74,Rainbow,09/01/2022
+578,4,Aracaju (SE),Recife (PE),firstClass,1119.47,1.44,555.74,Rainbow,09/04/2022
+579,4,Aracaju (SE),Natal (RN),firstClass,598.61,0.46,176.33,CloudFy,09/08/2022
+579,4,Natal (RN),Aracaju (SE),firstClass,576.66,0.46,176.33,CloudFy,09/10/2022
+580,4,Recife (PE),Florianopolis (SC),firstClass,1371.83,1.76,676.53,Rainbow,09/15/2022
+580,4,Florianopolis (SC),Recife (PE),firstClass,1175.62,1.76,676.53,Rainbow,09/16/2022
+581,4,Brasilia (DF),Rio de Janeiro (RJ),economic,371.04,0.48,183.37,Rainbow,09/22/2022
+581,4,Rio de Janeiro (RJ),Brasilia (DF),economic,364.34,0.48,183.37,Rainbow,09/25/2022
+582,4,Aracaju (SE),Sao Paulo (SP),premium,588.14,1.02,392.76,Rainbow,09/29/2022
+582,4,Sao Paulo (SP),Aracaju (SE),premium,962.54,1.02,392.76,Rainbow,10/02/2022
+583,4,Recife (PE),Brasilia (DF),premium,573.61,0.63,242.21,CloudFy,10/06/2022
+583,4,Brasilia (DF),Recife (PE),premium,568.38,0.63,242.21,CloudFy,10/09/2022
+584,4,Aracaju (SE),Rio de Janeiro (RJ),economic,712.64,1.55,597.61,Rainbow,10/13/2022
+584,4,Rio de Janeiro (RJ),Aracaju (SE),economic,734.09,1.55,597.61,Rainbow,10/14/2022
+585,4,Recife (PE),Rio de Janeiro (RJ),economic,910.7,2.3,885.57,CloudFy,10/20/2022
+585,4,Rio de Janeiro (RJ),Recife (PE),economic,952.83,2.3,885.57,CloudFy,10/24/2022
+586,4,Recife (PE),Salvador (BH),premium,1242.65,2.05,788.55,CloudFy,10/27/2022
+586,4,Salvador (BH),Recife (PE),premium,1016.53,2.05,788.55,CloudFy,10/29/2022
+587,4,Aracaju (SE),Salvador (BH),firstClass,1723.71,2.16,830.86,Rainbow,11/03/2022
+587,4,Salvador (BH),Aracaju (SE),firstClass,1520.02,2.16,830.86,Rainbow,11/04/2022
+588,4,Aracaju (SE),Natal (RN),firstClass,577.71,0.46,176.33,FlyingDrops,11/10/2022
+588,4,Natal (RN),Aracaju (SE),firstClass,611.59,0.46,176.33,FlyingDrops,11/12/2022
+589,4,Aracaju (SE),Brasilia (DF),premium,706.36,1.11,425.98,Rainbow,11/17/2022
+589,4,Brasilia (DF),Aracaju (SE),premium,965.62,1.11,425.98,Rainbow,11/20/2022
+590,4,Brasilia (DF),Recife (PE),economic,421.2,0.63,242.21,Rainbow,11/24/2022
+590,4,Recife (PE),Brasilia (DF),economic,439.38,0.63,242.21,Rainbow,11/26/2022
+591,4,Brasilia (DF),Recife (PE),firstClass,772.21,0.63,242.21,Rainbow,12/01/2022
+591,4,Recife (PE),Brasilia (DF),firstClass,721.93,0.63,242.21,Rainbow,12/05/2022
+592,4,Recife (PE),Florianopolis (SC),premium,1070.54,1.76,676.53,Rainbow,12/08/2022
+592,4,Florianopolis (SC),Recife (PE),premium,1013.4,1.76,676.53,Rainbow,12/10/2022
+593,4,Recife (PE),Sao Paulo (SP),premium,657.87,1.26,486.52,CloudFy,12/15/2022
+593,4,Sao Paulo (SP),Recife (PE),premium,1195.26,1.26,486.52,CloudFy,12/16/2022
+594,4,Recife (PE),Rio de Janeiro (RJ),premium,1270.03,2.3,885.57,CloudFy,12/22/2022
+594,4,Rio de Janeiro (RJ),Recife (PE),premium,1333.52,2.3,885.57,CloudFy,12/24/2022
+595,4,Aracaju (SE),Sao Paulo (SP),economic,446.73,1.02,392.76,Rainbow,12/29/2022
+595,4,Sao Paulo (SP),Aracaju (SE),economic,647.9,1.02,392.76,Rainbow,01/02/2023
+596,4,Recife (PE),Brasilia (DF),premium,638.63,0.63,242.21,Rainbow,01/05/2023
+596,4,Brasilia (DF),Recife (PE),premium,559.13,0.63,242.21,Rainbow,01/06/2023
+597,4,Recife (PE),Natal (RN),premium,488.73,0.58,222.67,Rainbow,01/12/2023
+597,4,Natal (RN),Recife (PE),premium,579.62,0.58,222.67,Rainbow,01/15/2023
+598,4,Recife (PE),Natal (RN),economic,360.22,0.58,222.67,Rainbow,01/19/2023
+598,4,Natal (RN),Recife (PE),economic,406.36,0.58,222.67,Rainbow,01/23/2023
+599,4,Recife (PE),Sao Paulo (SP),firstClass,883.63,1.26,486.52,CloudFy,01/26/2023
+599,4,Sao Paulo (SP),Recife (PE),firstClass,1533.42,1.26,486.52,CloudFy,01/28/2023
+600,4,Brasilia (DF),Salvador (BH),economic,921.08,1.76,676.56,Rainbow,02/02/2023
+600,4,Salvador (BH),Brasilia (DF),economic,609.83,1.76,676.56,Rainbow,02/04/2023
+601,4,Recife (PE),Rio de Janeiro (RJ),premium,1351.89,2.3,885.57,Rainbow,02/09/2023
+601,4,Rio de Janeiro (RJ),Recife (PE),premium,1306.26,2.3,885.57,Rainbow,02/10/2023
+602,4,Aracaju (SE),Natal (RN),economic,332.1,0.46,176.33,CloudFy,02/16/2023
+602,4,Natal (RN),Aracaju (SE),economic,361.68,0.46,176.33,CloudFy,02/20/2023
+603,4,Recife (PE),Brasilia (DF),economic,393.68,0.63,242.21,CloudFy,02/23/2023
+603,4,Brasilia (DF),Recife (PE),economic,432.1,0.63,242.21,CloudFy,02/27/2023
+604,4,Aracaju (SE),Sao Paulo (SP),firstClass,756.3,1.02,392.76,FlyingDrops,03/02/2023
+604,4,Sao Paulo (SP),Aracaju (SE),firstClass,1269.73,1.02,392.76,FlyingDrops,03/05/2023
+605,4,Recife (PE),Florianopolis (SC),economic,761.2,1.76,676.53,CloudFy,03/09/2023
+605,4,Florianopolis (SC),Recife (PE),economic,674.52,1.76,676.53,CloudFy,03/13/2023
+606,4,Brasilia (DF),Aracaju (SE),premium,987.07,1.11,425.98,CloudFy,03/16/2023
+606,4,Aracaju (SE),Brasilia (DF),premium,755.62,1.11,425.98,CloudFy,03/20/2023
+607,4,Aracaju (SE),Sao Paulo (SP),economic,410.79,1.02,392.76,CloudFy,03/23/2023
+607,4,Sao Paulo (SP),Aracaju (SE),economic,722.74,1.02,392.76,CloudFy,03/25/2023
+608,4,Aracaju (SE),Rio de Janeiro (RJ),firstClass,1189.86,1.55,597.61,Rainbow,03/30/2023
+608,4,Rio de Janeiro (RJ),Aracaju (SE),firstClass,1386.46,1.55,597.61,Rainbow,04/01/2023
+609,4,Brasilia (DF),Campo Grande (MS),firstClass,1096.58,0.72,277.7,CloudFy,04/06/2023
+609,4,Campo Grande (MS),Brasilia (DF),firstClass,949.99,0.72,277.7,CloudFy,04/08/2023
+610,4,Brasilia (DF),Sao Paulo (SP),premium,698.1,0.67,257.81,CloudFy,04/13/2023
+610,4,Sao Paulo (SP),Brasilia (DF),premium,602.12,0.67,257.81,CloudFy,04/15/2023
+611,4,Aracaju (SE),Brasilia (DF),firstClass,898.04,1.11,425.98,FlyingDrops,04/20/2023
+611,4,Brasilia (DF),Aracaju (SE),firstClass,1287.52,1.11,425.98,FlyingDrops,04/22/2023
+612,4,Aracaju (SE),Rio de Janeiro (RJ),firstClass,1189.86,1.55,597.61,Rainbow,04/27/2023
+612,4,Rio de Janeiro (RJ),Aracaju (SE),firstClass,1386.46,1.55,597.61,Rainbow,04/30/2023
+613,4,Recife (PE),Aracaju (SE),premium,932.22,1.44,555.74,Rainbow,05/04/2023
+613,4,Aracaju (SE),Recife (PE),premium,875.41,1.44,555.74,Rainbow,05/08/2023
+614,4,Aracaju (SE),Rio de Janeiro (RJ),firstClass,1190.94,1.55,597.61,FlyingDrops,05/11/2023
+614,4,Rio de Janeiro (RJ),Aracaju (SE),firstClass,1381.55,1.55,597.61,FlyingDrops,05/13/2023
+615,4,Aracaju (SE),Natal (RN),economic,332.1,0.46,176.33,CloudFy,05/18/2023
+615,4,Natal (RN),Aracaju (SE),economic,361.68,0.46,176.33,CloudFy,05/21/2023
+616,4,Recife (PE),Florianopolis (SC),firstClass,1371.83,1.76,676.53,Rainbow,05/25/2023
+616,4,Florianopolis (SC),Recife (PE),firstClass,1175.62,1.76,676.53,Rainbow,05/29/2023
+617,4,Recife (PE),Aracaju (SE),firstClass,1300.81,1.44,555.74,FlyingDrops,06/01/2023
+617,4,Aracaju (SE),Recife (PE),firstClass,1088.87,1.44,555.74,FlyingDrops,06/03/2023
+618,4,Recife (PE),Rio de Janeiro (RJ),economic,908.93,2.3,885.57,Rainbow,06/08/2023
+618,4,Rio de Janeiro (RJ),Recife (PE),economic,932.59,2.3,885.57,Rainbow,06/11/2023
+619,4,Brasilia (DF),Rio de Janeiro (RJ),premium,440.69,0.48,183.37,Rainbow,06/15/2023
+619,4,Rio de Janeiro (RJ),Brasilia (DF),premium,435.67,0.48,183.37,Rainbow,06/19/2023
+620,4,Brasilia (DF),Sao Paulo (SP),economic,538.95,0.67,257.81,CloudFy,06/22/2023
+620,4,Sao Paulo (SP),Brasilia (DF),economic,389.47,0.67,257.81,CloudFy,06/25/2023
+621,4,Recife (PE),Brasilia (DF),premium,573.61,0.63,242.21,CloudFy,06/29/2023
+621,4,Brasilia (DF),Recife (PE),premium,568.38,0.63,242.21,CloudFy,07/03/2023
+622,4,Aracaju (SE),Recife (PE),firstClass,1124.11,1.44,555.74,CloudFy,07/06/2023
+622,4,Recife (PE),Aracaju (SE),firstClass,1166.1,1.44,555.74,CloudFy,07/07/2023
+623,4,Recife (PE),Natal (RN),premium,474.6,0.58,222.67,CloudFy,07/13/2023
+623,4,Natal (RN),Recife (PE),premium,563.23,0.58,222.67,CloudFy,07/17/2023
+624,5,Brasilia (DF),Salvador (BH),economic,921.08,1.76,676.56,Rainbow,09/26/2019
+624,5,Salvador (BH),Brasilia (DF),economic,609.83,1.76,676.56,Rainbow,09/28/2019
+625,5,Brasilia (DF),Salvador (BH),firstClass,1665.24,1.76,676.56,Rainbow,10/03/2019
+625,5,Salvador (BH),Brasilia (DF),firstClass,1040.84,1.76,676.56,Rainbow,10/06/2019
+626,5,Aracaju (SE),Salvador (BH),premium,1289.05,2.16,830.86,Rainbow,10/10/2019
+626,5,Salvador (BH),Aracaju (SE),premium,1247.02,2.16,830.86,Rainbow,10/11/2019
+627,5,Brasilia (DF),Sao Paulo (SP),firstClass,893.65,0.67,257.81,CloudFy,10/17/2019
+627,5,Sao Paulo (SP),Brasilia (DF),firstClass,742.94,0.67,257.81,CloudFy,10/19/2019
+628,5,Recife (PE),Natal (RN),premium,488.73,0.58,222.67,Rainbow,10/24/2019
+628,5,Natal (RN),Recife (PE),premium,579.62,0.58,222.67,Rainbow,10/25/2019
+629,5,Brasilia (DF),Natal (RN),firstClass,1434.91,1.43,550.69,Rainbow,10/31/2019
+629,5,Natal (RN),Brasilia (DF),firstClass,1286.63,1.43,550.69,Rainbow,11/01/2019
+630,5,Aracaju (SE),Sao Paulo (SP),firstClass,730.43,1.02,392.76,CloudFy,11/07/2019
+630,5,Sao Paulo (SP),Aracaju (SE),firstClass,1186.15,1.02,392.76,CloudFy,11/11/2019
+631,5,Brasilia (DF),Recife (PE),economic,421.2,0.63,242.21,Rainbow,11/14/2019
+631,5,Recife (PE),Brasilia (DF),economic,439.38,0.63,242.21,Rainbow,11/15/2019
+632,5,Aracaju (SE),Florianopolis (SC),premium,1174.97,2.1,808.85,CloudFy,11/21/2019
+632,5,Florianopolis (SC),Aracaju (SE),premium,1149.53,2.1,808.85,CloudFy,11/24/2019
+633,5,Aracaju (SE),Rio de Janeiro (RJ),economic,717.04,1.55,597.61,CloudFy,11/28/2019
+633,5,Rio de Janeiro (RJ),Aracaju (SE),economic,796.42,1.55,597.61,CloudFy,12/01/2019
+634,5,Aracaju (SE),Recife (PE),premium,835.21,1.44,555.74,CloudFy,12/05/2019
+634,5,Recife (PE),Aracaju (SE),premium,932.84,1.44,555.74,CloudFy,12/07/2019
+635,5,Brasilia (DF),Campo Grande (MS),premium,851.15,0.72,277.7,Rainbow,12/12/2019
+635,5,Campo Grande (MS),Brasilia (DF),premium,691.99,0.72,277.7,Rainbow,12/15/2019
+636,5,Aracaju (SE),Campo Grande (MS),premium,1021.53,1.69,650.1,CloudFy,12/19/2019
+636,5,Campo Grande (MS),Aracaju (SE),premium,1215.45,1.69,650.1,CloudFy,12/23/2019
+637,5,Aracaju (SE),Salvador (BH),firstClass,1684.05,2.16,830.86,CloudFy,12/26/2019
+637,5,Salvador (BH),Aracaju (SE),firstClass,1531.92,2.16,830.86,CloudFy,12/28/2019
+638,5,Recife (PE),Salvador (BH),economic,861.68,2.05,788.55,Rainbow,01/02/2020
+638,5,Salvador (BH),Recife (PE),economic,751.37,2.05,788.55,Rainbow,01/03/2020
+639,5,Brasilia (DF),Rio de Janeiro (RJ),economic,344.26,0.48,183.37,CloudFy,01/09/2020
+639,5,Rio de Janeiro (RJ),Brasilia (DF),economic,369.57,0.48,183.37,CloudFy,01/13/2020
+640,5,Recife (PE),Sao Paulo (SP),firstClass,954.78,1.26,486.52,FlyingDrops,01/16/2020
+640,5,Sao Paulo (SP),Recife (PE),firstClass,1464.89,1.26,486.52,FlyingDrops,01/19/2020
+641,5,Brasilia (DF),Aracaju (SE),premium,965.62,1.11,425.98,Rainbow,01/23/2020
+641,5,Aracaju (SE),Brasilia (DF),premium,706.36,1.11,425.98,Rainbow,01/26/2020
+642,5,Brasilia (DF),Rio de Janeiro (RJ),premium,440.69,0.48,183.37,Rainbow,01/30/2020
+642,5,Rio de Janeiro (RJ),Brasilia (DF),premium,435.67,0.48,183.37,Rainbow,02/03/2020
+643,5,Brasilia (DF),Sao Paulo (SP),firstClass,992.17,0.67,257.81,Rainbow,02/06/2020
+643,5,Sao Paulo (SP),Brasilia (DF),firstClass,824.31,0.67,257.81,Rainbow,02/09/2020
+644,5,Recife (PE),Salvador (BH),economic,861.68,2.05,788.55,Rainbow,02/13/2020
+644,5,Salvador (BH),Recife (PE),economic,751.37,2.05,788.55,Rainbow,02/14/2020
+645,5,Recife (PE),Sao Paulo (SP),firstClass,954.78,1.26,486.52,FlyingDrops,02/20/2020
+645,5,Sao Paulo (SP),Recife (PE),firstClass,1464.89,1.26,486.52,FlyingDrops,02/24/2020
+646,5,Recife (PE),Salvador (BH),firstClass,1484.94,2.05,788.55,CloudFy,02/27/2020
+646,5,Salvador (BH),Recife (PE),firstClass,1440.02,2.05,788.55,CloudFy,03/01/2020
+647,5,Aracaju (SE),Sao Paulo (SP),premium,630.34,1.02,392.76,CloudFy,03/05/2020
+647,5,Sao Paulo (SP),Aracaju (SE),premium,906.59,1.02,392.76,CloudFy,03/07/2020
+648,5,Brasilia (DF),Rio de Janeiro (RJ),premium,457.95,0.48,183.37,CloudFy,03/12/2020
+648,5,Rio de Janeiro (RJ),Brasilia (DF),premium,503.26,0.48,183.37,CloudFy,03/16/2020
+649,5,Aracaju (SE),Brasilia (DF),premium,755.62,1.11,425.98,CloudFy,03/19/2020
+649,5,Brasilia (DF),Aracaju (SE),premium,987.07,1.11,425.98,CloudFy,03/23/2020
+650,5,Recife (PE),Florianopolis (SC),firstClass,1354.53,1.76,676.53,CloudFy,03/26/2020
+650,5,Florianopolis (SC),Recife (PE),firstClass,1300.6,1.76,676.53,CloudFy,03/28/2020
+651,5,Recife (PE),Brasilia (DF),premium,573.61,0.63,242.21,CloudFy,04/02/2020
+651,5,Brasilia (DF),Recife (PE),premium,568.38,0.63,242.21,CloudFy,04/03/2020
+652,5,Brasilia (DF),Natal (RN),firstClass,1313.76,1.43,550.69,CloudFy,04/09/2020
+652,5,Natal (RN),Brasilia (DF),firstClass,1300.53,1.43,550.69,CloudFy,04/11/2020
+653,5,Aracaju (SE),Florianopolis (SC),economic,869.13,2.1,808.85,CloudFy,04/16/2020
+653,5,Florianopolis (SC),Aracaju (SE),economic,879.1,2.1,808.85,CloudFy,04/18/2020
+654,5,Aracaju (SE),Campo Grande (MS),firstClass,1389.37,1.69,650.1,CloudFy,04/23/2020
+654,5,Campo Grande (MS),Aracaju (SE),firstClass,1581.8,1.69,650.1,CloudFy,04/26/2020
+655,5,Brasilia (DF),Aracaju (SE),firstClass,1260.1,1.11,425.98,CloudFy,04/30/2020
+655,5,Aracaju (SE),Brasilia (DF),firstClass,957.68,1.11,425.98,CloudFy,05/04/2020
+656,5,Brasilia (DF),Recife (PE),premium,559.13,0.63,242.21,Rainbow,05/07/2020
+656,5,Recife (PE),Brasilia (DF),premium,638.63,0.63,242.21,Rainbow,05/09/2020
+657,5,Aracaju (SE),Campo Grande (MS),firstClass,1387.89,1.69,650.1,Rainbow,05/14/2020
+657,5,Campo Grande (MS),Aracaju (SE),firstClass,1545.78,1.69,650.1,Rainbow,05/17/2020
+658,5,Recife (PE),Natal (RN),firstClass,628.96,0.58,222.67,Rainbow,05/21/2020
+658,5,Natal (RN),Recife (PE),firstClass,806.91,0.58,222.67,Rainbow,05/22/2020
+659,5,Aracaju (SE),Campo Grande (MS),premium,1021.53,1.69,650.1,CloudFy,05/28/2020
+659,5,Campo Grande (MS),Aracaju (SE),premium,1215.45,1.69,650.1,CloudFy,06/01/2020
+660,5,Brasilia (DF),Florianopolis (SC),premium,1222.24,1.66,637.56,Rainbow,06/04/2020
+660,5,Florianopolis (SC),Brasilia (DF),premium,814.55,1.66,637.56,Rainbow,06/05/2020
+661,5,Brasilia (DF),Natal (RN),firstClass,1313.76,1.43,550.69,CloudFy,06/11/2020
+661,5,Natal (RN),Brasilia (DF),firstClass,1300.53,1.43,550.69,CloudFy,06/13/2020
+662,5,Recife (PE),Campo Grande (MS),economic,615.59,1.39,535.4,Rainbow,06/18/2020
+662,5,Campo Grande (MS),Recife (PE),economic,674.16,1.39,535.4,Rainbow,06/20/2020
+663,5,Recife (PE),Aracaju (SE),economic,663.23,1.44,555.74,Rainbow,06/25/2020
+663,5,Aracaju (SE),Recife (PE),economic,602.49,1.44,555.74,Rainbow,06/28/2020
+664,5,Aracaju (SE),Campo Grande (MS),firstClass,1389.37,1.69,650.1,CloudFy,07/02/2020
+664,5,Campo Grande (MS),Aracaju (SE),firstClass,1581.8,1.69,650.1,CloudFy,07/05/2020
+665,5,Brasilia (DF),Salvador (BH),premium,1346.6,1.76,676.56,CloudFy,07/09/2020
+665,5,Salvador (BH),Brasilia (DF),premium,836.89,1.76,676.56,CloudFy,07/10/2020
+666,5,Brasilia (DF),Florianopolis (SC),firstClass,1569.65,1.66,637.56,FlyingDrops,07/16/2020
+666,5,Florianopolis (SC),Brasilia (DF),firstClass,1097.17,1.66,637.56,FlyingDrops,07/18/2020
+667,5,Aracaju (SE),Salvador (BH),firstClass,1684.05,2.16,830.86,CloudFy,07/23/2020
+667,5,Salvador (BH),Aracaju (SE),firstClass,1531.92,2.16,830.86,CloudFy,07/27/2020
+668,5,Aracaju (SE),Campo Grande (MS),firstClass,1376.09,1.69,650.1,FlyingDrops,07/30/2020
+668,5,Campo Grande (MS),Aracaju (SE),firstClass,1473.41,1.69,650.1,FlyingDrops,07/31/2020
+669,5,Aracaju (SE),Sao Paulo (SP),economic,446.73,1.02,392.76,Rainbow,08/06/2020
+669,5,Sao Paulo (SP),Aracaju (SE),economic,647.9,1.02,392.76,Rainbow,08/07/2020
+670,5,Brasilia (DF),Salvador (BH),firstClass,1724.49,1.76,676.56,FlyingDrops,08/13/2020
+670,5,Salvador (BH),Brasilia (DF),firstClass,1020.08,1.76,676.56,FlyingDrops,08/16/2020
+671,5,Recife (PE),Rio de Janeiro (RJ),economic,910.7,2.3,885.57,CloudFy,08/20/2020
+671,5,Rio de Janeiro (RJ),Recife (PE),economic,952.83,2.3,885.57,CloudFy,08/24/2020
+672,5,Brasilia (DF),Recife (PE),economic,421.2,0.63,242.21,Rainbow,08/27/2020
+672,5,Recife (PE),Brasilia (DF),economic,439.38,0.63,242.21,Rainbow,08/28/2020
+673,5,Brasilia (DF),Salvador (BH),firstClass,1724.49,1.76,676.56,FlyingDrops,09/03/2020
+673,5,Salvador (BH),Brasilia (DF),firstClass,1020.08,1.76,676.56,FlyingDrops,09/06/2020
+674,5,Recife (PE),Florianopolis (SC),premium,1074.75,1.76,676.53,CloudFy,09/10/2020
+674,5,Florianopolis (SC),Recife (PE),premium,918.66,1.76,676.53,CloudFy,09/11/2020
+675,5,Aracaju (SE),Salvador (BH),economic,943.36,2.16,830.86,Rainbow,09/17/2020
+675,5,Salvador (BH),Aracaju (SE),economic,826.02,2.16,830.86,Rainbow,09/19/2020
+676,5,Brasilia (DF),Florianopolis (SC),firstClass,1569.65,1.66,637.56,FlyingDrops,09/24/2020
+676,5,Florianopolis (SC),Brasilia (DF),firstClass,1097.17,1.66,637.56,FlyingDrops,09/28/2020
+677,5,Recife (PE),Aracaju (SE),premium,932.22,1.44,555.74,Rainbow,10/01/2020
+677,5,Aracaju (SE),Recife (PE),premium,875.41,1.44,555.74,Rainbow,10/05/2020
+678,5,Aracaju (SE),Natal (RN),premium,427.25,0.46,176.33,Rainbow,10/08/2020
+678,5,Natal (RN),Aracaju (SE),premium,479.37,0.46,176.33,Rainbow,10/09/2020
+679,5,Aracaju (SE),Rio de Janeiro (RJ),firstClass,1183.57,1.55,597.61,CloudFy,10/15/2020
+679,5,Rio de Janeiro (RJ),Aracaju (SE),firstClass,1446.4,1.55,597.61,CloudFy,10/17/2020
+680,5,Recife (PE),Sao Paulo (SP),premium,657.87,1.26,486.52,CloudFy,10/22/2020
+680,5,Sao Paulo (SP),Recife (PE),premium,1195.26,1.26,486.52,CloudFy,10/24/2020
+681,5,Aracaju (SE),Salvador (BH),firstClass,1723.71,2.16,830.86,Rainbow,10/29/2020
+681,5,Salvador (BH),Aracaju (SE),firstClass,1520.02,2.16,830.86,Rainbow,11/01/2020
+682,5,Recife (PE),Salvador (BH),firstClass,1470.41,2.05,788.55,Rainbow,11/05/2020
+682,5,Salvador (BH),Recife (PE),firstClass,1440.25,2.05,788.55,Rainbow,11/07/2020
+683,5,Brasilia (DF),Sao Paulo (SP),firstClass,904.0,0.67,257.81,FlyingDrops,11/12/2020
+683,5,Sao Paulo (SP),Brasilia (DF),firstClass,727.31,0.67,257.81,FlyingDrops,11/13/2020
+684,5,Recife (PE),Campo Grande (MS),premium,793.15,1.39,535.4,CloudFy,11/19/2020
+684,5,Campo Grande (MS),Recife (PE),premium,959.91,1.39,535.4,CloudFy,11/23/2020
+685,5,Brasilia (DF),Campo Grande (MS),firstClass,1096.58,0.72,277.7,CloudFy,11/26/2020
+685,5,Campo Grande (MS),Brasilia (DF),firstClass,949.99,0.72,277.7,CloudFy,11/30/2020
+686,5,Recife (PE),Rio de Janeiro (RJ),firstClass,1706.89,2.3,885.57,FlyingDrops,12/03/2020
+686,5,Rio de Janeiro (RJ),Recife (PE),firstClass,1702.23,2.3,885.57,FlyingDrops,12/06/2020
+687,5,Recife (PE),Aracaju (SE),firstClass,1300.81,1.44,555.74,FlyingDrops,12/10/2020
+687,5,Aracaju (SE),Recife (PE),firstClass,1088.87,1.44,555.74,FlyingDrops,12/11/2020
+688,6,Aracaju (SE),Natal (RN),firstClass,549.96,0.46,176.33,Rainbow,09/26/2019
+688,6,Natal (RN),Aracaju (SE),firstClass,611.4,0.46,176.33,Rainbow,09/29/2019
+689,6,Recife (PE),Florianopolis (SC),economic,761.2,1.76,676.53,CloudFy,10/03/2019
+689,6,Florianopolis (SC),Recife (PE),economic,674.52,1.76,676.53,CloudFy,10/06/2019
+690,6,Brasilia (DF),Sao Paulo (SP),firstClass,893.65,0.67,257.81,CloudFy,10/10/2019
+690,6,Sao Paulo (SP),Brasilia (DF),firstClass,742.94,0.67,257.81,CloudFy,10/13/2019
+691,6,Aracaju (SE),Rio de Janeiro (RJ),premium,930.12,1.55,597.61,Rainbow,10/17/2019
+691,6,Rio de Janeiro (RJ),Aracaju (SE),premium,1098.93,1.55,597.61,Rainbow,10/18/2019
+692,6,Brasilia (DF),Recife (PE),premium,568.38,0.63,242.21,CloudFy,10/24/2019
+692,6,Recife (PE),Brasilia (DF),premium,573.61,0.63,242.21,CloudFy,10/28/2019
+693,6,Aracaju (SE),Campo Grande (MS),economic,743.54,1.69,650.1,Rainbow,10/31/2019
+693,6,Campo Grande (MS),Aracaju (SE),economic,877.56,1.69,650.1,Rainbow,11/01/2019
+694,6,Brasilia (DF),Aracaju (SE),economic,721.2,1.11,425.98,Rainbow,11/07/2019
+694,6,Aracaju (SE),Brasilia (DF),economic,548.62,1.11,425.98,Rainbow,11/10/2019
+695,6,Brasilia (DF),Florianopolis (SC),firstClass,1569.65,1.66,637.56,FlyingDrops,11/14/2019
+695,6,Florianopolis (SC),Brasilia (DF),firstClass,1097.17,1.66,637.56,FlyingDrops,11/16/2019
+696,6,Brasilia (DF),Rio de Janeiro (RJ),firstClass,649.64,0.48,183.37,CloudFy,11/21/2019
+696,6,Rio de Janeiro (RJ),Brasilia (DF),firstClass,688.06,0.48,183.37,CloudFy,11/23/2019
+697,6,Recife (PE),Natal (RN),economic,301.51,0.58,222.67,CloudFy,11/28/2019
+697,6,Natal (RN),Recife (PE),economic,429.77,0.58,222.67,CloudFy,12/02/2019
+698,6,Brasilia (DF),Recife (PE),firstClass,772.21,0.63,242.21,Rainbow,12/05/2019
+698,6,Recife (PE),Brasilia (DF),firstClass,721.93,0.63,242.21,Rainbow,12/06/2019
+699,6,Brasilia (DF),Campo Grande (MS),firstClass,1096.58,0.72,277.7,CloudFy,12/12/2019
+699,6,Campo Grande (MS),Brasilia (DF),firstClass,949.99,0.72,277.7,CloudFy,12/16/2019
+700,6,Recife (PE),Florianopolis (SC),economic,761.2,1.76,676.53,CloudFy,12/19/2019
+700,6,Florianopolis (SC),Recife (PE),economic,674.52,1.76,676.53,CloudFy,12/20/2019
+701,6,Recife (PE),Brasilia (DF),firstClass,721.93,0.63,242.21,Rainbow,12/26/2019
+701,6,Brasilia (DF),Recife (PE),firstClass,772.21,0.63,242.21,Rainbow,12/30/2019
+702,6,Aracaju (SE),Sao Paulo (SP),economic,410.79,1.02,392.76,CloudFy,01/02/2020
+702,6,Sao Paulo (SP),Aracaju (SE),economic,722.74,1.02,392.76,CloudFy,01/05/2020
+703,6,Recife (PE),Aracaju (SE),firstClass,1166.1,1.44,555.74,CloudFy,01/09/2020
+703,6,Aracaju (SE),Recife (PE),firstClass,1124.11,1.44,555.74,CloudFy,01/11/2020
+704,6,Brasilia (DF),Natal (RN),economic,791.66,1.43,550.69,CloudFy,01/16/2020
+704,6,Natal (RN),Brasilia (DF),economic,697.51,1.43,550.69,CloudFy,01/19/2020
+705,6,Aracaju (SE),Florianopolis (SC),firstClass,1515.79,2.1,808.85,CloudFy,01/23/2020
+705,6,Florianopolis (SC),Aracaju (SE),firstClass,1468.03,2.1,808.85,CloudFy,01/27/2020
+706,6,Recife (PE),Florianopolis (SC),premium,1074.75,1.76,676.53,CloudFy,01/30/2020
+706,6,Florianopolis (SC),Recife (PE),premium,918.66,1.76,676.53,CloudFy,01/31/2020
+707,6,Aracaju (SE),Florianopolis (SC),premium,1132.81,2.1,808.85,Rainbow,02/06/2020
+707,6,Florianopolis (SC),Aracaju (SE),premium,1248.7,2.1,808.85,Rainbow,02/08/2020
+708,6,Brasilia (DF),Natal (RN),firstClass,1434.91,1.43,550.69,Rainbow,02/13/2020
+708,6,Natal (RN),Brasilia (DF),firstClass,1286.63,1.43,550.69,Rainbow,02/17/2020
+709,6,Recife (PE),Salvador (BH),firstClass,1484.94,2.05,788.55,CloudFy,02/20/2020
+709,6,Salvador (BH),Recife (PE),firstClass,1440.02,2.05,788.55,CloudFy,02/21/2020
+710,6,Recife (PE),Campo Grande (MS),premium,832.77,1.39,535.4,Rainbow,02/27/2020
+710,6,Campo Grande (MS),Recife (PE),premium,991.22,1.39,535.4,Rainbow,02/28/2020
+711,6,Recife (PE),Sao Paulo (SP),premium,657.87,1.26,486.52,CloudFy,03/05/2020
+711,6,Sao Paulo (SP),Recife (PE),premium,1195.26,1.26,486.52,CloudFy,03/06/2020
+712,6,Aracaju (SE),Florianopolis (SC),economic,852.18,2.1,808.85,Rainbow,03/12/2020
+712,6,Florianopolis (SC),Aracaju (SE),economic,819.41,2.1,808.85,Rainbow,03/16/2020
+713,6,Aracaju (SE),Sao Paulo (SP),premium,630.34,1.02,392.76,CloudFy,03/19/2020
+713,6,Sao Paulo (SP),Aracaju (SE),premium,906.59,1.02,392.76,CloudFy,03/21/2020
+714,6,Recife (PE),Campo Grande (MS),firstClass,1110.76,1.39,535.4,CloudFy,03/26/2020
+714,6,Campo Grande (MS),Recife (PE),firstClass,1244.73,1.39,535.4,CloudFy,03/27/2020
+715,6,Brasilia (DF),Rio de Janeiro (RJ),firstClass,649.64,0.48,183.37,CloudFy,04/02/2020
+715,6,Rio de Janeiro (RJ),Brasilia (DF),firstClass,688.06,0.48,183.37,CloudFy,04/05/2020
+716,6,Aracaju (SE),Salvador (BH),economic,964.83,2.16,830.86,CloudFy,04/09/2020
+716,6,Salvador (BH),Aracaju (SE),economic,811.73,2.16,830.86,CloudFy,04/13/2020
+717,6,Aracaju (SE),Recife (PE),premium,835.21,1.44,555.74,CloudFy,04/16/2020
+717,6,Recife (PE),Aracaju (SE),premium,932.84,1.44,555.74,CloudFy,04/18/2020
+718,6,Brasilia (DF),Salvador (BH),economic,921.08,1.76,676.56,Rainbow,04/23/2020
+718,6,Salvador (BH),Brasilia (DF),economic,609.83,1.76,676.56,Rainbow,04/27/2020
+719,6,Aracaju (SE),Sao Paulo (SP),firstClass,730.43,1.02,392.76,CloudFy,04/30/2020
+719,6,Sao Paulo (SP),Aracaju (SE),firstClass,1186.15,1.02,392.76,CloudFy,05/01/2020
+720,6,Brasilia (DF),Recife (PE),economic,432.1,0.63,242.21,CloudFy,05/07/2020
+720,6,Recife (PE),Brasilia (DF),economic,393.68,0.63,242.21,CloudFy,05/09/2020
+721,6,Aracaju (SE),Rio de Janeiro (RJ),firstClass,1189.86,1.55,597.61,Rainbow,05/14/2020
+721,6,Rio de Janeiro (RJ),Aracaju (SE),firstClass,1386.46,1.55,597.61,Rainbow,05/18/2020
+722,6,Recife (PE),Natal (RN),economic,360.22,0.58,222.67,Rainbow,05/21/2020
+722,6,Natal (RN),Recife (PE),economic,406.36,0.58,222.67,Rainbow,05/22/2020
+723,6,Aracaju (SE),Brasilia (DF),economic,472.72,1.11,425.98,CloudFy,05/28/2020
+723,6,Brasilia (DF),Aracaju (SE),economic,654.88,1.11,425.98,CloudFy,05/30/2020
+724,6,Brasilia (DF),Recife (PE),firstClass,772.21,0.63,242.21,Rainbow,06/04/2020
+724,6,Recife (PE),Brasilia (DF),firstClass,721.93,0.63,242.21,Rainbow,06/08/2020
+725,6,Aracaju (SE),Brasilia (DF),economic,548.62,1.11,425.98,Rainbow,06/11/2020
+725,6,Brasilia (DF),Aracaju (SE),economic,721.2,1.11,425.98,Rainbow,06/13/2020
+726,6,Brasilia (DF),Salvador (BH),economic,921.08,1.76,676.56,Rainbow,06/18/2020
+726,6,Salvador (BH),Brasilia (DF),economic,609.83,1.76,676.56,Rainbow,06/22/2020
+727,6,Aracaju (SE),Recife (PE),premium,835.21,1.44,555.74,CloudFy,06/25/2020
+727,6,Recife (PE),Aracaju (SE),premium,932.84,1.44,555.74,CloudFy,06/27/2020
+728,6,Brasilia (DF),Campo Grande (MS),firstClass,1096.58,0.72,277.7,CloudFy,07/02/2020
+728,6,Campo Grande (MS),Brasilia (DF),firstClass,949.99,0.72,277.7,CloudFy,07/04/2020
+729,6,Aracaju (SE),Salvador (BH),firstClass,1723.71,2.16,830.86,Rainbow,07/09/2020
+729,6,Salvador (BH),Aracaju (SE),firstClass,1520.02,2.16,830.86,Rainbow,07/12/2020
+730,6,Aracaju (SE),Florianopolis (SC),premium,1174.97,2.1,808.85,CloudFy,07/16/2020
+730,6,Florianopolis (SC),Aracaju (SE),premium,1149.53,2.1,808.85,CloudFy,07/18/2020
+731,6,Recife (PE),Natal (RN),firstClass,628.96,0.58,222.67,Rainbow,07/23/2020
+731,6,Natal (RN),Recife (PE),firstClass,806.91,0.58,222.67,Rainbow,07/26/2020
+732,6,Aracaju (SE),Brasilia (DF),firstClass,957.68,1.11,425.98,CloudFy,07/30/2020
+732,6,Brasilia (DF),Aracaju (SE),firstClass,1260.1,1.11,425.98,CloudFy,08/01/2020
+733,6,Aracaju (SE),Florianopolis (SC),firstClass,1499.93,2.1,808.85,FlyingDrops,08/06/2020
+733,6,Florianopolis (SC),Aracaju (SE),firstClass,1574.28,2.1,808.85,FlyingDrops,08/10/2020
+734,6,Brasilia (DF),Sao Paulo (SP),firstClass,893.65,0.67,257.81,CloudFy,08/13/2020
+734,6,Sao Paulo (SP),Brasilia (DF),firstClass,742.94,0.67,257.81,CloudFy,08/17/2020
+735,6,Recife (PE),Sao Paulo (SP),firstClass,883.63,1.26,486.52,CloudFy,08/20/2020
+735,6,Sao Paulo (SP),Recife (PE),firstClass,1533.42,1.26,486.52,CloudFy,08/24/2020
+736,6,Recife (PE),Natal (RN),economic,360.22,0.58,222.67,Rainbow,08/27/2020
+736,6,Natal (RN),Recife (PE),economic,406.36,0.58,222.67,Rainbow,08/31/2020
+737,6,Brasilia (DF),Campo Grande (MS),firstClass,1096.58,0.72,277.7,CloudFy,09/03/2020
+737,6,Campo Grande (MS),Brasilia (DF),firstClass,949.99,0.72,277.7,CloudFy,09/04/2020
+738,6,Recife (PE),Brasilia (DF),economic,393.68,0.63,242.21,CloudFy,09/10/2020
+738,6,Brasilia (DF),Recife (PE),economic,432.1,0.63,242.21,CloudFy,09/12/2020
+739,6,Recife (PE),Sao Paulo (SP),premium,657.87,1.26,486.52,CloudFy,09/17/2020
+739,6,Sao Paulo (SP),Recife (PE),premium,1195.26,1.26,486.52,CloudFy,09/20/2020
+740,6,Brasilia (DF),Sao Paulo (SP),firstClass,904.0,0.67,257.81,FlyingDrops,09/24/2020
+740,6,Sao Paulo (SP),Brasilia (DF),firstClass,727.31,0.67,257.81,FlyingDrops,09/25/2020
+741,6,Brasilia (DF),Florianopolis (SC),premium,1222.24,1.66,637.56,Rainbow,10/01/2020
+741,6,Florianopolis (SC),Brasilia (DF),premium,814.55,1.66,637.56,Rainbow,10/04/2020
+742,6,Recife (PE),Natal (RN),firstClass,633.71,0.58,222.67,FlyingDrops,10/08/2020
+742,6,Natal (RN),Recife (PE),firstClass,694.42,0.58,222.67,FlyingDrops,10/09/2020
+743,6,Recife (PE),Florianopolis (SC),firstClass,1434.38,1.76,676.53,FlyingDrops,10/15/2020
+743,6,Florianopolis (SC),Recife (PE),firstClass,1292.29,1.76,676.53,FlyingDrops,10/17/2020
+744,6,Recife (PE),Salvador (BH),economic,842.11,2.05,788.55,CloudFy,10/22/2020
+744,6,Salvador (BH),Recife (PE),economic,767.27,2.05,788.55,CloudFy,10/23/2020
+745,6,Brasilia (DF),Salvador (BH),premium,1346.6,1.76,676.56,CloudFy,10/29/2020
+745,6,Salvador (BH),Brasilia (DF),premium,836.89,1.76,676.56,CloudFy,10/30/2020
+746,6,Aracaju (SE),Rio de Janeiro (RJ),firstClass,1190.94,1.55,597.61,FlyingDrops,11/05/2020
+746,6,Rio de Janeiro (RJ),Aracaju (SE),firstClass,1381.55,1.55,597.61,FlyingDrops,11/09/2020
+747,6,Aracaju (SE),Natal (RN),firstClass,549.96,0.46,176.33,Rainbow,11/12/2020
+747,6,Natal (RN),Aracaju (SE),firstClass,611.4,0.46,176.33,Rainbow,11/16/2020
+748,6,Aracaju (SE),Salvador (BH),premium,1289.05,2.16,830.86,Rainbow,11/19/2020
+748,6,Salvador (BH),Aracaju (SE),premium,1247.02,2.16,830.86,Rainbow,11/23/2020
+749,6,Aracaju (SE),Florianopolis (SC),firstClass,1582.41,2.1,808.85,Rainbow,11/26/2020
+749,6,Florianopolis (SC),Aracaju (SE),firstClass,1582.1,2.1,808.85,Rainbow,11/28/2020
+750,6,Aracaju (SE),Rio de Janeiro (RJ),premium,930.12,1.55,597.61,Rainbow,12/03/2020
+750,6,Rio de Janeiro (RJ),Aracaju (SE),premium,1098.93,1.55,597.61,Rainbow,12/07/2020
+751,6,Aracaju (SE),Brasilia (DF),premium,755.62,1.11,425.98,CloudFy,12/10/2020
+751,6,Brasilia (DF),Aracaju (SE),premium,987.07,1.11,425.98,CloudFy,12/11/2020
+752,6,Brasilia (DF),Rio de Janeiro (RJ),firstClass,649.64,0.48,183.37,CloudFy,12/17/2020
+752,6,Rio de Janeiro (RJ),Brasilia (DF),firstClass,688.06,0.48,183.37,CloudFy,12/18/2020
+753,6,Recife (PE),Brasilia (DF),firstClass,697.22,0.63,242.21,FlyingDrops,12/24/2020
+753,6,Brasilia (DF),Recife (PE),firstClass,691.39,0.63,242.21,FlyingDrops,12/26/2020
+754,6,Aracaju (SE),Natal (RN),firstClass,577.71,0.46,176.33,FlyingDrops,12/31/2020
+754,6,Natal (RN),Aracaju (SE),firstClass,611.59,0.46,176.33,FlyingDrops,01/02/2021
+755,6,Aracaju (SE),Salvador (BH),economic,943.36,2.16,830.86,Rainbow,01/07/2021
+755,6,Salvador (BH),Aracaju (SE),economic,826.02,2.16,830.86,Rainbow,01/08/2021
+756,6,Aracaju (SE),Sao Paulo (SP),economic,410.79,1.02,392.76,CloudFy,01/14/2021
+756,6,Sao Paulo (SP),Aracaju (SE),economic,722.74,1.02,392.76,CloudFy,01/17/2021
+757,6,Aracaju (SE),Recife (PE),premium,835.21,1.44,555.74,CloudFy,01/21/2021
+757,6,Recife (PE),Aracaju (SE),premium,932.84,1.44,555.74,CloudFy,01/24/2021
+758,6,Brasilia (DF),Sao Paulo (SP),premium,750.0,0.67,257.81,Rainbow,01/28/2021
+758,6,Sao Paulo (SP),Brasilia (DF),premium,586.06,0.67,257.81,Rainbow,01/30/2021
+759,6,Aracaju (SE),Florianopolis (SC),premium,1132.81,2.1,808.85,Rainbow,02/04/2021
+759,6,Florianopolis (SC),Aracaju (SE),premium,1248.7,2.1,808.85,Rainbow,02/07/2021
+760,6,Aracaju (SE),Rio de Janeiro (RJ),firstClass,1183.57,1.55,597.61,CloudFy,02/11/2021
+760,6,Rio de Janeiro (RJ),Aracaju (SE),firstClass,1446.4,1.55,597.61,CloudFy,02/14/2021
+761,6,Recife (PE),Salvador (BH),firstClass,1470.41,2.05,788.55,Rainbow,02/18/2021
+761,6,Salvador (BH),Recife (PE),firstClass,1440.25,2.05,788.55,Rainbow,02/22/2021
+762,6,Aracaju (SE),Rio de Janeiro (RJ),firstClass,1190.94,1.55,597.61,FlyingDrops,02/25/2021
+762,6,Rio de Janeiro (RJ),Aracaju (SE),firstClass,1381.55,1.55,597.61,FlyingDrops,02/28/2021
+763,6,Recife (PE),Campo Grande (MS),firstClass,1038.95,1.39,535.4,FlyingDrops,03/04/2021
+763,6,Campo Grande (MS),Recife (PE),firstClass,1262.23,1.39,535.4,FlyingDrops,03/08/2021
+764,6,Brasilia (DF),Salvador (BH),economic,958.15,1.76,676.56,CloudFy,03/11/2021
+764,6,Salvador (BH),Brasilia (DF),economic,587.85,1.76,676.56,CloudFy,03/12/2021
+765,6,Recife (PE),Rio de Janeiro (RJ),economic,910.7,2.3,885.57,CloudFy,03/18/2021
+765,6,Rio de Janeiro (RJ),Recife (PE),economic,952.83,2.3,885.57,CloudFy,03/19/2021
+766,6,Aracaju (SE),Florianopolis (SC),firstClass,1515.79,2.1,808.85,CloudFy,03/25/2021
+766,6,Florianopolis (SC),Aracaju (SE),firstClass,1468.03,2.1,808.85,CloudFy,03/26/2021
+767,6,Brasilia (DF),Sao Paulo (SP),premium,750.0,0.67,257.81,Rainbow,04/01/2021
+767,6,Sao Paulo (SP),Brasilia (DF),premium,586.06,0.67,257.81,Rainbow,04/04/2021
+768,6,Brasilia (DF),Campo Grande (MS),economic,629.54,0.72,277.7,Rainbow,04/08/2021
+768,6,Campo Grande (MS),Brasilia (DF),economic,517.82,0.72,277.7,Rainbow,04/12/2021
+769,6,Aracaju (SE),Rio de Janeiro (RJ),premium,1007.72,1.55,597.61,CloudFy,04/15/2021
+769,6,Rio de Janeiro (RJ),Aracaju (SE),premium,1091.21,1.55,597.61,CloudFy,04/18/2021
+770,7,Aracaju (SE),Salvador (BH),firstClass,1684.05,2.16,830.86,CloudFy,09/26/2019
+770,7,Salvador (BH),Aracaju (SE),firstClass,1531.92,2.16,830.86,CloudFy,09/27/2019
+771,7,Aracaju (SE),Recife (PE),firstClass,1124.11,1.44,555.74,CloudFy,10/03/2019
+771,7,Recife (PE),Aracaju (SE),firstClass,1166.1,1.44,555.74,CloudFy,10/07/2019
+772,7,Recife (PE),Aracaju (SE),economic,663.23,1.44,555.74,Rainbow,10/10/2019
+772,7,Aracaju (SE),Recife (PE),economic,602.49,1.44,555.74,Rainbow,10/13/2019
+773,7,Aracaju (SE),Rio de Janeiro (RJ),premium,1007.72,1.55,597.61,CloudFy,10/17/2019
+773,7,Rio de Janeiro (RJ),Aracaju (SE),premium,1091.21,1.55,597.61,CloudFy,10/19/2019
+774,7,Recife (PE),Florianopolis (SC),premium,1074.75,1.76,676.53,CloudFy,10/24/2019
+774,7,Florianopolis (SC),Recife (PE),premium,918.66,1.76,676.53,CloudFy,10/28/2019
+775,7,Recife (PE),Aracaju (SE),premium,932.84,1.44,555.74,CloudFy,10/31/2019
+775,7,Aracaju (SE),Recife (PE),premium,835.21,1.44,555.74,CloudFy,11/02/2019
+776,7,Brasilia (DF),Aracaju (SE),firstClass,1260.1,1.11,425.98,CloudFy,11/07/2019
+776,7,Aracaju (SE),Brasilia (DF),firstClass,957.68,1.11,425.98,CloudFy,11/11/2019
+777,7,Recife (PE),Rio de Janeiro (RJ),firstClass,1706.89,2.3,885.57,FlyingDrops,11/14/2019
+777,7,Rio de Janeiro (RJ),Recife (PE),firstClass,1702.23,2.3,885.57,FlyingDrops,11/17/2019
+778,7,Aracaju (SE),Sao Paulo (SP),premium,630.34,1.02,392.76,CloudFy,11/21/2019
+778,7,Sao Paulo (SP),Aracaju (SE),premium,906.59,1.02,392.76,CloudFy,11/24/2019
+779,7,Brasilia (DF),Natal (RN),firstClass,1433.35,1.43,550.69,FlyingDrops,11/28/2019
+779,7,Natal (RN),Brasilia (DF),firstClass,1192.62,1.43,550.69,FlyingDrops,11/30/2019
+780,7,Brasilia (DF),Recife (PE),firstClass,691.39,0.63,242.21,FlyingDrops,12/05/2019
+780,7,Recife (PE),Brasilia (DF),firstClass,697.22,0.63,242.21,FlyingDrops,12/06/2019
+781,7,Brasilia (DF),Campo Grande (MS),economic,629.54,0.72,277.7,Rainbow,12/12/2019
+781,7,Campo Grande (MS),Brasilia (DF),economic,517.82,0.72,277.7,Rainbow,12/14/2019
+782,7,Recife (PE),Aracaju (SE),firstClass,1181.19,1.44,555.74,Rainbow,12/19/2019
+782,7,Aracaju (SE),Recife (PE),firstClass,1119.47,1.44,555.74,Rainbow,12/22/2019
+783,7,Brasilia (DF),Sao Paulo (SP),firstClass,893.65,0.67,257.81,CloudFy,12/26/2019
+783,7,Sao Paulo (SP),Brasilia (DF),firstClass,742.94,0.67,257.81,CloudFy,12/28/2019
+784,7,Aracaju (SE),Campo Grande (MS),firstClass,1389.37,1.69,650.1,CloudFy,01/02/2020
+784,7,Campo Grande (MS),Aracaju (SE),firstClass,1581.8,1.69,650.1,CloudFy,01/04/2020
+785,7,Recife (PE),Aracaju (SE),firstClass,1166.1,1.44,555.74,CloudFy,01/09/2020
+785,7,Aracaju (SE),Recife (PE),firstClass,1124.11,1.44,555.74,CloudFy,01/12/2020
+786,7,Brasilia (DF),Sao Paulo (SP),firstClass,904.0,0.67,257.81,FlyingDrops,01/16/2020
+786,7,Sao Paulo (SP),Brasilia (DF),firstClass,727.31,0.67,257.81,FlyingDrops,01/17/2020
+787,7,Recife (PE),Campo Grande (MS),firstClass,1110.76,1.39,535.4,CloudFy,01/23/2020
+787,7,Campo Grande (MS),Recife (PE),firstClass,1244.73,1.39,535.4,CloudFy,01/24/2020
+788,7,Recife (PE),Campo Grande (MS),firstClass,1038.95,1.39,535.4,FlyingDrops,01/30/2020
+788,7,Campo Grande (MS),Recife (PE),firstClass,1262.23,1.39,535.4,FlyingDrops,02/01/2020
+789,7,Brasilia (DF),Natal (RN),firstClass,1313.76,1.43,550.69,CloudFy,02/06/2020
+789,7,Natal (RN),Brasilia (DF),firstClass,1300.53,1.43,550.69,CloudFy,02/10/2020
+790,7,Recife (PE),Natal (RN),firstClass,669.83,0.58,222.67,CloudFy,02/13/2020
+790,7,Natal (RN),Recife (PE),firstClass,744.11,0.58,222.67,CloudFy,02/15/2020
+791,7,Recife (PE),Natal (RN),firstClass,633.71,0.58,222.67,FlyingDrops,02/20/2020
+791,7,Natal (RN),Recife (PE),firstClass,694.42,0.58,222.67,FlyingDrops,02/23/2020
+792,7,Aracaju (SE),Florianopolis (SC),firstClass,1499.93,2.1,808.85,FlyingDrops,02/27/2020
+792,7,Florianopolis (SC),Aracaju (SE),firstClass,1574.28,2.1,808.85,FlyingDrops,03/02/2020
+793,7,Brasilia (DF),Rio de Janeiro (RJ),firstClass,586.04,0.48,183.37,Rainbow,03/05/2020
+793,7,Rio de Janeiro (RJ),Brasilia (DF),firstClass,687.25,0.48,183.37,Rainbow,03/08/2020
+794,7,Brasilia (DF),Florianopolis (SC),firstClass,1576.97,1.66,637.56,Rainbow,03/12/2020
+794,7,Florianopolis (SC),Brasilia (DF),firstClass,1087.18,1.66,637.56,Rainbow,03/16/2020
+795,7,Brasilia (DF),Campo Grande (MS),economic,583.6,0.72,277.7,CloudFy,03/19/2020
+795,7,Campo Grande (MS),Brasilia (DF),economic,506.56,0.72,277.7,CloudFy,03/21/2020
+796,7,Brasilia (DF),Rio de Janeiro (RJ),premium,440.69,0.48,183.37,Rainbow,03/26/2020
+796,7,Rio de Janeiro (RJ),Brasilia (DF),premium,435.67,0.48,183.37,Rainbow,03/30/2020
+797,7,Aracaju (SE),Sao Paulo (SP),firstClass,730.43,1.02,392.76,CloudFy,04/02/2020
+797,7,Sao Paulo (SP),Aracaju (SE),firstClass,1186.15,1.02,392.76,CloudFy,04/05/2020
+798,7,Brasilia (DF),Natal (RN),premium,1067.3,1.43,550.69,CloudFy,04/09/2020
+798,7,Natal (RN),Brasilia (DF),premium,898.46,1.43,550.69,CloudFy,04/11/2020
+799,7,Recife (PE),Campo Grande (MS),premium,832.77,1.39,535.4,Rainbow,04/16/2020
+799,7,Campo Grande (MS),Recife (PE),premium,991.22,1.39,535.4,Rainbow,04/19/2020
+800,7,Recife (PE),Salvador (BH),premium,1249.83,2.05,788.55,Rainbow,04/23/2020
+800,7,Salvador (BH),Recife (PE),premium,1103.23,2.05,788.55,Rainbow,04/25/2020
+801,7,Brasilia (DF),Natal (RN),premium,1067.3,1.43,550.69,CloudFy,04/30/2020
+801,7,Natal (RN),Brasilia (DF),premium,898.46,1.43,550.69,CloudFy,05/01/2020
+802,7,Aracaju (SE),Natal (RN),premium,535.95,0.46,176.33,CloudFy,05/07/2020
+802,7,Natal (RN),Aracaju (SE),premium,451.41,0.46,176.33,CloudFy,05/10/2020
+803,7,Recife (PE),Campo Grande (MS),premium,793.15,1.39,535.4,CloudFy,05/14/2020
+803,7,Campo Grande (MS),Recife (PE),premium,959.91,1.39,535.4,CloudFy,05/18/2020
+804,7,Brasilia (DF),Sao Paulo (SP),economic,538.95,0.67,257.81,CloudFy,05/21/2020
+804,7,Sao Paulo (SP),Brasilia (DF),economic,389.47,0.67,257.81,CloudFy,05/25/2020
+805,7,Brasilia (DF),Aracaju (SE),premium,965.62,1.11,425.98,Rainbow,05/28/2020
+805,7,Aracaju (SE),Brasilia (DF),premium,706.36,1.11,425.98,Rainbow,05/30/2020
+806,7,Aracaju (SE),Recife (PE),economic,604.14,1.44,555.74,CloudFy,06/04/2020
+806,7,Recife (PE),Aracaju (SE),economic,684.88,1.44,555.74,CloudFy,06/07/2020
+807,7,Brasilia (DF),Aracaju (SE),firstClass,1287.52,1.11,425.98,FlyingDrops,06/11/2020
+807,7,Aracaju (SE),Brasilia (DF),firstClass,898.04,1.11,425.98,FlyingDrops,06/14/2020
+808,7,Brasilia (DF),Natal (RN),firstClass,1313.76,1.43,550.69,CloudFy,06/18/2020
+808,7,Natal (RN),Brasilia (DF),firstClass,1300.53,1.43,550.69,CloudFy,06/21/2020
+809,7,Aracaju (SE),Brasilia (DF),economic,548.62,1.11,425.98,Rainbow,06/25/2020
+809,7,Brasilia (DF),Aracaju (SE),economic,721.2,1.11,425.98,Rainbow,06/29/2020
+810,7,Brasilia (DF),Florianopolis (SC),economic,889.07,1.66,637.56,Rainbow,07/02/2020
+810,7,Florianopolis (SC),Brasilia (DF),economic,555.01,1.66,637.56,Rainbow,07/03/2020
+811,7,Aracaju (SE),Sao Paulo (SP),economic,446.73,1.02,392.76,Rainbow,07/09/2020
+811,7,Sao Paulo (SP),Aracaju (SE),economic,647.9,1.02,392.76,Rainbow,07/13/2020
+812,7,Recife (PE),Natal (RN),economic,301.51,0.58,222.67,CloudFy,07/16/2020
+812,7,Natal (RN),Recife (PE),economic,429.77,0.58,222.67,CloudFy,07/18/2020
+813,7,Brasilia (DF),Rio de Janeiro (RJ),firstClass,586.04,0.48,183.37,Rainbow,07/23/2020
+813,7,Rio de Janeiro (RJ),Brasilia (DF),firstClass,687.25,0.48,183.37,Rainbow,07/25/2020
+814,7,Aracaju (SE),Recife (PE),premium,835.21,1.44,555.74,CloudFy,07/30/2020
+814,7,Recife (PE),Aracaju (SE),premium,932.84,1.44,555.74,CloudFy,07/31/2020
+815,7,Brasilia (DF),Recife (PE),premium,559.13,0.63,242.21,Rainbow,08/06/2020
+815,7,Recife (PE),Brasilia (DF),premium,638.63,0.63,242.21,Rainbow,08/09/2020
+816,7,Aracaju (SE),Natal (RN),firstClass,549.96,0.46,176.33,Rainbow,08/13/2020
+816,7,Natal (RN),Aracaju (SE),firstClass,611.4,0.46,176.33,Rainbow,08/14/2020
+817,7,Aracaju (SE),Natal (RN),firstClass,577.71,0.46,176.33,FlyingDrops,08/20/2020
+817,7,Natal (RN),Aracaju (SE),firstClass,611.59,0.46,176.33,FlyingDrops,08/22/2020
+818,7,Brasilia (DF),Natal (RN),economic,791.66,1.43,550.69,CloudFy,08/27/2020
+818,7,Natal (RN),Brasilia (DF),economic,697.51,1.43,550.69,CloudFy,08/29/2020
+819,7,Brasilia (DF),Campo Grande (MS),premium,831.7,0.72,277.7,CloudFy,09/03/2020
+819,7,Campo Grande (MS),Brasilia (DF),premium,661.32,0.72,277.7,CloudFy,09/05/2020
+820,7,Aracaju (SE),Sao Paulo (SP),premium,630.34,1.02,392.76,CloudFy,09/10/2020
+820,7,Sao Paulo (SP),Aracaju (SE),premium,906.59,1.02,392.76,CloudFy,09/11/2020
+821,7,Recife (PE),Salvador (BH),premium,1242.65,2.05,788.55,CloudFy,09/17/2020
+821,7,Salvador (BH),Recife (PE),premium,1016.53,2.05,788.55,CloudFy,09/19/2020
+822,8,Brasilia (DF),Salvador (BH),economic,921.08,1.76,676.56,Rainbow,09/26/2019
+822,8,Salvador (BH),Brasilia (DF),economic,609.83,1.76,676.56,Rainbow,09/28/2019
+823,8,Brasilia (DF),Salvador (BH),premium,1268.97,1.76,676.56,Rainbow,10/03/2019
+823,8,Salvador (BH),Brasilia (DF),premium,882.86,1.76,676.56,Rainbow,10/07/2019
+824,8,Brasilia (DF),Rio de Janeiro (RJ),firstClass,649.64,0.48,183.37,CloudFy,10/10/2019
+824,8,Rio de Janeiro (RJ),Brasilia (DF),firstClass,688.06,0.48,183.37,CloudFy,10/11/2019
+825,8,Brasilia (DF),Recife (PE),premium,568.38,0.63,242.21,CloudFy,10/17/2019
+825,8,Recife (PE),Brasilia (DF),premium,573.61,0.63,242.21,CloudFy,10/18/2019
+826,8,Aracaju (SE),Florianopolis (SC),firstClass,1499.93,2.1,808.85,FlyingDrops,10/24/2019
+826,8,Florianopolis (SC),Aracaju (SE),firstClass,1574.28,2.1,808.85,FlyingDrops,10/27/2019
+827,8,Brasilia (DF),Recife (PE),firstClass,804.24,0.63,242.21,CloudFy,10/31/2019
+827,8,Recife (PE),Brasilia (DF),firstClass,709.25,0.63,242.21,CloudFy,11/04/2019
+828,8,Aracaju (SE),Brasilia (DF),premium,706.36,1.11,425.98,Rainbow,11/07/2019
+828,8,Brasilia (DF),Aracaju (SE),premium,965.62,1.11,425.98,Rainbow,11/09/2019
+829,8,Brasilia (DF),Salvador (BH),firstClass,1665.24,1.76,676.56,Rainbow,11/14/2019
+829,8,Salvador (BH),Brasilia (DF),firstClass,1040.84,1.76,676.56,Rainbow,11/18/2019
+830,8,Aracaju (SE),Natal (RN),premium,535.95,0.46,176.33,CloudFy,11/21/2019
+830,8,Natal (RN),Aracaju (SE),premium,451.41,0.46,176.33,CloudFy,11/25/2019
+831,8,Brasilia (DF),Campo Grande (MS),firstClass,1009.71,0.72,277.7,FlyingDrops,11/28/2019
+831,8,Campo Grande (MS),Brasilia (DF),firstClass,847.83,0.72,277.7,FlyingDrops,12/02/2019
+832,8,Brasilia (DF),Florianopolis (SC),firstClass,1487.52,1.66,637.56,CloudFy,12/05/2019
+832,8,Florianopolis (SC),Brasilia (DF),firstClass,1127.36,1.66,637.56,CloudFy,12/07/2019
+833,8,Brasilia (DF),Salvador (BH),premium,1346.6,1.76,676.56,CloudFy,12/12/2019
+833,8,Salvador (BH),Brasilia (DF),premium,836.89,1.76,676.56,CloudFy,12/14/2019
+834,8,Aracaju (SE),Brasilia (DF),firstClass,959.29,1.11,425.98,Rainbow,12/19/2019
+834,8,Brasilia (DF),Aracaju (SE),firstClass,1214.82,1.11,425.98,Rainbow,12/21/2019
+835,8,Brasilia (DF),Campo Grande (MS),economic,629.54,0.72,277.7,Rainbow,12/26/2019
+835,8,Campo Grande (MS),Brasilia (DF),economic,517.82,0.72,277.7,Rainbow,12/29/2019
+836,8,Recife (PE),Sao Paulo (SP),premium,657.87,1.26,486.52,CloudFy,01/02/2020
+836,8,Sao Paulo (SP),Recife (PE),premium,1195.26,1.26,486.52,CloudFy,01/03/2020
+837,8,Aracaju (SE),Salvador (BH),premium,1288.79,2.16,830.86,CloudFy,01/09/2020
+837,8,Salvador (BH),Aracaju (SE),premium,1209.04,2.16,830.86,CloudFy,01/11/2020
+838,8,Recife (PE),Natal (RN),premium,488.73,0.58,222.67,Rainbow,01/16/2020
+838,8,Natal (RN),Recife (PE),premium,579.62,0.58,222.67,Rainbow,01/17/2020
+839,8,Brasilia (DF),Salvador (BH),firstClass,1685.23,1.76,676.56,CloudFy,01/23/2020
+839,8,Salvador (BH),Brasilia (DF),firstClass,1032.4,1.76,676.56,CloudFy,01/26/2020
+840,8,Brasilia (DF),Aracaju (SE),firstClass,1214.82,1.11,425.98,Rainbow,01/30/2020
+840,8,Aracaju (SE),Brasilia (DF),firstClass,959.29,1.11,425.98,Rainbow,01/31/2020
+841,8,Aracaju (SE),Sao Paulo (SP),firstClass,756.3,1.02,392.76,FlyingDrops,02/06/2020
+841,8,Sao Paulo (SP),Aracaju (SE),firstClass,1269.73,1.02,392.76,FlyingDrops,02/10/2020
+842,8,Brasilia (DF),Sao Paulo (SP),premium,750.0,0.67,257.81,Rainbow,02/13/2020
+842,8,Sao Paulo (SP),Brasilia (DF),premium,586.06,0.67,257.81,Rainbow,02/15/2020
+843,8,Recife (PE),Salvador (BH),firstClass,1484.94,2.05,788.55,CloudFy,02/20/2020
+843,8,Salvador (BH),Recife (PE),firstClass,1440.02,2.05,788.55,CloudFy,02/23/2020
+844,8,Aracaju (SE),Natal (RN),economic,380.32,0.46,176.33,Rainbow,02/27/2020
+844,8,Natal (RN),Aracaju (SE),economic,301.61,0.46,176.33,Rainbow,02/29/2020
+845,8,Aracaju (SE),Salvador (BH),premium,1289.05,2.16,830.86,Rainbow,03/05/2020
+845,8,Salvador (BH),Aracaju (SE),premium,1247.02,2.16,830.86,Rainbow,03/06/2020
+846,8,Aracaju (SE),Salvador (BH),economic,964.83,2.16,830.86,CloudFy,03/12/2020
+846,8,Salvador (BH),Aracaju (SE),economic,811.73,2.16,830.86,CloudFy,03/16/2020
+847,8,Aracaju (SE),Recife (PE),firstClass,1119.47,1.44,555.74,Rainbow,03/19/2020
+847,8,Recife (PE),Aracaju (SE),firstClass,1181.19,1.44,555.74,Rainbow,03/21/2020
+848,8,Brasilia (DF),Salvador (BH),firstClass,1685.23,1.76,676.56,CloudFy,03/26/2020
+848,8,Salvador (BH),Brasilia (DF),firstClass,1032.4,1.76,676.56,CloudFy,03/28/2020
+849,8,Recife (PE),Florianopolis (SC),premium,1074.75,1.76,676.53,CloudFy,04/02/2020
+849,8,Florianopolis (SC),Recife (PE),premium,918.66,1.76,676.53,CloudFy,04/03/2020
+850,8,Brasilia (DF),Campo Grande (MS),premium,831.7,0.72,277.7,CloudFy,04/09/2020
+850,8,Campo Grande (MS),Brasilia (DF),premium,661.32,0.72,277.7,CloudFy,04/11/2020
+851,8,Recife (PE),Natal (RN),premium,488.73,0.58,222.67,Rainbow,04/16/2020
+851,8,Natal (RN),Recife (PE),premium,579.62,0.58,222.67,Rainbow,04/18/2020
+852,8,Aracaju (SE),Florianopolis (SC),firstClass,1499.93,2.1,808.85,FlyingDrops,04/23/2020
+852,8,Florianopolis (SC),Aracaju (SE),firstClass,1574.28,2.1,808.85,FlyingDrops,04/24/2020
+853,8,Aracaju (SE),Rio de Janeiro (RJ),premium,930.12,1.55,597.61,Rainbow,04/30/2020
+853,8,Rio de Janeiro (RJ),Aracaju (SE),premium,1098.93,1.55,597.61,Rainbow,05/02/2020
+854,8,Brasilia (DF),Aracaju (SE),premium,987.07,1.11,425.98,CloudFy,05/07/2020
+854,8,Aracaju (SE),Brasilia (DF),premium,755.62,1.11,425.98,CloudFy,05/08/2020
+855,8,Recife (PE),Sao Paulo (SP),premium,670.13,1.26,486.52,Rainbow,05/14/2020
+855,8,Sao Paulo (SP),Recife (PE),premium,1145.72,1.26,486.52,Rainbow,05/18/2020
+856,8,Recife (PE),Natal (RN),firstClass,633.71,0.58,222.67,FlyingDrops,05/21/2020
+856,8,Natal (RN),Recife (PE),firstClass,694.42,0.58,222.67,FlyingDrops,05/23/2020
+857,8,Brasilia (DF),Rio de Janeiro (RJ),premium,440.69,0.48,183.37,Rainbow,05/28/2020
+857,8,Rio de Janeiro (RJ),Brasilia (DF),premium,435.67,0.48,183.37,Rainbow,05/30/2020
+858,8,Brasilia (DF),Aracaju (SE),economic,654.88,1.11,425.98,CloudFy,06/04/2020
+858,8,Aracaju (SE),Brasilia (DF),economic,472.72,1.11,425.98,CloudFy,06/08/2020
+859,8,Aracaju (SE),Brasilia (DF),economic,548.62,1.11,425.98,Rainbow,06/11/2020
+859,8,Brasilia (DF),Aracaju (SE),economic,721.2,1.11,425.98,Rainbow,06/14/2020
+860,8,Brasilia (DF),Aracaju (SE),firstClass,1260.1,1.11,425.98,CloudFy,06/18/2020
+860,8,Aracaju (SE),Brasilia (DF),firstClass,957.68,1.11,425.98,CloudFy,06/21/2020
+861,8,Aracaju (SE),Rio de Janeiro (RJ),firstClass,1190.94,1.55,597.61,FlyingDrops,06/25/2020
+861,8,Rio de Janeiro (RJ),Aracaju (SE),firstClass,1381.55,1.55,597.61,FlyingDrops,06/27/2020
+862,8,Recife (PE),Rio de Janeiro (RJ),firstClass,1612.39,2.3,885.57,CloudFy,07/02/2020
+862,8,Rio de Janeiro (RJ),Recife (PE),firstClass,1664.01,2.3,885.57,CloudFy,07/03/2020
+863,8,Brasilia (DF),Florianopolis (SC),firstClass,1569.65,1.66,637.56,FlyingDrops,07/09/2020
+863,8,Florianopolis (SC),Brasilia (DF),firstClass,1097.17,1.66,637.56,FlyingDrops,07/10/2020
+864,8,Recife (PE),Brasilia (DF),firstClass,709.25,0.63,242.21,CloudFy,07/16/2020
+864,8,Brasilia (DF),Recife (PE),firstClass,804.24,0.63,242.21,CloudFy,07/18/2020
+865,8,Aracaju (SE),Campo Grande (MS),economic,750.92,1.69,650.1,CloudFy,07/23/2020
+865,8,Campo Grande (MS),Aracaju (SE),economic,886.9,1.69,650.1,CloudFy,07/26/2020
+866,8,Aracaju (SE),Campo Grande (MS),firstClass,1389.37,1.69,650.1,CloudFy,07/30/2020
+866,8,Campo Grande (MS),Aracaju (SE),firstClass,1581.8,1.69,650.1,CloudFy,08/02/2020
+867,8,Brasilia (DF),Natal (RN),firstClass,1433.35,1.43,550.69,FlyingDrops,08/06/2020
+867,8,Natal (RN),Brasilia (DF),firstClass,1192.62,1.43,550.69,FlyingDrops,08/09/2020
+868,8,Recife (PE),Sao Paulo (SP),firstClass,883.63,1.26,486.52,CloudFy,08/13/2020
+868,8,Sao Paulo (SP),Recife (PE),firstClass,1533.42,1.26,486.52,CloudFy,08/17/2020
+869,8,Recife (PE),Brasilia (DF),economic,439.38,0.63,242.21,Rainbow,08/20/2020
+869,8,Brasilia (DF),Recife (PE),economic,421.2,0.63,242.21,Rainbow,08/24/2020
+870,8,Recife (PE),Rio de Janeiro (RJ),premium,1351.89,2.3,885.57,Rainbow,08/27/2020
+870,8,Rio de Janeiro (RJ),Recife (PE),premium,1306.26,2.3,885.57,Rainbow,08/30/2020
+871,8,Recife (PE),Natal (RN),premium,488.73,0.58,222.67,Rainbow,09/03/2020
+871,8,Natal (RN),Recife (PE),premium,579.62,0.58,222.67,Rainbow,09/07/2020
+872,8,Brasilia (DF),Florianopolis (SC),economic,884.94,1.66,637.56,CloudFy,09/10/2020
+872,8,Florianopolis (SC),Brasilia (DF),economic,636.51,1.66,637.56,CloudFy,09/12/2020
+873,8,Brasilia (DF),Aracaju (SE),economic,654.88,1.11,425.98,CloudFy,09/17/2020
+873,8,Aracaju (SE),Brasilia (DF),economic,472.72,1.11,425.98,CloudFy,09/20/2020
+874,8,Aracaju (SE),Recife (PE),economic,604.14,1.44,555.74,CloudFy,09/24/2020
+874,8,Recife (PE),Aracaju (SE),economic,684.88,1.44,555.74,CloudFy,09/28/2020
+875,8,Recife (PE),Florianopolis (SC),premium,1074.75,1.76,676.53,CloudFy,10/01/2020
+875,8,Florianopolis (SC),Recife (PE),premium,918.66,1.76,676.53,CloudFy,10/02/2020
+876,8,Aracaju (SE),Rio de Janeiro (RJ),premium,930.12,1.55,597.61,Rainbow,10/08/2020
+876,8,Rio de Janeiro (RJ),Aracaju (SE),premium,1098.93,1.55,597.61,Rainbow,10/12/2020
+877,8,Brasilia (DF),Natal (RN),premium,1067.3,1.43,550.69,CloudFy,10/15/2020
+877,8,Natal (RN),Brasilia (DF),premium,898.46,1.43,550.69,CloudFy,10/17/2020
+878,8,Recife (PE),Natal (RN),economic,301.51,0.58,222.67,CloudFy,10/22/2020
+878,8,Natal (RN),Recife (PE),economic,429.77,0.58,222.67,CloudFy,10/24/2020
+879,8,Recife (PE),Brasilia (DF),economic,393.68,0.63,242.21,CloudFy,10/29/2020
+879,8,Brasilia (DF),Recife (PE),economic,432.1,0.63,242.21,CloudFy,10/30/2020
+880,8,Brasilia (DF),Florianopolis (SC),firstClass,1576.97,1.66,637.56,Rainbow,11/05/2020
+880,8,Florianopolis (SC),Brasilia (DF),firstClass,1087.18,1.66,637.56,Rainbow,11/06/2020
+881,8,Brasilia (DF),Natal (RN),economic,726.19,1.43,550.69,Rainbow,11/12/2020
+881,8,Natal (RN),Brasilia (DF),economic,686.79,1.43,550.69,Rainbow,11/13/2020
+882,8,Brasilia (DF),Campo Grande (MS),firstClass,1096.58,0.72,277.7,CloudFy,11/19/2020
+882,8,Campo Grande (MS),Brasilia (DF),firstClass,949.99,0.72,277.7,CloudFy,11/21/2020
+883,8,Brasilia (DF),Aracaju (SE),firstClass,1287.52,1.11,425.98,FlyingDrops,11/26/2020
+883,8,Aracaju (SE),Brasilia (DF),firstClass,898.04,1.11,425.98,FlyingDrops,11/28/2020
+884,8,Recife (PE),Rio de Janeiro (RJ),premium,1351.89,2.3,885.57,Rainbow,12/03/2020
+884,8,Rio de Janeiro (RJ),Recife (PE),premium,1306.26,2.3,885.57,Rainbow,12/05/2020
+885,8,Brasilia (DF),Aracaju (SE),economic,654.88,1.11,425.98,CloudFy,12/10/2020
+885,8,Aracaju (SE),Brasilia (DF),economic,472.72,1.11,425.98,CloudFy,12/11/2020
+886,8,Brasilia (DF),Campo Grande (MS),economic,583.6,0.72,277.7,CloudFy,12/17/2020
+886,8,Campo Grande (MS),Brasilia (DF),economic,506.56,0.72,277.7,CloudFy,12/18/2020
+887,8,Aracaju (SE),Campo Grande (MS),firstClass,1387.89,1.69,650.1,Rainbow,12/24/2020
+887,8,Campo Grande (MS),Aracaju (SE),firstClass,1545.78,1.69,650.1,Rainbow,12/26/2020
+888,8,Brasilia (DF),Aracaju (SE),firstClass,1287.52,1.11,425.98,FlyingDrops,12/31/2020
+888,8,Aracaju (SE),Brasilia (DF),firstClass,898.04,1.11,425.98,FlyingDrops,01/04/2021
+889,8,Recife (PE),Salvador (BH),firstClass,1470.41,2.05,788.55,Rainbow,01/07/2021
+889,8,Salvador (BH),Recife (PE),firstClass,1440.25,2.05,788.55,Rainbow,01/10/2021
+890,8,Aracaju (SE),Natal (RN),firstClass,577.71,0.46,176.33,FlyingDrops,01/14/2021
+890,8,Natal (RN),Aracaju (SE),firstClass,611.59,0.46,176.33,FlyingDrops,01/18/2021
+891,8,Brasilia (DF),Rio de Janeiro (RJ),economic,344.26,0.48,183.37,CloudFy,01/21/2021
+891,8,Rio de Janeiro (RJ),Brasilia (DF),economic,369.57,0.48,183.37,CloudFy,01/23/2021
+892,8,Brasilia (DF),Florianopolis (SC),premium,1189.32,1.66,637.56,CloudFy,01/28/2021
+892,8,Florianopolis (SC),Brasilia (DF),premium,885.37,1.66,637.56,CloudFy,01/30/2021
+893,8,Brasilia (DF),Recife (PE),economic,421.2,0.63,242.21,Rainbow,02/04/2021
+893,8,Recife (PE),Brasilia (DF),economic,439.38,0.63,242.21,Rainbow,02/08/2021
+894,8,Recife (PE),Brasilia (DF),firstClass,721.93,0.63,242.21,Rainbow,02/11/2021
+894,8,Brasilia (DF),Recife (PE),firstClass,772.21,0.63,242.21,Rainbow,02/14/2021
+895,8,Aracaju (SE),Natal (RN),economic,332.1,0.46,176.33,CloudFy,02/18/2021
+895,8,Natal (RN),Aracaju (SE),economic,361.68,0.46,176.33,CloudFy,02/19/2021
+896,8,Aracaju (SE),Campo Grande (MS),economic,743.54,1.69,650.1,Rainbow,02/25/2021
+896,8,Campo Grande (MS),Aracaju (SE),economic,877.56,1.69,650.1,Rainbow,02/27/2021
+897,8,Aracaju (SE),Campo Grande (MS),firstClass,1376.09,1.69,650.1,FlyingDrops,03/04/2021
+897,8,Campo Grande (MS),Aracaju (SE),firstClass,1473.41,1.69,650.1,FlyingDrops,03/08/2021
+898,8,Aracaju (SE),Florianopolis (SC),firstClass,1499.93,2.1,808.85,FlyingDrops,03/11/2021
+898,8,Florianopolis (SC),Aracaju (SE),firstClass,1574.28,2.1,808.85,FlyingDrops,03/12/2021
+899,8,Recife (PE),Rio de Janeiro (RJ),firstClass,1612.39,2.3,885.57,CloudFy,03/18/2021
+899,8,Rio de Janeiro (RJ),Recife (PE),firstClass,1664.01,2.3,885.57,CloudFy,03/22/2021
+900,8,Brasilia (DF),Natal (RN),firstClass,1313.76,1.43,550.69,CloudFy,03/25/2021
+900,8,Natal (RN),Brasilia (DF),firstClass,1300.53,1.43,550.69,CloudFy,03/27/2021
+901,8,Aracaju (SE),Florianopolis (SC),firstClass,1582.41,2.1,808.85,Rainbow,04/01/2021
+901,8,Florianopolis (SC),Aracaju (SE),firstClass,1582.1,2.1,808.85,Rainbow,04/03/2021
+902,8,Recife (PE),Campo Grande (MS),economic,615.59,1.39,535.4,Rainbow,04/08/2021
+902,8,Campo Grande (MS),Recife (PE),economic,674.16,1.39,535.4,Rainbow,04/12/2021
+903,8,Brasilia (DF),Salvador (BH),premium,1346.6,1.76,676.56,CloudFy,04/15/2021
+903,8,Salvador (BH),Brasilia (DF),premium,836.89,1.76,676.56,CloudFy,04/18/2021
+904,8,Aracaju (SE),Recife (PE),premium,835.21,1.44,555.74,CloudFy,04/22/2021
+904,8,Recife (PE),Aracaju (SE),premium,932.84,1.44,555.74,CloudFy,04/26/2021
+905,8,Brasilia (DF),Rio de Janeiro (RJ),firstClass,649.64,0.48,183.37,CloudFy,04/29/2021
+905,8,Rio de Janeiro (RJ),Brasilia (DF),firstClass,688.06,0.48,183.37,CloudFy,04/30/2021
+906,8,Recife (PE),Aracaju (SE),firstClass,1181.19,1.44,555.74,Rainbow,05/06/2021
+906,8,Aracaju (SE),Recife (PE),firstClass,1119.47,1.44,555.74,Rainbow,05/10/2021
+907,8,Aracaju (SE),Recife (PE),premium,835.21,1.44,555.74,CloudFy,05/13/2021
+907,8,Recife (PE),Aracaju (SE),premium,932.84,1.44,555.74,CloudFy,05/16/2021
+908,8,Aracaju (SE),Rio de Janeiro (RJ),economic,717.04,1.55,597.61,CloudFy,05/20/2021
+908,8,Rio de Janeiro (RJ),Aracaju (SE),economic,796.42,1.55,597.61,CloudFy,05/21/2021
+909,8,Aracaju (SE),Salvador (BH),premium,1288.79,2.16,830.86,CloudFy,05/27/2021
+909,8,Salvador (BH),Aracaju (SE),premium,1209.04,2.16,830.86,CloudFy,05/28/2021
+910,8,Brasilia (DF),Aracaju (SE),firstClass,1287.52,1.11,425.98,FlyingDrops,06/03/2021
+910,8,Aracaju (SE),Brasilia (DF),firstClass,898.04,1.11,425.98,FlyingDrops,06/04/2021
+911,8,Aracaju (SE),Natal (RN),premium,535.95,0.46,176.33,CloudFy,06/10/2021
+911,8,Natal (RN),Aracaju (SE),premium,451.41,0.46,176.33,CloudFy,06/14/2021
+912,8,Recife (PE),Sao Paulo (SP),firstClass,883.63,1.26,486.52,CloudFy,06/17/2021
+912,8,Sao Paulo (SP),Recife (PE),firstClass,1533.42,1.26,486.52,CloudFy,06/21/2021
+913,8,Aracaju (SE),Florianopolis (SC),firstClass,1499.93,2.1,808.85,FlyingDrops,06/24/2021
+913,8,Florianopolis (SC),Aracaju (SE),firstClass,1574.28,2.1,808.85,FlyingDrops,06/25/2021
+914,8,Aracaju (SE),Natal (RN),firstClass,598.61,0.46,176.33,CloudFy,07/01/2021
+914,8,Natal (RN),Aracaju (SE),firstClass,576.66,0.46,176.33,CloudFy,07/04/2021
+915,8,Recife (PE),Sao Paulo (SP),economic,513.06,1.26,486.52,CloudFy,07/08/2021
+915,8,Sao Paulo (SP),Recife (PE),economic,829.91,1.26,486.52,CloudFy,07/09/2021
+916,8,Aracaju (SE),Salvador (BH),firstClass,1684.05,2.16,830.86,CloudFy,07/15/2021
+916,8,Salvador (BH),Aracaju (SE),firstClass,1531.92,2.16,830.86,CloudFy,07/18/2021
+917,8,Aracaju (SE),Natal (RN),economic,380.32,0.46,176.33,Rainbow,07/22/2021
+917,8,Natal (RN),Aracaju (SE),economic,301.61,0.46,176.33,Rainbow,07/25/2021
+918,8,Recife (PE),Natal (RN),firstClass,669.83,0.58,222.67,CloudFy,07/29/2021
+918,8,Natal (RN),Recife (PE),firstClass,744.11,0.58,222.67,CloudFy,07/31/2021
+919,8,Recife (PE),Campo Grande (MS),firstClass,1038.95,1.39,535.4,FlyingDrops,08/05/2021
+919,8,Campo Grande (MS),Recife (PE),firstClass,1262.23,1.39,535.4,FlyingDrops,08/09/2021
+920,8,Brasilia (DF),Natal (RN),premium,1107.52,1.43,550.69,Rainbow,08/12/2021
+920,8,Natal (RN),Brasilia (DF),premium,919.89,1.43,550.69,Rainbow,08/16/2021
+921,8,Recife (PE),Florianopolis (SC),firstClass,1371.83,1.76,676.53,Rainbow,08/19/2021
+921,8,Florianopolis (SC),Recife (PE),firstClass,1175.62,1.76,676.53,Rainbow,08/23/2021
+922,8,Aracaju (SE),Recife (PE),premium,875.41,1.44,555.74,Rainbow,08/26/2021
+922,8,Recife (PE),Aracaju (SE),premium,932.22,1.44,555.74,Rainbow,08/30/2021
+923,8,Brasilia (DF),Florianopolis (SC),economic,884.94,1.66,637.56,CloudFy,09/02/2021
+923,8,Florianopolis (SC),Brasilia (DF),economic,636.51,1.66,637.56,CloudFy,09/06/2021
+924,8,Aracaju (SE),Natal (RN),premium,535.95,0.46,176.33,CloudFy,09/09/2021
+924,8,Natal (RN),Aracaju (SE),premium,451.41,0.46,176.33,CloudFy,09/12/2021
+925,8,Aracaju (SE),Campo Grande (MS),firstClass,1387.89,1.69,650.1,Rainbow,09/16/2021
+925,8,Campo Grande (MS),Aracaju (SE),firstClass,1545.78,1.69,650.1,Rainbow,09/17/2021
+926,8,Recife (PE),Salvador (BH),firstClass,1484.94,2.05,788.55,CloudFy,09/23/2021
+926,8,Salvador (BH),Recife (PE),firstClass,1440.02,2.05,788.55,CloudFy,09/24/2021
+927,8,Brasilia (DF),Aracaju (SE),premium,965.62,1.11,425.98,Rainbow,09/30/2021
+927,8,Aracaju (SE),Brasilia (DF),premium,706.36,1.11,425.98,Rainbow,10/02/2021
+928,8,Brasilia (DF),Campo Grande (MS),firstClass,1096.58,0.72,277.7,CloudFy,10/07/2021
+928,8,Campo Grande (MS),Brasilia (DF),firstClass,949.99,0.72,277.7,CloudFy,10/08/2021
+929,8,Brasilia (DF),Aracaju (SE),economic,721.2,1.11,425.98,Rainbow,10/14/2021
+929,8,Aracaju (SE),Brasilia (DF),economic,548.62,1.11,425.98,Rainbow,10/15/2021
+930,8,Aracaju (SE),Florianopolis (SC),firstClass,1582.41,2.1,808.85,Rainbow,10/21/2021
+930,8,Florianopolis (SC),Aracaju (SE),firstClass,1582.1,2.1,808.85,Rainbow,10/23/2021
+931,8,Aracaju (SE),Campo Grande (MS),economic,743.54,1.69,650.1,Rainbow,10/28/2021
+931,8,Campo Grande (MS),Aracaju (SE),economic,877.56,1.69,650.1,Rainbow,10/31/2021
+932,8,Recife (PE),Salvador (BH),firstClass,1470.41,2.05,788.55,Rainbow,11/04/2021
+932,8,Salvador (BH),Recife (PE),firstClass,1440.25,2.05,788.55,Rainbow,11/06/2021
+933,8,Brasilia (DF),Campo Grande (MS),premium,851.15,0.72,277.7,Rainbow,11/11/2021
+933,8,Campo Grande (MS),Brasilia (DF),premium,691.99,0.72,277.7,Rainbow,11/14/2021
+934,8,Aracaju (SE),Campo Grande (MS),premium,1021.53,1.69,650.1,CloudFy,11/18/2021
+934,8,Campo Grande (MS),Aracaju (SE),premium,1215.45,1.69,650.1,CloudFy,11/19/2021
+935,8,Aracaju (SE),Natal (RN),premium,427.25,0.46,176.33,Rainbow,11/25/2021
+935,8,Natal (RN),Aracaju (SE),premium,479.37,0.46,176.33,Rainbow,11/28/2021
+936,8,Brasilia (DF),Sao Paulo (SP),economic,533.8,0.67,257.81,Rainbow,12/02/2021
+936,8,Sao Paulo (SP),Brasilia (DF),economic,393.84,0.67,257.81,Rainbow,12/03/2021
+937,8,Recife (PE),Natal (RN),premium,488.73,0.58,222.67,Rainbow,12/09/2021
+937,8,Natal (RN),Recife (PE),premium,579.62,0.58,222.67,Rainbow,12/13/2021
+938,8,Aracaju (SE),Sao Paulo (SP),economic,446.73,1.02,392.76,Rainbow,12/16/2021
+938,8,Sao Paulo (SP),Aracaju (SE),economic,647.9,1.02,392.76,Rainbow,12/19/2021
+939,8,Aracaju (SE),Florianopolis (SC),economic,869.13,2.1,808.85,CloudFy,12/23/2021
+939,8,Florianopolis (SC),Aracaju (SE),economic,879.1,2.1,808.85,CloudFy,12/24/2021
+940,8,Recife (PE),Brasilia (DF),economic,393.68,0.63,242.21,CloudFy,12/30/2021
+940,8,Brasilia (DF),Recife (PE),economic,432.1,0.63,242.21,CloudFy,01/03/2022
+941,8,Aracaju (SE),Sao Paulo (SP),premium,588.14,1.02,392.76,Rainbow,01/06/2022
+941,8,Sao Paulo (SP),Aracaju (SE),premium,962.54,1.02,392.76,Rainbow,01/08/2022
+942,8,Recife (PE),Campo Grande (MS),economic,563.71,1.39,535.4,CloudFy,01/13/2022
+942,8,Campo Grande (MS),Recife (PE),economic,659.43,1.39,535.4,CloudFy,01/14/2022
+943,8,Recife (PE),Sao Paulo (SP),firstClass,954.78,1.26,486.52,FlyingDrops,01/20/2022
+943,8,Sao Paulo (SP),Recife (PE),firstClass,1464.89,1.26,486.52,FlyingDrops,01/22/2022
+944,8,Aracaju (SE),Recife (PE),firstClass,1124.11,1.44,555.74,CloudFy,01/27/2022
+944,8,Recife (PE),Aracaju (SE),firstClass,1166.1,1.44,555.74,CloudFy,01/30/2022
+945,8,Brasilia (DF),Natal (RN),premium,1107.52,1.43,550.69,Rainbow,02/03/2022
+945,8,Natal (RN),Brasilia (DF),premium,919.89,1.43,550.69,Rainbow,02/04/2022
+946,8,Recife (PE),Rio de Janeiro (RJ),firstClass,1706.89,2.3,885.57,FlyingDrops,02/10/2022
+946,8,Rio de Janeiro (RJ),Recife (PE),firstClass,1702.23,2.3,885.57,FlyingDrops,02/12/2022
+947,8,Brasilia (DF),Campo Grande (MS),firstClass,1069.61,0.72,277.7,Rainbow,02/17/2022
+947,8,Campo Grande (MS),Brasilia (DF),firstClass,870.91,0.72,277.7,Rainbow,02/20/2022
+948,8,Recife (PE),Natal (RN),economic,301.51,0.58,222.67,CloudFy,02/24/2022
+948,8,Natal (RN),Recife (PE),economic,429.77,0.58,222.67,CloudFy,02/28/2022
+949,8,Brasilia (DF),Aracaju (SE),firstClass,1214.82,1.11,425.98,Rainbow,03/03/2022
+949,8,Aracaju (SE),Brasilia (DF),firstClass,959.29,1.11,425.98,Rainbow,03/06/2022
+950,8,Aracaju (SE),Sao Paulo (SP),economic,446.73,1.02,392.76,Rainbow,03/10/2022
+950,8,Sao Paulo (SP),Aracaju (SE),economic,647.9,1.02,392.76,Rainbow,03/14/2022
+951,8,Recife (PE),Campo Grande (MS),firstClass,1038.95,1.39,535.4,FlyingDrops,03/17/2022
+951,8,Campo Grande (MS),Recife (PE),firstClass,1262.23,1.39,535.4,FlyingDrops,03/18/2022
+952,8,Aracaju (SE),Campo Grande (MS),firstClass,1389.37,1.69,650.1,CloudFy,03/24/2022
+952,8,Campo Grande (MS),Aracaju (SE),firstClass,1581.8,1.69,650.1,CloudFy,03/28/2022
+953,8,Brasilia (DF),Recife (PE),premium,568.38,0.63,242.21,CloudFy,03/31/2022
+953,8,Recife (PE),Brasilia (DF),premium,573.61,0.63,242.21,CloudFy,04/04/2022
+954,8,Brasilia (DF),Sao Paulo (SP),firstClass,893.65,0.67,257.81,CloudFy,04/07/2022
+954,8,Sao Paulo (SP),Brasilia (DF),firstClass,742.94,0.67,257.81,CloudFy,04/09/2022
+955,8,Brasilia (DF),Campo Grande (MS),premium,831.7,0.72,277.7,CloudFy,04/14/2022
+955,8,Campo Grande (MS),Brasilia (DF),premium,661.32,0.72,277.7,CloudFy,04/17/2022
+956,8,Brasilia (DF),Recife (PE),firstClass,772.21,0.63,242.21,Rainbow,04/21/2022
+956,8,Recife (PE),Brasilia (DF),firstClass,721.93,0.63,242.21,Rainbow,04/23/2022
+957,8,Recife (PE),Aracaju (SE),premium,932.22,1.44,555.74,Rainbow,04/28/2022
+957,8,Aracaju (SE),Recife (PE),premium,875.41,1.44,555.74,Rainbow,05/02/2022
+958,8,Brasilia (DF),Natal (RN),firstClass,1433.35,1.43,550.69,FlyingDrops,05/05/2022
+958,8,Natal (RN),Brasilia (DF),firstClass,1192.62,1.43,550.69,FlyingDrops,05/07/2022
+959,8,Brasilia (DF),Recife (PE),economic,432.1,0.63,242.21,CloudFy,05/12/2022
+959,8,Recife (PE),Brasilia (DF),economic,393.68,0.63,242.21,CloudFy,05/16/2022
+960,8,Recife (PE),Natal (RN),premium,474.6,0.58,222.67,CloudFy,05/19/2022
+960,8,Natal (RN),Recife (PE),premium,563.23,0.58,222.67,CloudFy,05/22/2022
+961,8,Aracaju (SE),Recife (PE),economic,602.49,1.44,555.74,Rainbow,05/26/2022
+961,8,Recife (PE),Aracaju (SE),economic,663.23,1.44,555.74,Rainbow,05/27/2022
+962,8,Aracaju (SE),Recife (PE),firstClass,1124.11,1.44,555.74,CloudFy,06/02/2022
+962,8,Recife (PE),Aracaju (SE),firstClass,1166.1,1.44,555.74,CloudFy,06/04/2022
+963,8,Aracaju (SE),Rio de Janeiro (RJ),firstClass,1190.94,1.55,597.61,FlyingDrops,06/09/2022
+963,8,Rio de Janeiro (RJ),Aracaju (SE),firstClass,1381.55,1.55,597.61,FlyingDrops,06/11/2022
+964,8,Brasilia (DF),Florianopolis (SC),economic,889.07,1.66,637.56,Rainbow,06/16/2022
+964,8,Florianopolis (SC),Brasilia (DF),economic,555.01,1.66,637.56,Rainbow,06/19/2022
+965,8,Aracaju (SE),Sao Paulo (SP),premium,630.34,1.02,392.76,CloudFy,06/23/2022
+965,8,Sao Paulo (SP),Aracaju (SE),premium,906.59,1.02,392.76,CloudFy,06/24/2022
+966,8,Recife (PE),Aracaju (SE),premium,932.22,1.44,555.74,Rainbow,06/30/2022
+966,8,Aracaju (SE),Recife (PE),premium,875.41,1.44,555.74,Rainbow,07/02/2022
+967,8,Recife (PE),Rio de Janeiro (RJ),firstClass,1611.14,2.3,885.57,Rainbow,07/07/2022
+967,8,Rio de Janeiro (RJ),Recife (PE),firstClass,1617.81,2.3,885.57,Rainbow,07/10/2022
+968,8,Brasilia (DF),Florianopolis (SC),firstClass,1487.52,1.66,637.56,CloudFy,07/14/2022
+968,8,Florianopolis (SC),Brasilia (DF),firstClass,1127.36,1.66,637.56,CloudFy,07/18/2022
+969,8,Recife (PE),Campo Grande (MS),firstClass,1069.12,1.39,535.4,Rainbow,07/21/2022
+969,8,Campo Grande (MS),Recife (PE),firstClass,1185.95,1.39,535.4,Rainbow,07/23/2022
+970,8,Recife (PE),Sao Paulo (SP),firstClass,980.83,1.26,486.52,Rainbow,07/28/2022
+970,8,Sao Paulo (SP),Recife (PE),firstClass,1573.5,1.26,486.52,Rainbow,07/29/2022
+971,8,Brasilia (DF),Aracaju (SE),premium,987.07,1.11,425.98,CloudFy,08/04/2022
+971,8,Aracaju (SE),Brasilia (DF),premium,755.62,1.11,425.98,CloudFy,08/06/2022
+972,8,Aracaju (SE),Recife (PE),premium,835.21,1.44,555.74,CloudFy,08/11/2022
+972,8,Recife (PE),Aracaju (SE),premium,932.84,1.44,555.74,CloudFy,08/14/2022
+973,8,Brasilia (DF),Natal (RN),firstClass,1433.35,1.43,550.69,FlyingDrops,08/18/2022
+973,8,Natal (RN),Brasilia (DF),firstClass,1192.62,1.43,550.69,FlyingDrops,08/21/2022
+974,8,Brasilia (DF),Florianopolis (SC),premium,1222.24,1.66,637.56,Rainbow,08/25/2022
+974,8,Florianopolis (SC),Brasilia (DF),premium,814.55,1.66,637.56,Rainbow,08/26/2022
+975,8,Brasilia (DF),Campo Grande (MS),premium,831.7,0.72,277.7,CloudFy,09/01/2022
+975,8,Campo Grande (MS),Brasilia (DF),premium,661.32,0.72,277.7,CloudFy,09/04/2022
+976,8,Aracaju (SE),Sao Paulo (SP),firstClass,752.27,1.02,392.76,Rainbow,09/08/2022
+976,8,Sao Paulo (SP),Aracaju (SE),firstClass,1159.84,1.02,392.76,Rainbow,09/10/2022
+977,8,Brasilia (DF),Recife (PE),premium,559.13,0.63,242.21,Rainbow,09/15/2022
+977,8,Recife (PE),Brasilia (DF),premium,638.63,0.63,242.21,Rainbow,09/19/2022
+978,8,Recife (PE),Sao Paulo (SP),premium,670.13,1.26,486.52,Rainbow,09/22/2022
+978,8,Sao Paulo (SP),Recife (PE),premium,1145.72,1.26,486.52,Rainbow,09/23/2022
+979,8,Brasilia (DF),Aracaju (SE),firstClass,1260.1,1.11,425.98,CloudFy,09/29/2022
+979,8,Aracaju (SE),Brasilia (DF),firstClass,957.68,1.11,425.98,CloudFy,09/30/2022
+980,8,Aracaju (SE),Rio de Janeiro (RJ),economic,712.64,1.55,597.61,Rainbow,10/06/2022
+980,8,Rio de Janeiro (RJ),Aracaju (SE),economic,734.09,1.55,597.61,Rainbow,10/10/2022
+981,8,Brasilia (DF),Aracaju (SE),economic,721.2,1.11,425.98,Rainbow,10/13/2022
+981,8,Aracaju (SE),Brasilia (DF),economic,548.62,1.11,425.98,Rainbow,10/15/2022
+982,8,Recife (PE),Salvador (BH),economic,842.11,2.05,788.55,CloudFy,10/20/2022
+982,8,Salvador (BH),Recife (PE),economic,767.27,2.05,788.55,CloudFy,10/23/2022
+983,8,Recife (PE),Salvador (BH),economic,861.68,2.05,788.55,Rainbow,10/27/2022
+983,8,Salvador (BH),Recife (PE),economic,751.37,2.05,788.55,Rainbow,10/30/2022
+984,8,Recife (PE),Aracaju (SE),firstClass,1181.19,1.44,555.74,Rainbow,11/03/2022
+984,8,Aracaju (SE),Recife (PE),firstClass,1119.47,1.44,555.74,Rainbow,11/07/2022
+985,8,Aracaju (SE),Recife (PE),firstClass,1119.47,1.44,555.74,Rainbow,11/10/2022
+985,8,Recife (PE),Aracaju (SE),firstClass,1181.19,1.44,555.74,Rainbow,11/13/2022
+986,8,Recife (PE),Rio de Janeiro (RJ),firstClass,1611.14,2.3,885.57,Rainbow,11/17/2022
+986,8,Rio de Janeiro (RJ),Recife (PE),firstClass,1617.81,2.3,885.57,Rainbow,11/21/2022
+987,8,Recife (PE),Aracaju (SE),economic,663.23,1.44,555.74,Rainbow,11/24/2022
+987,8,Aracaju (SE),Recife (PE),economic,602.49,1.44,555.74,Rainbow,11/25/2022
+988,8,Brasilia (DF),Salvador (BH),firstClass,1665.24,1.76,676.56,Rainbow,12/01/2022
+988,8,Salvador (BH),Brasilia (DF),firstClass,1040.84,1.76,676.56,Rainbow,12/05/2022
+989,8,Aracaju (SE),Sao Paulo (SP),economic,446.73,1.02,392.76,Rainbow,12/08/2022
+989,8,Sao Paulo (SP),Aracaju (SE),economic,647.9,1.02,392.76,Rainbow,12/10/2022
+990,8,Aracaju (SE),Florianopolis (SC),economic,869.13,2.1,808.85,CloudFy,12/15/2022
+990,8,Florianopolis (SC),Aracaju (SE),economic,879.1,2.1,808.85,CloudFy,12/17/2022
+991,8,Aracaju (SE),Recife (PE),premium,835.21,1.44,555.74,CloudFy,12/22/2022
+991,8,Recife (PE),Aracaju (SE),premium,932.84,1.44,555.74,CloudFy,12/26/2022
+992,8,Brasilia (DF),Campo Grande (MS),firstClass,1096.58,0.72,277.7,CloudFy,12/29/2022
+992,8,Campo Grande (MS),Brasilia (DF),firstClass,949.99,0.72,277.7,CloudFy,01/01/2023
+993,8,Aracaju (SE),Salvador (BH),premium,1288.79,2.16,830.86,CloudFy,01/05/2023
+993,8,Salvador (BH),Aracaju (SE),premium,1209.04,2.16,830.86,CloudFy,01/09/2023
+994,8,Aracaju (SE),Rio de Janeiro (RJ),firstClass,1190.94,1.55,597.61,FlyingDrops,01/12/2023
+994,8,Rio de Janeiro (RJ),Aracaju (SE),firstClass,1381.55,1.55,597.61,FlyingDrops,01/15/2023
+995,8,Recife (PE),Florianopolis (SC),premium,1070.54,1.76,676.53,Rainbow,01/19/2023
+995,8,Florianopolis (SC),Recife (PE),premium,1013.4,1.76,676.53,Rainbow,01/22/2023
+996,8,Recife (PE),Aracaju (SE),firstClass,1166.1,1.44,555.74,CloudFy,01/26/2023
+996,8,Aracaju (SE),Recife (PE),firstClass,1124.11,1.44,555.74,CloudFy,01/30/2023
+997,9,Brasilia (DF),Sao Paulo (SP),firstClass,992.17,0.67,257.81,Rainbow,09/26/2019
+997,9,Sao Paulo (SP),Brasilia (DF),firstClass,824.31,0.67,257.81,Rainbow,09/30/2019
+998,9,Aracaju (SE),Natal (RN),firstClass,549.96,0.46,176.33,Rainbow,10/03/2019
+998,9,Natal (RN),Aracaju (SE),firstClass,611.4,0.46,176.33,Rainbow,10/05/2019
+999,9,Aracaju (SE),Florianopolis (SC),premium,1174.97,2.1,808.85,CloudFy,10/10/2019
+999,9,Florianopolis (SC),Aracaju (SE),premium,1149.53,2.1,808.85,CloudFy,10/13/2019
+1000,9,Recife (PE),Sao Paulo (SP),premium,657.87,1.26,486.52,CloudFy,10/17/2019
